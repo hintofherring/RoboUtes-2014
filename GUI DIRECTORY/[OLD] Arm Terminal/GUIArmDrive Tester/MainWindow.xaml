@@ -1,0 +1,11 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:GUIArmDrive="clr-namespace:GUIArmDrive;assembly=GUIArmDrive" x:Class="GUIArmDrive_Tester.MainWindow"
+        Title="MainWindow" Height="414.179" Width="611.567">
+    <Grid>
+
+        <GUIArmDrive:GUIArmDrive x:Name="testControl" HorizontalAlignment="Left" Margin="37,10,0,-33" VerticalAlignment="Top" Height="343" Width="424"/>
+
+    </Grid>
+</Window>

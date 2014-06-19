@@ -1,0 +1,14 @@
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\commSocket\bin\Debug\commSocket.dll
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\commSocket\bin\Debug\commSocket.pdb
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\commSocket\bin\Debug\StringSocket.dll
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\commSocket\bin\Debug\StringSocket.pdb
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\commSocket\obj\Debug\commSock.csprojResolveAssemblyReference.cache
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\commSocket\obj\Debug\commSocket.dll
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\commSocket\obj\Debug\commSocket.pdb
+E:\MATTS STUFF\rocNetworking\commSocket\bin\Debug\commSocket.dll
+E:\MATTS STUFF\rocNetworking\commSocket\bin\Debug\commSocket.pdb
+E:\MATTS STUFF\rocNetworking\commSocket\bin\Debug\StringSocket.dll
+E:\MATTS STUFF\rocNetworking\commSocket\bin\Debug\StringSocket.pdb
+E:\MATTS STUFF\rocNetworking\commSocket\obj\Debug\commSock.csprojResolveAssemblyReference.cache
+E:\MATTS STUFF\rocNetworking\commSocket\obj\Debug\commSocket.dll
+E:\MATTS STUFF\rocNetworking\commSocket\obj\Debug\commSocket.pdb

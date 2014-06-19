@@ -1,0 +1,15 @@
+C:\Users\ROC\Documents\GitHub\ROC\rocOnboard\safeCommFeedViz Tester\bin\Debug\safeCommFeedViz Tester.exe.config
+C:\Users\ROC\Documents\GitHub\ROC\rocOnboard\safeCommFeedViz Tester\bin\Debug\safeCommFeedViz Tester.exe
+C:\Users\ROC\Documents\GitHub\ROC\rocOnboard\safeCommFeedViz Tester\bin\Debug\safeCommFeedViz Tester.pdb
+C:\Users\ROC\Documents\GitHub\ROC\rocOnboard\safeCommFeedViz Tester\bin\Debug\safeCommFeedViz.dll
+C:\Users\ROC\Documents\GitHub\ROC\rocOnboard\safeCommFeedViz Tester\bin\Debug\safeCommFeedViz.pdb
+C:\Users\ROC\Documents\GitHub\ROC\rocOnboard\safeCommFeedViz Tester\obj\Debug\safeCommFeedViz Tester.csprojResolveAssemblyReference.cache
+C:\Users\ROC\Documents\GitHub\ROC\rocOnboard\safeCommFeedViz Tester\obj\Debug\MainWindow.baml
+C:\Users\ROC\Documents\GitHub\ROC\rocOnboard\safeCommFeedViz Tester\obj\Debug\MainWindow.g.cs
+C:\Users\ROC\Documents\GitHub\ROC\rocOnboard\safeCommFeedViz Tester\obj\Debug\App.g.cs
+C:\Users\ROC\Documents\GitHub\ROC\rocOnboard\safeCommFeedViz Tester\obj\Debug\safeCommFeedViz Tester_MarkupCompile.cache
+C:\Users\ROC\Documents\GitHub\ROC\rocOnboard\safeCommFeedViz Tester\obj\Debug\safeCommFeedViz Tester.g.resources
+C:\Users\ROC\Documents\GitHub\ROC\rocOnboard\safeCommFeedViz Tester\obj\Debug\safeCommFeedViz_Tester.Properties.Resources.resources
+C:\Users\ROC\Documents\GitHub\ROC\rocOnboard\safeCommFeedViz Tester\obj\Debug\safeCommFeedViz Tester.csproj.GenerateResource.Cache
+C:\Users\ROC\Documents\GitHub\ROC\rocOnboard\safeCommFeedViz Tester\obj\Debug\safeCommFeedViz Tester.exe
+C:\Users\ROC\Documents\GitHub\ROC\rocOnboard\safeCommFeedViz Tester\obj\Debug\safeCommFeedViz Tester.pdb

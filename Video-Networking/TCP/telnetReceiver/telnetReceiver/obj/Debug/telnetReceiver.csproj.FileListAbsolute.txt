@@ -1,0 +1,13 @@
+c:\users\core\documents\visual studio 2012\Projects\telnetReceiver\telnetReceiver\bin\Debug\telnetReceiver.exe.config
+c:\users\core\documents\visual studio 2012\Projects\telnetReceiver\telnetReceiver\bin\Debug\telnetReceiver.exe
+c:\users\core\documents\visual studio 2012\Projects\telnetReceiver\telnetReceiver\bin\Debug\telnetReceiver.pdb
+c:\users\core\documents\visual studio 2012\Projects\telnetReceiver\telnetReceiver\obj\Debug\telnetReceiver.csprojResolveAssemblyReference.cache
+c:\users\core\documents\visual studio 2012\Projects\telnetReceiver\telnetReceiver\obj\Debug\MainWindow.baml
+c:\users\core\documents\visual studio 2012\Projects\telnetReceiver\telnetReceiver\obj\Debug\MainWindow.g.cs
+c:\users\core\documents\visual studio 2012\Projects\telnetReceiver\telnetReceiver\obj\Debug\App.g.cs
+c:\users\core\documents\visual studio 2012\Projects\telnetReceiver\telnetReceiver\obj\Debug\telnetReceiver_MarkupCompile.cache
+c:\users\core\documents\visual studio 2012\Projects\telnetReceiver\telnetReceiver\obj\Debug\telnetReceiver.g.resources
+c:\users\core\documents\visual studio 2012\Projects\telnetReceiver\telnetReceiver\obj\Debug\telnetReceiver.Properties.Resources.resources
+c:\users\core\documents\visual studio 2012\Projects\telnetReceiver\telnetReceiver\obj\Debug\telnetReceiver.csproj.GenerateResource.Cache
+c:\users\core\documents\visual studio 2012\Projects\telnetReceiver\telnetReceiver\obj\Debug\telnetReceiver.exe
+c:\users\core\documents\visual studio 2012\Projects\telnetReceiver\telnetReceiver\obj\Debug\telnetReceiver.pdb

@@ -1,0 +1,11 @@
+﻿<Window x:Class="logisticsMagnificationWindow.magnificationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="NA" Height="1440" Width="2560" WindowStyle="SingleBorderWindow" Loaded="Window_Loaded">
+    <Viewbox Stretch="Fill">
+        <Grid Height="1410" Width="2552">
+            <Image x:Name="magImage" HorizontalAlignment="Left" Height="1440" VerticalAlignment="Top" Width="2560" Stretch="Fill"/>
+
+        </Grid>
+    </Viewbox>
+</Window>

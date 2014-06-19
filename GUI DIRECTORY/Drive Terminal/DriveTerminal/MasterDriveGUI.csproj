@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EA07C115-50EA-49FC-BA28-4519D5F658D1}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DriveTerminal</RootNamespace>
+    <AssemblyName>DriveTerminal</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualStudio.Shell.Immutable.10.0, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\commFeedViz\commFeedViz.csproj">
+      <Project>{f470b85f-598a-4002-8191-111e9565f239}</Project>
+      <Name>commFeedViz</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\commSockServer\commSockServer.csproj">
+      <Project>{c3252112-2fad-46f9-a34a-609185a67747}</Project>
+      <Name>commSockServer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ConsoleOutput\ConsoleOutput.csproj">
+      <Project>{82932e9b-dbca-4e25-92be-0aecb0b8ef0f}</Project>
+      <Name>ConsoleOutput</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Deadzone\Deadzone.csproj">
+      <Project>{1498D0C1-72D4-443E-9EB7-A2911888EAAD}</Project>
+      <Name>Deadzone</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\driveTools\driveTools.csproj">
+      <Project>{f8d36943-8010-42e8-b84d-0b53eb4b67f2}</Project>
+      <Name>driveTools</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Inclinometer\Inclinometer\Inclinometer_Window.csproj">
+      <Project>{8573703E-093F-4FE6-84B8-C5615D4B17DA}</Project>
+      <Name>Inclinometer_Window</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Inclinometer\Pitch\Pitch.csproj">
+      <Project>{1E942067-76D4-4280-AFC2-B5945883CCA2}</Project>
+      <Name>Pitch</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Inclinometer\Roll\Roll.csproj">
+      <Project>{7016054E-75B4-459E-8236-3E73B8557F8D}</Project>
+      <Name>Roll</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LiveDriveData\LiveDriveData.csproj">
+      <Project>{3C481CD8-FDD5-4865-880F-DE5C537C4372}</Project>
+      <Name>LiveDriveData</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\liveXboxMonitor\liveXboxMonitor.csproj">
+      <Project>{7879ebef-6914-4e68-b410-b519cec4318e}</Project>
+      <Name>liveXboxMonitor</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\networkStatusIndicator\networkStatusIndicator.csproj">
+      <Project>{f169b9c3-3117-487d-a186-5b2ef9d71805}</Project>
+      <Name>networkStatusIndicator</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OculusOrientation\OculusOrientationLibrary.csproj">
+      <Project>{ef2dbaa7-4c19-4df9-9c18-5f5adb4d2d53}</Project>
+      <Name>OculusOrientationLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PilotPreferences\PilotPreferences.csproj">
+      <Project>{594EBB9F-15A4-4E82-869A-6713262EE74D}</Project>
+      <Name>PilotPreferences</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\toggleIndicator\toggleIndicator.csproj">
+      <Project>{c2dd09cf-4e6d-456b-ab71-752d4e354714}</Project>
+      <Name>toggleIndicator</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\videoSocketReceiver\videoSocketReceiverV2.csproj">
+      <Project>{ee8758ac-d9e0-49fc-84d2-7001bf588420}</Project>
+      <Name>videoSocketReceiverV2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\videoViewerWindow\videoViewerWindow.csproj">
+      <Project>{c84eb84b-52bd-4d3e-a646-5696e525f499}</Project>
+      <Name>videoViewerWindow</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WheelMonitor\WheelMonitor.csproj">
+      <Project>{F88D4E04-95A9-4F90-8C63-0C67972414F2}</Project>
+      <Name>WheelMonitor</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\XboxController\XboxController.csproj">
+      <Project>{cac2902b-97fd-483e-b362-39e244aa1ace}</Project>
+      <Name>XboxController</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

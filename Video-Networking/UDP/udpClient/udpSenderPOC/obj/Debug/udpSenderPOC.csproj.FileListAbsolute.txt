@@ -1,0 +1,15 @@
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpClient\udpSenderPOC\bin\Debug\udpSenderPOC.exe.config
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpClient\udpSenderPOC\bin\Debug\udpSenderPOC.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpClient\udpSenderPOC\bin\Debug\udpSenderPOC.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpClient\udpSenderPOC\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpClient\udpSenderPOC\bin\Debug\AForge.Video.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpClient\udpSenderPOC\obj\Debug\udpSenderPOC.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpClient\udpSenderPOC\obj\Debug\MainWindow.baml
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpClient\udpSenderPOC\obj\Debug\MainWindow.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpClient\udpSenderPOC\obj\Debug\App.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpClient\udpSenderPOC\obj\Debug\udpSenderPOC_MarkupCompile.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpClient\udpSenderPOC\obj\Debug\udpSenderPOC.g.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpClient\udpSenderPOC\obj\Debug\udpSenderPOC.Properties.Resources.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpClient\udpSenderPOC\obj\Debug\udpSenderPOC.csproj.GenerateResource.Cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpClient\udpSenderPOC\obj\Debug\udpSenderPOC.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpClient\udpSenderPOC\obj\Debug\udpSenderPOC.pdb

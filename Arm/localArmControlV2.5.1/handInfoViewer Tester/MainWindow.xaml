@@ -1,0 +1,9 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:powerBar="clr-namespace:powerBar;assembly=powerBar" xmlns:handInfoViewer="clr-namespace:handInfoViewer;assembly=handInfoViewer" x:Class="handInfoViewer_Tester.MainWindow"
+        Title="MainWindow" Height="350" Width="525" Closed="Window_Closed">
+    <Grid>
+        <handInfoViewer:ToolboxControl HorizontalAlignment="Left" Margin="23,41,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

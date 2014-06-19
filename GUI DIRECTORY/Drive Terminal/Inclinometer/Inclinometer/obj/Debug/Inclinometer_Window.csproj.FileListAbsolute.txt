@@ -1,0 +1,138 @@
+D:\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Inclinometer.dll
+D:\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Inclinometer.pdb
+D:\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Inclinometer.pkgdef
+D:\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Inclinometer.vsix
+D:\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\extension.vsixmanifest
+D:\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Pitch.dll
+D:\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Roll.dll
+D:\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\toggleIndicator.dll
+D:\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\toggleIndicator.pdb
+D:\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Pitch.pdb
+D:\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Roll.pdb
+D:\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer_Window.csprojResolveAssemblyReference.cache
+D:\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\ToolboxControl.baml
+D:\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\ToolboxControl.g.cs
+D:\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer_MarkupCompile.cache
+D:\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.g.resources
+D:\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.Properties.Resources.resources
+D:\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer_Window.csproj.GenerateResource.Cache
+D:\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.dll
+D:\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.pdb
+D:\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.pkgdef
+D:\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.latest.pkgdef
+D:\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\extension.vsixmanifest
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Inclinometer.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Inclinometer.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Inclinometer.pkgdef
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Inclinometer.vsix
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\extension.vsixmanifest
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Pitch.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Roll.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\toggleIndicator.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\toggleIndicator.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Pitch.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Roll.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer_Window.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\ToolboxControl.baml
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\ToolboxControl.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer_MarkupCompile.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.g.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.Properties.Resources.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer_Window.csproj.GenerateResource.Cache
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.pkgdef
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.latest.pkgdef
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\extension.vsixmanifest
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Inclinometer.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Inclinometer.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Inclinometer.pkgdef
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Inclinometer.vsix
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\extension.vsixmanifest
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Pitch.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Roll.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\toggleIndicator.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\toggleIndicator.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Pitch.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Roll.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer_Window.csprojResolveAssemblyReference.cache
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\ToolboxControl.baml
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\ToolboxControl.g.cs
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer_MarkupCompile.cache
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.g.resources
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.Properties.Resources.resources
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer_Window.csproj.GenerateResource.Cache
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.pkgdef
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.latest.pkgdef
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\extension.vsixmanifest
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Inclinometer.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Inclinometer.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Inclinometer.pkgdef
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Inclinometer.vsix
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\extension.vsixmanifest
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Pitch.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Roll.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\toggleIndicator.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\toggleIndicator.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Pitch.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Roll.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer_Window.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\ToolboxControl.baml
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\ToolboxControl.g.cs
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer_MarkupCompile.cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.g.resources
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.Properties.Resources.resources
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer_Window.csproj.GenerateResource.Cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.pkgdef
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.latest.pkgdef
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\extension.vsixmanifest
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Inclinometer.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Inclinometer.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Inclinometer.pkgdef
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Inclinometer.vsix
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\extension.vsixmanifest
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Pitch.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Roll.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\toggleIndicator.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\toggleIndicator.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Pitch.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Roll.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer_Window.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\ToolboxControl.baml
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\ToolboxControl.g.cs
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer_MarkupCompile.cache
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.g.resources
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.Properties.Resources.resources
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer_Window.csproj.GenerateResource.Cache
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.pkgdef
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.latest.pkgdef
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\extension.vsixmanifest
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Inclinometer.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Inclinometer.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Inclinometer.pkgdef
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Inclinometer.vsix
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\extension.vsixmanifest
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Pitch.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Roll.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\toggleIndicator.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\toggleIndicator.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Pitch.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\bin\Debug\Roll.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer_Window.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\ToolboxControl.baml
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\ToolboxControl.g.cs
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer_MarkupCompile.cache
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.g.resources
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.Properties.Resources.resources
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer_Window.csproj.GenerateResource.Cache
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.pkgdef
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\Inclinometer.latest.pkgdef
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\Inclinometer\Inclinometer\obj\Debug\extension.vsixmanifest

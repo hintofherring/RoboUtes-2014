@@ -1,0 +1,11 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Macros="clr-namespace:Macros;assembly=Macros" x:Class="Macros_Tester.MainWindow"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+
+        <Macros:Macros x:Name="testMacroPanel" HorizontalAlignment="Left" Margin="29,50,0,0" VerticalAlignment="Top" Height="244" Width="388"/>
+
+    </Grid>
+</Window>

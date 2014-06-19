@@ -1,0 +1,42 @@
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\ArmVisionComponents\ArmVisionComponents Tester\bin\Debug\ArmVisionComponents Tester.exe.config
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\ArmVisionComponents\ArmVisionComponents Tester\bin\Debug\ArmVisionComponents Tester.exe
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\ArmVisionComponents\ArmVisionComponents Tester\bin\Debug\ArmVisionComponents Tester.pdb
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\ArmVisionComponents\ArmVisionComponents Tester\obj\Debug\ArmVisionComponents Tester.csprojResolveAssemblyReference.cache
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\ArmVisionComponents\ArmVisionComponents Tester\obj\Debug\MainWindow.baml
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\ArmVisionComponents\ArmVisionComponents Tester\obj\Debug\MainWindow.g.cs
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\ArmVisionComponents\ArmVisionComponents Tester\obj\Debug\App.g.cs
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\ArmVisionComponents\ArmVisionComponents Tester\obj\Debug\ArmVisionComponents Tester_MarkupCompile.cache
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\ArmVisionComponents\ArmVisionComponents Tester\obj\Debug\ArmVisionComponents Tester.g.resources
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\ArmVisionComponents\ArmVisionComponents Tester\obj\Debug\ArmVisionComponents_Tester.Properties.Resources.resources
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\ArmVisionComponents\ArmVisionComponents Tester\obj\Debug\ArmVisionComponents Tester.csproj.GenerateResource.Cache
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\ArmVisionComponents\ArmVisionComponents Tester\obj\Debug\ArmVisionComponents Tester.exe
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\ArmVisionComponents\ArmVisionComponents Tester\obj\Debug\ArmVisionComponents Tester.pdb
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\ArmVisionComponents\ArmVisionComponents Tester\bin\Debug\ArmVisionComponents.dll
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\ArmVisionComponents\ArmVisionComponents Tester\bin\Debug\ArmVisionComponents.pdb
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\ArmVisionComponents\ArmVisionComponents Tester\bin\Debug\AForge.Controls.dll
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\ArmVisionComponents\ArmVisionComponents Tester\bin\Debug\AForge.Video.dll
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\ArmVisionComponents\ArmVisionComponents Tester\bin\Debug\AForge.dll
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\ArmVisionComponents\ArmVisionComponents Tester\bin\Debug\AForge.Imaging.dll
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\ArmVisionComponents\ArmVisionComponents Tester\bin\Debug\AForge.Math.dll
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\ArmVisionComponents\ArmVisionComponents Tester\bin\Debug\AForge.xml
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\ArmVisionComponents\ArmVisionComponents Tester\bin\Debug\AForge.Imaging.xml
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\ArmVisionComponents\ArmVisionComponents Tester\bin\Debug\AForge.Math.xml
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\ArmVisionComponents\ArmVisionComponents Tester\bin\Debug\AForge.Controls.xml
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\ArmVisionComponents\ArmVisionComponents Tester\bin\Debug\AForge.Video.xml
+D:\GUI DIRECTORY\Arm Terminal\ArmVisionComponents\ArmVisionComponents Tester\bin\Debug\ArmVisionComponents Tester.exe.config
+D:\GUI DIRECTORY\Arm Terminal\ArmVisionComponents\ArmVisionComponents Tester\bin\Debug\ArmVisionComponents Tester.exe
+D:\GUI DIRECTORY\Arm Terminal\ArmVisionComponents\ArmVisionComponents Tester\bin\Debug\ArmVisionComponents Tester.pdb
+D:\GUI DIRECTORY\Arm Terminal\ArmVisionComponents\ArmVisionComponents Tester\bin\Debug\AForge.Controls.dll
+D:\GUI DIRECTORY\Arm Terminal\ArmVisionComponents\ArmVisionComponents Tester\bin\Debug\AForge.Video.dll
+D:\GUI DIRECTORY\Arm Terminal\ArmVisionComponents\ArmVisionComponents Tester\bin\Debug\ArmVisionComponents.dll
+D:\GUI DIRECTORY\Arm Terminal\ArmVisionComponents\ArmVisionComponents Tester\bin\Debug\ArmVisionComponents.pdb
+D:\GUI DIRECTORY\Arm Terminal\ArmVisionComponents\ArmVisionComponents Tester\obj\Debug\ArmVisionComponents Tester.csprojResolveAssemblyReference.cache
+D:\GUI DIRECTORY\Arm Terminal\ArmVisionComponents\ArmVisionComponents Tester\obj\Debug\MainWindow.baml
+D:\GUI DIRECTORY\Arm Terminal\ArmVisionComponents\ArmVisionComponents Tester\obj\Debug\MainWindow.g.cs
+D:\GUI DIRECTORY\Arm Terminal\ArmVisionComponents\ArmVisionComponents Tester\obj\Debug\App.g.cs
+D:\GUI DIRECTORY\Arm Terminal\ArmVisionComponents\ArmVisionComponents Tester\obj\Debug\ArmVisionComponents Tester_MarkupCompile.cache
+D:\GUI DIRECTORY\Arm Terminal\ArmVisionComponents\ArmVisionComponents Tester\obj\Debug\ArmVisionComponents Tester.g.resources
+D:\GUI DIRECTORY\Arm Terminal\ArmVisionComponents\ArmVisionComponents Tester\obj\Debug\ArmVisionComponents_Tester.Properties.Resources.resources
+D:\GUI DIRECTORY\Arm Terminal\ArmVisionComponents\ArmVisionComponents Tester\obj\Debug\ArmVisionComponents Tester.csproj.GenerateResource.Cache
+D:\GUI DIRECTORY\Arm Terminal\ArmVisionComponents\ArmVisionComponents Tester\obj\Debug\ArmVisionComponents Tester.exe
+D:\GUI DIRECTORY\Arm Terminal\ArmVisionComponents\ArmVisionComponents Tester\obj\Debug\ArmVisionComponents Tester.pdb

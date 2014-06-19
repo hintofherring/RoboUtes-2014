@@ -1,0 +1,57 @@
+D:\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\bin\Debug\ArmVideoComponent Tester.exe.config
+D:\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\obj\Debug\ArmVideoComponent Tester.csprojResolveAssemblyReference.cache
+D:\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\obj\Debug\MainWindow.baml
+D:\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\obj\Debug\MainWindow.g.cs
+D:\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\obj\Debug\App.g.cs
+D:\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\obj\Debug\ArmVideoComponent Tester_MarkupCompile.cache
+D:\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\obj\Debug\ArmVideoComponent Tester.g.resources
+D:\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\obj\Debug\ArmVideoComponent_Tester.Properties.Resources.resources
+D:\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\obj\Debug\ArmVideoComponent Tester.csproj.GenerateResource.Cache
+D:\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\bin\Debug\AForge.Video.dll
+D:\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\bin\Debug\ArmVideoComponent Tester.exe
+D:\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\bin\Debug\ArmVideoComponent Tester.pdb
+D:\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\bin\Debug\ArmVideoComponent.dll
+D:\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\bin\Debug\ArmVideoComponent.pdb
+D:\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\obj\Debug\ArmVideoComponent Tester.exe
+D:\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\obj\Debug\ArmVideoComponent Tester.pdb
+D:\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\bin\Debug\AForge.dll
+D:\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\bin\Debug\AForge.xml
+D:\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\bin\Debug\ArmVideoComponent Tester.exe.config
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\obj\Debug\ArmVideoComponent Tester.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\obj\Debug\ArmVideoComponent Tester.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\bin\Debug\AForge.Video.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\bin\Debug\ArmVideoComponent Tester.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\bin\Debug\ArmVideoComponent Tester.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\bin\Debug\ArmVideoComponent.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\bin\Debug\AForge.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\bin\Debug\ArmVideoComponent.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\bin\Debug\AForge.xml
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\obj\Debug\ArmVideoComponent Tester.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\obj\Debug\MainWindow.baml
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\obj\Debug\MainWindow.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\obj\Debug\App.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\obj\Debug\ArmVideoComponent Tester_MarkupCompile.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\obj\Debug\ArmVideoComponent Tester.g.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\obj\Debug\ArmVideoComponent_Tester.Properties.Resources.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\obj\Debug\ArmVideoComponent Tester.csproj.GenerateResource.Cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\bin\Debug\AForge.Video.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\bin\Debug\ArmVideoComponent Tester.exe.config
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\bin\Debug\ArmVideoComponent Tester.exe
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\bin\Debug\ArmVideoComponent Tester.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\bin\Debug\ArmVideoComponent.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\bin\Debug\AForge.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\bin\Debug\ArmVideoComponent.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\bin\Debug\AForge.xml
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\obj\Debug\ArmVideoComponent Tester.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\obj\Debug\MainWindow.baml
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\obj\Debug\MainWindow.g.cs
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\obj\Debug\App.g.cs
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\obj\Debug\ArmVideoComponent Tester_MarkupCompile.cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\obj\Debug\ArmVideoComponent Tester.g.resources
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\obj\Debug\ArmVideoComponent_Tester.Properties.Resources.resources
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\obj\Debug\ArmVideoComponent Tester.csproj.GenerateResource.Cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\obj\Debug\ArmVideoComponent Tester.exe
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\ArmVideoComponent Tester\obj\Debug\ArmVideoComponent Tester.pdb

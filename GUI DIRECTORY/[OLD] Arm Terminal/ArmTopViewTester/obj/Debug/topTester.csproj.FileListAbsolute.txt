@@ -1,0 +1,15 @@
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\ArmSideView\topTester\bin\Debug\topTester.exe.config
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\ArmSideView\topTester\bin\Debug\topTester.exe
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\ArmSideView\topTester\bin\Debug\topTester.pdb
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\ArmSideView\topTester\bin\Debug\ArmTopView.dll
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\ArmSideView\topTester\bin\Debug\ArmTopView.pdb
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\ArmSideView\topTester\obj\Debug\topTester.csprojResolveAssemblyReference.cache
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\ArmSideView\topTester\obj\Debug\MainWindow.baml
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\ArmSideView\topTester\obj\Debug\MainWindow.g.cs
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\ArmSideView\topTester\obj\Debug\App.g.cs
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\ArmSideView\topTester\obj\Debug\topTester_MarkupCompile.cache
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\ArmSideView\topTester\obj\Debug\topTester.g.resources
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\ArmSideView\topTester\obj\Debug\topTester.Properties.Resources.resources
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\ArmSideView\topTester\obj\Debug\topTester.csproj.GenerateResource.Cache
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\ArmSideView\topTester\obj\Debug\topTester.exe
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\ArmSideView\topTester\obj\Debug\topTester.pdb

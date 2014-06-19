@@ -1,0 +1,102 @@
+D:\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\bin\Debug\liveXboxMonitor.dll
+D:\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\bin\Debug\liveXboxMonitor.pdb
+D:\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\bin\Debug\liveXboxMonitor.pkgdef
+D:\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\bin\Debug\liveXboxMonitor.vsix
+D:\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\bin\Debug\extension.vsixmanifest
+D:\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.csprojResolveAssemblyReference.cache
+D:\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\ToolboxControl.baml
+D:\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\ToolboxControl.g.cs
+D:\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor_MarkupCompile.cache
+D:\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.g.resources
+D:\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.Properties.Resources.resources
+D:\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.csproj.GenerateResource.Cache
+D:\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.dll
+D:\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.pdb
+D:\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.pkgdef
+D:\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.latest.pkgdef
+D:\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\extension.vsixmanifest
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\bin\Debug\liveXboxMonitor.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\bin\Debug\liveXboxMonitor.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\bin\Debug\liveXboxMonitor.pkgdef
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\bin\Debug\liveXboxMonitor.vsix
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\bin\Debug\extension.vsixmanifest
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\ToolboxControl.baml
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\ToolboxControl.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor_MarkupCompile.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.g.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.Properties.Resources.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.csproj.GenerateResource.Cache
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.pkgdef
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.latest.pkgdef
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\extension.vsixmanifest
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.csprojResolveAssemblyReference.cache
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\bin\Debug\liveXboxMonitor.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\bin\Debug\liveXboxMonitor.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\bin\Debug\liveXboxMonitor.pkgdef
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\bin\Debug\liveXboxMonitor.vsix
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\bin\Debug\extension.vsixmanifest
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\ToolboxControl.baml
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\ToolboxControl.g.cs
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor_MarkupCompile.cache
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.g.resources
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.Properties.Resources.resources
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.csproj.GenerateResource.Cache
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.pkgdef
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.latest.pkgdef
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\extension.vsixmanifest
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\bin\Debug\liveXboxMonitor.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\bin\Debug\liveXboxMonitor.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\bin\Debug\liveXboxMonitor.pkgdef
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\bin\Debug\liveXboxMonitor.vsix
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\bin\Debug\extension.vsixmanifest
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\ToolboxControl.baml
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\ToolboxControl.g.cs
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor_MarkupCompile.cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.g.resources
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.Properties.Resources.resources
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.csproj.GenerateResource.Cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.pkgdef
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.latest.pkgdef
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\extension.vsixmanifest
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\bin\Debug\liveXboxMonitor.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\bin\Debug\liveXboxMonitor.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\bin\Debug\liveXboxMonitor.pkgdef
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\bin\Debug\liveXboxMonitor.vsix
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\bin\Debug\extension.vsixmanifest
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\ToolboxControl.baml
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\ToolboxControl.g.cs
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor_MarkupCompile.cache
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.g.resources
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.Properties.Resources.resources
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.csproj.GenerateResource.Cache
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.pkgdef
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.latest.pkgdef
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\extension.vsixmanifest
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\bin\Debug\liveXboxMonitor.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\bin\Debug\liveXboxMonitor.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\bin\Debug\liveXboxMonitor.pkgdef
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\bin\Debug\liveXboxMonitor.vsix
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\bin\Debug\extension.vsixmanifest
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\ToolboxControl.baml
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\ToolboxControl.g.cs
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor_MarkupCompile.cache
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.g.resources
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.Properties.Resources.resources
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.csproj.GenerateResource.Cache
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.pkgdef
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\liveXboxMonitor.latest.pkgdef
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\liveXboxMonitor\obj\Debug\extension.vsixmanifest

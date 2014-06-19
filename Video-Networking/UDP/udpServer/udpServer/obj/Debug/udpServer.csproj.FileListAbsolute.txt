@@ -1,0 +1,6 @@
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\udpServer\udpServer\bin\Debug\udpServer.exe.config
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\udpServer\udpServer\bin\Debug\udpServer.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\udpServer\udpServer\bin\Debug\udpServer.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\udpServer\udpServer\obj\Debug\udpServer.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\udpServer\udpServer\obj\Debug\udpServer.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\udpServer\udpServer\obj\Debug\udpServer.pdb

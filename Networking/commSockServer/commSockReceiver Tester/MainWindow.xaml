@@ -1,0 +1,11 @@
+﻿<Window x:Class="commSockReceiver_Tester.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox x:Name="receivedDataBox" VerticalScrollBarVisibility="Auto" HorizontalAlignment="Left" Height="265" Margin="10,10,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="275"/>
+        <Button x:Name="sendDataButton" Content="Send Stuff" HorizontalAlignment="Left" Margin="329,101,0,0" VerticalAlignment="Top" Width="75" Click="sendDataButton_Click"/>
+        <Button x:Name="floodButton" Content="FLOOD" HorizontalAlignment="Left" Margin="329,157,0,0" VerticalAlignment="Top" Width="75" Click="floodButton_Click"/>
+
+    </Grid>
+</Window>

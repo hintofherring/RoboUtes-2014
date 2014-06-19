@@ -1,0 +1,21 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:LiveDriveData="clr-namespace:LiveDriveData;assembly=LiveDriveData" xmlns:PilotPreferences="clr-namespace:PilotPreferences;assembly=PilotPreferences" xmlns:Inclinometer="clr-namespace:Inclinometer;assembly=Inclinometer" xmlns:ConsoleOutput="clr-namespace:ConsoleOutput;assembly=ConsoleOutput" xmlns:commFeedViz="clr-namespace:commFeedViz;assembly=commFeedViz" xmlns:networkStatusIndicator="clr-namespace:networkStatusIndicator;assembly=networkStatusIndicator" xmlns:Deadzone="clr-namespace:Deadzone;assembly=Deadzone" x:Class="DriveTerminal.MainWindow"
+        Title="MainWindow" Height="723" Width="1253" Closing="Window_Closing" Loaded="Window_Loaded_1">
+    <Viewbox Stretch="Fill">
+        <Grid Background="Black" Height="693" Width="1245">
+
+
+
+
+            <commFeedViz:commFeedViz x:Name="commViz" HorizontalAlignment="Left" Margin="197,492,0,0" VerticalAlignment="Top" Height="201" Width="241" title="COM"/>
+            <PilotPreferences:ToolboxControl x:Name="pilotPreferences" HorizontalAlignment="Left" Margin="438,394,0,0" VerticalAlignment="Top" Height="299" Width="807"/>
+
+            <networkStatusIndicator:ToolboxControl x:Name="connectionIndicator" HorizontalAlignment="Left" Margin="438,302,0,0" VerticalAlignment="Top" Height="92"/>
+            <Inclinometer:ToolboxControl HorizontalAlignment="Left" Margin="0,492,0,0" VerticalAlignment="Top" Height="201" Width="197"/>
+            <LiveDriveData:ToolboxControl HorizontalAlignment="Left" VerticalAlignment="Top" Height="492" Width="438"/>
+
+        </Grid>
+    </Viewbox>
+</Window>

@@ -1,0 +1,21 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:commFeedViz="clr-namespace:commFeedViz;assembly=commFeedViz" xmlns:liveXboxMonitorV2="clr-namespace:liveXboxMonitorV2;assembly=liveXboxMonitorV2" xmlns:ArmSideView="clr-namespace:ArmSideView;assembly=ArmSideView" xmlns:ArmTopView="clr-namespace:ArmTopView;assembly=ArmTopView" xmlns:handInfoViewer="clr-namespace:handInfoViewer;assembly=handInfoViewer" x:Class="localArmControl.MainWindow"
+        Title="MainWindow" Height="570" Width="1702.5" Closing="Window_Closing">
+    <Grid>
+        <commFeedViz:commFeedViz x:Name="armComOut" HorizontalAlignment="Left" Margin="10,318,0,0" VerticalAlignment="Top" Height="210" Width="298" title="ARM COM OUT"/>
+        <commFeedViz:commFeedViz x:Name="armComIn" HorizontalAlignment="Left" Margin="308,318,0,0" VerticalAlignment="Top" Height="210" Width="298" title="ARM COM IN"/>
+        <commFeedViz:commFeedViz x:Name="handComOut" HorizontalAlignment="Left" Margin="611,318,0,0" VerticalAlignment="Top" Height="210" Width="298" title="HAND COM OUT"/>
+        <commFeedViz:commFeedViz x:Name="handComIn" HorizontalAlignment="Left" Margin="909,318,0,0" VerticalAlignment="Top" Height="210" Width="298" title="HAND COM IN"/>
+        <commFeedViz:commFeedViz x:Name="consoleViz" HorizontalAlignment="Left" Margin="1212,318,0,0" VerticalAlignment="Top" Height="207" Width="298" title="CONSOLE"/>
+
+        <liveXboxMonitorV2:ToolboxControl x:Name="xboxControllerMonitor" HorizontalAlignment="Left" Margin="769,10,0,0" VerticalAlignment="Top" Width="438"/>
+
+        <ArmSideView:ArmSide x:Name="armSideView" HorizontalAlignment="Left" Margin="15,31,0,0" VerticalAlignment="Top" Height="287"/>
+        <ArmTopView:ArmTop x:Name="armTopView" HorizontalAlignment="Left" Margin="359,31,0,0" VerticalAlignment="Top" Height="287"/>
+
+        <handInfoViewer:ToolboxControl x:Name="wristComponent" HorizontalAlignment="Left" Margin="1207,46,0,0" VerticalAlignment="Top" Width="467"/>
+
+    </Grid>
+</Window>

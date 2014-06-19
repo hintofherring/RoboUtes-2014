@@ -1,0 +1,11 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:safeCommFeedViz="clr-namespace:safeCommFeedViz;assembly=safeCommFeedViz" x:Name="mainWindow" x:Class="safeCommFeedViz_Tester.MainWindow"
+        Title="MainWindow" Height="566.418" Width="572.761">
+    <Grid>
+
+        <safeCommFeedViz:ToolboxControl x:Name="testSafeCommFeedViz" HorizontalAlignment="Left" Margin="129,122,0,-79" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

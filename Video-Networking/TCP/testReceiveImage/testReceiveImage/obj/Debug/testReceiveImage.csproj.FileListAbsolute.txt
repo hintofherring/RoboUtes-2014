@@ -1,0 +1,5 @@
+c:\users\core\documents\visual studio 2012\Projects\testReceiveImage\testReceiveImage\bin\Debug\testReceiveImage.exe.config
+c:\users\core\documents\visual studio 2012\Projects\testReceiveImage\testReceiveImage\bin\Debug\testReceiveImage.exe
+c:\users\core\documents\visual studio 2012\Projects\testReceiveImage\testReceiveImage\bin\Debug\testReceiveImage.pdb
+c:\users\core\documents\visual studio 2012\Projects\testReceiveImage\testReceiveImage\obj\Debug\testReceiveImage.exe
+c:\users\core\documents\visual studio 2012\Projects\testReceiveImage\testReceiveImage\obj\Debug\testReceiveImage.pdb

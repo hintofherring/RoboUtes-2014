@@ -1,0 +1,30 @@
+C:\Users\CORE\Documents\Visual Studio 2012\Projects\ArduinoLibrary\ArduinoLibrary\bin\Debug\ArduinoLibrary.dll
+C:\Users\CORE\Documents\Visual Studio 2012\Projects\ArduinoLibrary\ArduinoLibrary\bin\Debug\ArduinoLibrary.pdb
+C:\Users\CORE\Documents\Visual Studio 2012\Projects\ArduinoLibrary\ArduinoLibrary\obj\Debug\ArduinoLibrary.dll
+C:\Users\CORE\Documents\Visual Studio 2012\Projects\ArduinoLibrary\ArduinoLibrary\obj\Debug\ArduinoLibrary.pdb
+C:\Users\CORE\Documents\Visual Studio 2012\Projects\ArduinoLibrary\ArduinoLibrary\obj\Debug\ArduinoLibrary.csprojResolveAssemblyReference.cache
+D:\GUI DIRECTORY\Arm Terminal\ArduinoLibrary\bin\Debug\ArduinoLibrary.dll
+D:\GUI DIRECTORY\Arm Terminal\ArduinoLibrary\bin\Debug\ArduinoLibrary.pdb
+D:\GUI DIRECTORY\Arm Terminal\ArduinoLibrary\obj\Debug\ArduinoLibrary.dll
+D:\GUI DIRECTORY\Arm Terminal\ArduinoLibrary\obj\Debug\ArduinoLibrary.pdb
+D:\GUI DIRECTORY\Arm Terminal\ArduinoLibrary\obj\Debug\ArduinoLibrary.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArduinoLibrary\bin\Debug\ArduinoLibrary.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArduinoLibrary\bin\Debug\ArduinoLibrary.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArduinoLibrary\obj\Debug\ArduinoLibrary.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArduinoLibrary\obj\Debug\ArduinoLibrary.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArduinoLibrary\obj\Debug\ArduinoLibrary.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\ArduinoLibrary\bin\Debug\ArduinoLibrary.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\ArduinoLibrary\bin\Debug\ArduinoLibrary.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\ArduinoLibrary\obj\Debug\ArduinoLibrary.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\ArduinoLibrary\obj\Debug\ArduinoLibrary.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\ArduinoLibrary\obj\Debug\ArduinoLibrary.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\wristDemo\wristControlDevelopment\ArduinoLibrary\bin\Debug\ArduinoLibrary.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\wristDemo\wristControlDevelopment\ArduinoLibrary\bin\Debug\ArduinoLibrary.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\wristDemo\wristControlDevelopment\ArduinoLibrary\obj\Debug\ArduinoLibrary.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\wristDemo\wristControlDevelopment\ArduinoLibrary\obj\Debug\ArduinoLibrary.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\wristDemo\wristControlDevelopment\ArduinoLibrary\obj\Debug\ArduinoLibrary.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\wristDemo\wristControlDevelopment\ArduinoLibrary\bin\Debug\ArduinoLibrary.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\wristDemo\wristControlDevelopment\ArduinoLibrary\bin\Debug\ArduinoLibrary.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\wristDemo\wristControlDevelopment\ArduinoLibrary\obj\Debug\ArduinoLibrary.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\wristDemo\wristControlDevelopment\ArduinoLibrary\obj\Debug\ArduinoLibrary.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\wristDemo\wristControlDevelopment\ArduinoLibrary\obj\Debug\ArduinoLibrary.pdb

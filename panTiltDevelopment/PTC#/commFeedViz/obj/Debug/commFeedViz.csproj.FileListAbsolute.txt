@@ -1,0 +1,84 @@
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz\bin\Debug\commFeedViz.dll
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz\bin\Debug\commFeedViz.pdb
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz\bin\Debug\commFeedViz.pkgdef
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz\bin\Debug\commFeedViz.vsix
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz\bin\Debug\extension.vsixmanifest
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz\obj\Debug\ToolboxControl.baml
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz\obj\Debug\ToolboxControl.g.cs
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz\obj\Debug\commFeedViz_MarkupCompile.cache
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz\obj\Debug\commFeedViz.g.resources
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz\obj\Debug\commFeedViz.Properties.Resources.resources
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz\obj\Debug\commFeedViz.csproj.GenerateResource.Cache
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz\obj\Debug\commFeedViz.dll
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz\obj\Debug\commFeedViz.pdb
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz\obj\Debug\commFeedViz.pkgdef
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz\obj\Debug\commFeedViz.latest.pkgdef
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz\obj\Debug\extension.vsixmanifest
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz\obj\Debug\commFeedViz.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz\bin\Debug\commFeedViz.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz\bin\Debug\commFeedViz.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz\bin\Debug\commFeedViz.pkgdef
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz\bin\Debug\commFeedViz.vsix
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz\bin\Debug\extension.vsixmanifest
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz\obj\Debug\commFeedViz.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz\obj\Debug\ToolboxControl.baml
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz\obj\Debug\ToolboxControl.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz\obj\Debug\commFeedViz_MarkupCompile.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz\obj\Debug\commFeedViz.g.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz\obj\Debug\commFeedViz.Properties.Resources.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz\obj\Debug\commFeedViz.csproj.GenerateResource.Cache
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz\obj\Debug\commFeedViz.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz\obj\Debug\commFeedViz.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz\obj\Debug\commFeedViz.pkgdef
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz\obj\Debug\commFeedViz.latest.pkgdef
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz\obj\Debug\extension.vsixmanifest
+C:\Users\MonahanWork\Desktop\panTiltDevelopment\PTC#\commFeedViz\bin\Debug\commFeedViz.dll
+C:\Users\MonahanWork\Desktop\panTiltDevelopment\PTC#\commFeedViz\bin\Debug\commFeedViz.pdb
+C:\Users\MonahanWork\Desktop\panTiltDevelopment\PTC#\commFeedViz\bin\Debug\commFeedViz.pkgdef
+C:\Users\MonahanWork\Desktop\panTiltDevelopment\PTC#\commFeedViz\bin\Debug\commFeedViz.vsix
+C:\Users\MonahanWork\Desktop\panTiltDevelopment\PTC#\commFeedViz\bin\Debug\extension.vsixmanifest
+C:\Users\MonahanWork\Desktop\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\ToolboxControl.baml
+C:\Users\MonahanWork\Desktop\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\ToolboxControl.g.cs
+C:\Users\MonahanWork\Desktop\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\commFeedViz_MarkupCompile.cache
+C:\Users\MonahanWork\Desktop\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\commFeedViz.g.resources
+C:\Users\MonahanWork\Desktop\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\commFeedViz.Properties.Resources.resources
+C:\Users\MonahanWork\Desktop\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\commFeedViz.csproj.GenerateResource.Cache
+C:\Users\MonahanWork\Desktop\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\commFeedViz.dll
+C:\Users\MonahanWork\Desktop\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\commFeedViz.pdb
+C:\Users\MonahanWork\Desktop\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\commFeedViz.pkgdef
+C:\Users\MonahanWork\Desktop\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\commFeedViz.latest.pkgdef
+C:\Users\MonahanWork\Desktop\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\extension.vsixmanifest
+C:\Users\CORE\Documents\GitHub\Roboutes\panTiltDevelopment\PTC#\commFeedViz\bin\Debug\commFeedViz.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\panTiltDevelopment\PTC#\commFeedViz\bin\Debug\commFeedViz.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\panTiltDevelopment\PTC#\commFeedViz\bin\Debug\commFeedViz.pkgdef
+C:\Users\CORE\Documents\GitHub\Roboutes\panTiltDevelopment\PTC#\commFeedViz\bin\Debug\commFeedViz.vsix
+C:\Users\CORE\Documents\GitHub\Roboutes\panTiltDevelopment\PTC#\commFeedViz\bin\Debug\extension.vsixmanifest
+C:\Users\CORE\Documents\GitHub\Roboutes\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\commFeedViz.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\ToolboxControl.baml
+C:\Users\CORE\Documents\GitHub\Roboutes\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\ToolboxControl.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\commFeedViz_MarkupCompile.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\commFeedViz.g.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\commFeedViz.Properties.Resources.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\commFeedViz.csproj.GenerateResource.Cache
+C:\Users\CORE\Documents\GitHub\Roboutes\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\commFeedViz.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\commFeedViz.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\commFeedViz.pkgdef
+C:\Users\CORE\Documents\GitHub\Roboutes\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\commFeedViz.latest.pkgdef
+C:\Users\CORE\Documents\GitHub\Roboutes\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\extension.vsixmanifest
+C:\Users\ROC\Documents\GitHub\panTiltDevelopment\PTC#\commFeedViz\bin\Debug\commFeedViz.dll
+C:\Users\ROC\Documents\GitHub\panTiltDevelopment\PTC#\commFeedViz\bin\Debug\commFeedViz.pdb
+C:\Users\ROC\Documents\GitHub\panTiltDevelopment\PTC#\commFeedViz\bin\Debug\commFeedViz.pkgdef
+C:\Users\ROC\Documents\GitHub\panTiltDevelopment\PTC#\commFeedViz\bin\Debug\commFeedViz.vsix
+C:\Users\ROC\Documents\GitHub\panTiltDevelopment\PTC#\commFeedViz\bin\Debug\extension.vsixmanifest
+C:\Users\ROC\Documents\GitHub\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\commFeedViz.csprojResolveAssemblyReference.cache
+C:\Users\ROC\Documents\GitHub\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\ToolboxControl.baml
+C:\Users\ROC\Documents\GitHub\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\ToolboxControl.g.cs
+C:\Users\ROC\Documents\GitHub\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\commFeedViz_MarkupCompile.cache
+C:\Users\ROC\Documents\GitHub\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\commFeedViz.g.resources
+C:\Users\ROC\Documents\GitHub\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\commFeedViz.Properties.Resources.resources
+C:\Users\ROC\Documents\GitHub\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\commFeedViz.csproj.GenerateResource.Cache
+C:\Users\ROC\Documents\GitHub\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\commFeedViz.dll
+C:\Users\ROC\Documents\GitHub\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\commFeedViz.pdb
+C:\Users\ROC\Documents\GitHub\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\commFeedViz.pkgdef
+C:\Users\ROC\Documents\GitHub\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\commFeedViz.latest.pkgdef
+C:\Users\ROC\Documents\GitHub\panTiltDevelopment\PTC#\commFeedViz\obj\Debug\extension.vsixmanifest

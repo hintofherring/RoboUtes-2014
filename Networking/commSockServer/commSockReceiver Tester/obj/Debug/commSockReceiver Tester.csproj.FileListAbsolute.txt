@@ -1,0 +1,57 @@
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\commSockServer\commSockReceiver Tester\bin\Debug\commSockReceiver Tester.exe.config
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\commSockServer\commSockReceiver Tester\bin\Debug\commSockReceiver Tester.exe
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\commSockServer\commSockReceiver Tester\bin\Debug\commSockReceiver Tester.pdb
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\commSockServer\commSockReceiver Tester\bin\Debug\commSockServer.dll
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\commSockServer\commSockReceiver Tester\bin\Debug\ChatClientModel.dll
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\commSockServer\commSockReceiver Tester\bin\Debug\StringSocket.dll
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\commSockServer\commSockReceiver Tester\bin\Debug\commSockServer.pdb
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\commSockServer\commSockReceiver Tester\bin\Debug\ChatClientModel.pdb
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\commSockServer\commSockReceiver Tester\bin\Debug\StringSocket.pdb
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\commSockServer\commSockReceiver Tester\obj\Debug\commSockReceiver Tester.csprojResolveAssemblyReference.cache
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\commSockServer\commSockReceiver Tester\obj\Debug\MainWindow.baml
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\commSockServer\commSockReceiver Tester\obj\Debug\MainWindow.g.cs
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\commSockServer\commSockReceiver Tester\obj\Debug\App.g.cs
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\commSockServer\commSockReceiver Tester\obj\Debug\commSockReceiver Tester_MarkupCompile.cache
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\commSockServer\commSockReceiver Tester\obj\Debug\commSockReceiver Tester.g.resources
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\commSockServer\commSockReceiver Tester\obj\Debug\commSockReceiver_Tester.Properties.Resources.resources
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\commSockServer\commSockReceiver Tester\obj\Debug\commSockReceiver Tester.csproj.GenerateResource.Cache
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\commSockServer\commSockReceiver Tester\obj\Debug\commSockReceiver Tester.exe
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\commSockServer\commSockReceiver Tester\obj\Debug\commSockReceiver Tester.pdb
+C:\Users\HAL9000\Desktop\commSockServer\commSockReceiver Tester\bin\Debug\commSockReceiver Tester.exe.config
+C:\Users\HAL9000\Desktop\commSockServer\commSockReceiver Tester\obj\Debug\commSockReceiver Tester.exe
+C:\Users\HAL9000\Desktop\commSockServer\commSockReceiver Tester\obj\Debug\commSockReceiver Tester.pdb
+C:\Users\HAL9000\Desktop\commSockServer\commSockReceiver Tester\bin\Debug\commSockReceiver Tester.exe
+C:\Users\HAL9000\Desktop\commSockServer\commSockReceiver Tester\bin\Debug\commSockReceiver Tester.pdb
+C:\Users\HAL9000\Desktop\commSockServer\commSockReceiver Tester\bin\Debug\commSockServer.dll
+C:\Users\HAL9000\Desktop\commSockServer\commSockReceiver Tester\bin\Debug\ChatClientModel.dll
+C:\Users\HAL9000\Desktop\commSockServer\commSockReceiver Tester\bin\Debug\StringSocket.dll
+C:\Users\HAL9000\Desktop\commSockServer\commSockReceiver Tester\bin\Debug\commSockServer.pdb
+C:\Users\HAL9000\Desktop\commSockServer\commSockReceiver Tester\bin\Debug\ChatClientModel.pdb
+C:\Users\HAL9000\Desktop\commSockServer\commSockReceiver Tester\bin\Debug\StringSocket.pdb
+C:\Users\HAL9000\Desktop\commSockServer\commSockReceiver Tester\obj\Debug\commSockReceiver Tester.csprojResolveAssemblyReference.cache
+C:\Users\HAL9000\Desktop\commSockServer\commSockReceiver Tester\obj\Debug\MainWindow.baml
+C:\Users\HAL9000\Desktop\commSockServer\commSockReceiver Tester\obj\Debug\MainWindow.g.cs
+C:\Users\HAL9000\Desktop\commSockServer\commSockReceiver Tester\obj\Debug\App.g.cs
+C:\Users\HAL9000\Desktop\commSockServer\commSockReceiver Tester\obj\Debug\commSockReceiver Tester_MarkupCompile.cache
+C:\Users\HAL9000\Desktop\commSockServer\commSockReceiver Tester\obj\Debug\commSockReceiver Tester.g.resources
+C:\Users\HAL9000\Desktop\commSockServer\commSockReceiver Tester\obj\Debug\commSockReceiver_Tester.Properties.Resources.resources
+C:\Users\HAL9000\Desktop\commSockServer\commSockReceiver Tester\obj\Debug\commSockReceiver Tester.csproj.GenerateResource.Cache
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\commSockReceiver Tester\bin\Debug\commSockReceiver Tester.exe.config
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\commSockReceiver Tester\obj\Debug\commSockReceiver Tester.exe
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\commSockReceiver Tester\obj\Debug\commSockReceiver Tester.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\commSockReceiver Tester\bin\Debug\commSockReceiver Tester.exe
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\commSockReceiver Tester\bin\Debug\commSockReceiver Tester.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\commSockReceiver Tester\bin\Debug\commSockServer.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\commSockReceiver Tester\bin\Debug\ChatClientModel.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\commSockReceiver Tester\bin\Debug\StringSocket.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\commSockReceiver Tester\bin\Debug\commSockServer.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\commSockReceiver Tester\bin\Debug\ChatClientModel.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\commSockReceiver Tester\bin\Debug\StringSocket.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\commSockReceiver Tester\obj\Debug\commSockReceiver Tester.csprojResolveAssemblyReference.cache
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\commSockReceiver Tester\obj\Debug\MainWindow.baml
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\commSockReceiver Tester\obj\Debug\MainWindow.g.cs
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\commSockReceiver Tester\obj\Debug\App.g.cs
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\commSockReceiver Tester\obj\Debug\commSockReceiver Tester_MarkupCompile.cache
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\commSockReceiver Tester\obj\Debug\commSockReceiver Tester.g.resources
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\commSockReceiver Tester\obj\Debug\commSockReceiver_Tester.Properties.Resources.resources
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\commSockReceiver Tester\obj\Debug\commSockReceiver Tester.csproj.GenerateResource.Cache

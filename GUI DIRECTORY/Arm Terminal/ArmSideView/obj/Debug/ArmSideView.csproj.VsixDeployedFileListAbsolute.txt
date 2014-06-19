@@ -1,0 +1,33 @@
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\ArmSideView.dll
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\localArmControlTools.dll
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\ArmSideView.pkgdef
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\extension.vsixmanifest
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\commSockServer.dll
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\XboxController.dll
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\ChatClientModel.dll
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\Microsoft.Xna.Framework.dll
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\StringSocket.dll
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\ArmSideView.pdb
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\localArmControlTools.pdb
+C:\Users\RoboUtes 4\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\ArmSideView.dll
+C:\Users\RoboUtes 4\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\localArmControlTools.dll
+C:\Users\RoboUtes 4\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\ArmSideView.pkgdef
+C:\Users\RoboUtes 4\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\extension.vsixmanifest
+C:\Users\RoboUtes 4\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\commSockServer.dll
+C:\Users\RoboUtes 4\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\XboxController.dll
+C:\Users\RoboUtes 4\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\ChatClientModel.dll
+C:\Users\RoboUtes 4\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\Microsoft.Xna.Framework.dll
+C:\Users\RoboUtes 4\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\StringSocket.dll
+C:\Users\RoboUtes 4\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\ArmSideView.pdb
+C:\Users\RoboUtes 4\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\localArmControlTools.pdb
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\ArmSideView.dll
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\localArmControlTools.dll
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\ArmSideView.pkgdef
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\extension.vsixmanifest
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\commSockServer.dll
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\XboxController.dll
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\ChatClientModel.dll
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\Microsoft.Xna.Framework.dll
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\StringSocket.dll
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\ArmSideView.pdb
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\ArmSideView\1.0\\localArmControlTools.pdb

@@ -1,0 +1,7 @@
+C:\Users\CORE\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\liveXboxMonitorV2\1.0\\liveXboxMonitorV2.dll
+C:\Users\CORE\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\liveXboxMonitorV2\1.0\\XboxController.dll
+C:\Users\CORE\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\liveXboxMonitorV2\1.0\\liveXboxMonitorV2.pkgdef
+C:\Users\CORE\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\liveXboxMonitorV2\1.0\\extension.vsixmanifest
+C:\Users\CORE\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\liveXboxMonitorV2\1.0\\Microsoft.Xna.Framework.dll
+C:\Users\CORE\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\liveXboxMonitorV2\1.0\\liveXboxMonitorV2.pdb
+C:\Users\CORE\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\liveXboxMonitorV2\1.0\\XboxController.pdb

@@ -1,0 +1,24 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:WheelMonitor="clr-namespace:WheelMonitor;assembly=WheelMonitor" xmlns:toggleIndicator="clr-namespace:toggleIndicator;assembly=toggleIndicator" x:Class="LiveDriveData.ToolboxControl" 
+             mc:Ignorable="d" Height="492" Width="438">
+    <Viewbox x:Name="primaryViewBox" Stretch="Fill">
+        <Grid Height="492" Width="385">
+            <WheelMonitor:ToolboxControl x:Name="upLeftWheelMon" HorizontalAlignment="Left" VerticalAlignment="Top" Height="193" RenderTransformOrigin="0.5,0.5" Margin="0,107,0,0" Title="Up Left" Width="193"/>
+            <WheelMonitor:ToolboxControl x:Name="upRightWheelMon" HorizontalAlignment="Left" Margin="192,107,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Title="Up Right"/>
+            <WheelMonitor:ToolboxControl x:Name="backRightWheelMon" HorizontalAlignment="Left" Margin="192,299,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Title="Back Right"/>
+            <WheelMonitor:ToolboxControl x:Name="backLeftWheelMon" HorizontalAlignment="Left" Margin="0,299,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Title="Back Left"/>
+            <Rectangle Fill="#FF333333" HorizontalAlignment="Left" Height="111" Stroke="Black" VerticalAlignment="Top" Width="385" Margin="0,-4,0,0"/>
+            <Label Content="Live Drive Data" HorizontalAlignment="Left" VerticalAlignment="Top" Width="385" Foreground="#FFFF5607" Background="#FF1D1D1D" FontWeight="Bold" FontSize="20" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+            <Label Content="PID Goal:" HorizontalAlignment="Left" Margin="63,37,0,0" VerticalAlignment="Top" Foreground="White" FontWeight="Bold" FontSize="16"/>
+            <Label Content="Actual:" HorizontalAlignment="Left" Margin="81,68,0,0" VerticalAlignment="Top" Foreground="White" FontWeight="Bold" FontSize="16"/>
+            <Label x:Name="pidGoalSpeed" Content="0 m/s" HorizontalAlignment="Left" Margin="143,37,0,0" VerticalAlignment="Top" Foreground="White" FontWeight="Bold" FontSize="16"/>
+            <Label x:Name="actualSpeedLabel" Content="0 m/s" HorizontalAlignment="Left" Margin="143,68,0,0" VerticalAlignment="Top" Foreground="White" FontWeight="Bold" FontSize="16"/>
+            <Label Content="STUCK:" HorizontalAlignment="Left" Margin="225,52,0,0" VerticalAlignment="Top" Foreground="White" FontWeight="Bold" FontSize="16"/>
+            <toggleIndicator:ToolboxControl x:Name="stuckIndicator" HorizontalAlignment="Left" Margin="295,42,0,0" VerticalAlignment="Top" Height="57" Width="56"/>
+        </Grid>
+    </Viewbox>
+</UserControl>

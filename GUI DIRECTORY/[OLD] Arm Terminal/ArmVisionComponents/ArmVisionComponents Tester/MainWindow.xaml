@@ -1,0 +1,11 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:ArmVisionComponents="clr-namespace:ArmVisionComponents;assembly=ArmVisionComponents" x:Class="ArmVisionComponents_Tester.MainWindow"
+        Title="MainWindow" Height="350" Width="525" Closing="Window_Closing">
+    <Grid Margin="61,40,154,34">
+        <ArmVisionComponents:ToolboxControl/>
+
+
+    </Grid>
+</Window>

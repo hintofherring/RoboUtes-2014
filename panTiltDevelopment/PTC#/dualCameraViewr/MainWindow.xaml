@@ -1,0 +1,13 @@
+﻿<Window x:Class="dualCameraViewer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="626.841">
+    <Grid Margin="0,0,2,0">
+        <Viewbox Margin="0,0,0,0" Stretch="Fill">
+            <Grid Height="319" Width="504">
+                <WindowsFormsHost x:Name="leftHost" HorizontalAlignment="Left" Height="320" VerticalAlignment="Top" Width="252" Margin="252,0,0,-1"/>
+                <WindowsFormsHost x:Name="rightHost" HorizontalAlignment="Left" Height="319" VerticalAlignment="Top" Width="252"/>
+            </Grid>
+        </Viewbox>
+    </Grid>
+</Window>

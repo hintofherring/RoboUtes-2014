@@ -1,0 +1,12 @@
+C:\Users\ROC\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\safeCommFeedViz\1.0\\safeCommFeedViz.dll
+C:\Users\ROC\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\safeCommFeedViz\1.0\\safeCommFeedViz.pkgdef
+C:\Users\ROC\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\safeCommFeedViz\1.0\\extension.vsixmanifest
+C:\Users\ROC\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\safeCommFeedViz\1.0\\safeCommFeedViz.pdb
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\safeCommFeedViz\1.0\\safeCommFeedViz.dll
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\safeCommFeedViz\1.0\\safeCommFeedViz.pkgdef
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\safeCommFeedViz\1.0\\extension.vsixmanifest
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\safeCommFeedViz\1.0\\safeCommFeedViz.pdb
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\safeCommFeedViz\1.0\\safeCommFeedViz.dll
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\safeCommFeedViz\1.0\\safeCommFeedViz.pkgdef
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\safeCommFeedViz\1.0\\extension.vsixmanifest
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\safeCommFeedViz\1.0\\safeCommFeedViz.pdb

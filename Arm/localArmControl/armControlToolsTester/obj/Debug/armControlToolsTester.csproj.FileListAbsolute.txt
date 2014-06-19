@@ -1,0 +1,13 @@
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\armControlToolsTester\bin\Debug\armControlToolsTester.exe.config
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\armControlToolsTester\bin\Debug\armControlToolsTester.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\armControlToolsTester\bin\Debug\armControlToolsTester.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\armControlToolsTester\bin\Debug\localArmControlTools.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\armControlToolsTester\bin\Debug\XboxController.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\armControlToolsTester\bin\Debug\ArduinoLibrary.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\armControlToolsTester\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\armControlToolsTester\bin\Debug\localArmControlTools.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\armControlToolsTester\bin\Debug\XboxController.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\armControlToolsTester\bin\Debug\ArduinoLibrary.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\armControlToolsTester\obj\Debug\armControlToolsTester.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\armControlToolsTester\obj\Debug\armControlToolsTester.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\armControlToolsTester\obj\Debug\armControlToolsTester.pdb

@@ -1,0 +1,15 @@
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\ArmSideView\tester1\bin\Debug\tester1.exe.config
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\ArmSideView\tester1\obj\Debug\tester1.exe
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\ArmSideView\tester1\obj\Debug\tester1.pdb
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\ArmSideView\tester1\bin\Debug\tester1.exe
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\ArmSideView\tester1\bin\Debug\tester1.pdb
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\ArmSideView\tester1\bin\Debug\ArmSideView.dll
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\ArmSideView\tester1\bin\Debug\ArmSideView.pdb
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\ArmSideView\tester1\obj\Debug\sideTester.csprojResolveAssemblyReference.cache
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\ArmSideView\tester1\obj\Debug\MainWindow.baml
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\ArmSideView\tester1\obj\Debug\MainWindow.g.cs
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\ArmSideView\tester1\obj\Debug\App.g.cs
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\ArmSideView\tester1\obj\Debug\tester1_MarkupCompile.cache
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\ArmSideView\tester1\obj\Debug\tester1.g.resources
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\ArmSideView\tester1\obj\Debug\tester1.Properties.Resources.resources
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\ArmSideView\tester1\obj\Debug\sideTester.csproj.GenerateResource.Cache

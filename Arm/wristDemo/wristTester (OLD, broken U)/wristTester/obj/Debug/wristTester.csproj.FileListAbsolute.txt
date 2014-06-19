@@ -1,0 +1,22 @@
+c:\users\core\documents\visual studio 2012\Projects\wristTester\wristTester\bin\Debug\wristTester.exe.config
+c:\users\core\documents\visual studio 2012\Projects\wristTester\wristTester\bin\Debug\wristTester.exe
+c:\users\core\documents\visual studio 2012\Projects\wristTester\wristTester\bin\Debug\wristTester.pdb
+c:\users\core\documents\visual studio 2012\Projects\wristTester\wristTester\bin\Debug\ArduinoLibrary.dll
+c:\users\core\documents\visual studio 2012\Projects\wristTester\wristTester\bin\Debug\commFeedViz.dll
+c:\users\core\documents\visual studio 2012\Projects\wristTester\wristTester\bin\Debug\ArduinoLibrary.pdb
+c:\users\core\documents\visual studio 2012\Projects\wristTester\wristTester\bin\Debug\commFeedViz.pdb
+c:\users\core\documents\visual studio 2012\Projects\wristTester\wristTester\obj\Debug\wristTester.csprojResolveAssemblyReference.cache
+c:\users\core\documents\visual studio 2012\Projects\wristTester\wristTester\obj\Debug\MainWindow.baml
+c:\users\core\documents\visual studio 2012\Projects\wristTester\wristTester\obj\Debug\MainWindow.g.cs
+c:\users\core\documents\visual studio 2012\Projects\wristTester\wristTester\obj\Debug\App.g.cs
+c:\users\core\documents\visual studio 2012\Projects\wristTester\wristTester\obj\Debug\wristTester_MarkupCompile.cache
+c:\users\core\documents\visual studio 2012\Projects\wristTester\wristTester\obj\Debug\wristTester.g.resources
+c:\users\core\documents\visual studio 2012\Projects\wristTester\wristTester\obj\Debug\wristTester.Properties.Resources.resources
+c:\users\core\documents\visual studio 2012\Projects\wristTester\wristTester\obj\Debug\wristTester.csproj.GenerateResource.Cache
+c:\users\core\documents\visual studio 2012\Projects\wristTester\wristTester\obj\Debug\wristTester.exe
+c:\users\core\documents\visual studio 2012\Projects\wristTester\wristTester\obj\Debug\wristTester.pdb
+c:\users\core\documents\visual studio 2012\Projects\wristTester\wristTester\bin\Debug\XboxController.dll
+c:\users\core\documents\visual studio 2012\Projects\wristTester\wristTester\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\wristDemo\wristTester\wristTester\bin\Debug\wristTester.exe.config
+C:\Users\CORE\Documents\GitHub\Roboutes\wristDemo\wristTester\wristTester\obj\Debug\wristTester.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\wristDemo\wristTester\wristTester\obj\Debug\wristTester.pdb

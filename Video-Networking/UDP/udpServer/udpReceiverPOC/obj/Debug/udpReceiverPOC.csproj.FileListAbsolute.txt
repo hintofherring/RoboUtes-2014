@@ -1,0 +1,12 @@
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpServer\udpReceiverPOC\bin\Debug\udpReceiverPOC.exe.config
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpServer\udpReceiverPOC\bin\Debug\udpReceiverPOC.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpServer\udpReceiverPOC\bin\Debug\udpReceiverPOC.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpServer\udpReceiverPOC\obj\Debug\MainWindow.baml
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpServer\udpReceiverPOC\obj\Debug\MainWindow.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpServer\udpReceiverPOC\obj\Debug\App.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpServer\udpReceiverPOC\obj\Debug\udpReceiverPOC_MarkupCompile.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpServer\udpReceiverPOC\obj\Debug\udpReceiverPOC.g.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpServer\udpReceiverPOC\obj\Debug\udpReceiverPOC.Properties.Resources.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpServer\udpReceiverPOC\obj\Debug\udpReceiverPOC.csproj.GenerateResource.Cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpServer\udpReceiverPOC\obj\Debug\udpReceiverPOC.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpServer\udpReceiverPOC\obj\Debug\udpReceiverPOC.pdb

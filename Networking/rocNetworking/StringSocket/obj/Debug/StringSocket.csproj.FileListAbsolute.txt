@@ -1,0 +1,19 @@
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\PS9_Current\StringSocket\bin\Debug\StringSocket.dll
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\PS9_Current\StringSocket\bin\Debug\StringSocket.pdb
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\PS9_Current\StringSocket\obj\Debug\StringSocket.csprojResolveAssemblyReference.cache
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\PS9_Current\StringSocket\obj\Debug\StringSocket.dll
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\PS9_Current\StringSocket\obj\Debug\StringSocket.pdb
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\networkingTest\StringSocket\bin\Debug\StringSocket.dll
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\networkingTest\StringSocket\bin\Debug\StringSocket.pdb
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\networkingTest\StringSocket\obj\Debug\StringSocket.dll
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\networkingTest\StringSocket\obj\Debug\StringSocket.pdb
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\networkingTest\StringSocket\obj\Debug\StringSocket.csprojResolveAssemblyReference.cache
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\rocNetworking\StringSocket\bin\Debug\StringSocket.dll
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\rocNetworking\StringSocket\bin\Debug\StringSocket.pdb
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\rocNetworking\StringSocket\obj\Debug\StringSocket.dll
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\rocNetworking\StringSocket\obj\Debug\StringSocket.pdb
+E:\MATTS STUFF\rocNetworking\StringSocket\bin\Debug\StringSocket.dll
+E:\MATTS STUFF\rocNetworking\StringSocket\bin\Debug\StringSocket.pdb
+E:\MATTS STUFF\rocNetworking\StringSocket\obj\Debug\StringSocket.csprojResolveAssemblyReference.cache
+E:\MATTS STUFF\rocNetworking\StringSocket\obj\Debug\StringSocket.dll
+E:\MATTS STUFF\rocNetworking\StringSocket\obj\Debug\StringSocket.pdb

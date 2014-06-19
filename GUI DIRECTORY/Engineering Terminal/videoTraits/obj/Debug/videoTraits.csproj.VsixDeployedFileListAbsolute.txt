@@ -1,0 +1,8 @@
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\videoTraits\1.0\\videoTraits.dll
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\videoTraits\1.0\\videoTraits.pkgdef
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\videoTraits\1.0\\extension.vsixmanifest
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\videoTraits\1.0\\videoTraits.pdb
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\videoTraits\1.0\\videoTraits.dll
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\videoTraits\1.0\\videoTraits.pkgdef
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\videoTraits\1.0\\extension.vsixmanifest
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\videoTraits\1.0\\videoTraits.pdb

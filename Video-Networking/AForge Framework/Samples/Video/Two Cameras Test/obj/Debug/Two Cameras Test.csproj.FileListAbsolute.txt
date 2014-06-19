@@ -1,0 +1,22 @@
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\AForge Framework\Samples\Video\Two Cameras Test\bin\Debug\Two Cameras Test.exe
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\AForge Framework\Samples\Video\Two Cameras Test\bin\Debug\Two Cameras Test.pdb
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\AForge Framework\Samples\Video\Two Cameras Test\bin\Debug\AForge.Controls.dll
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\AForge Framework\Samples\Video\Two Cameras Test\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\AForge Framework\Samples\Video\Two Cameras Test\bin\Debug\AForge.Video.dll
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\AForge Framework\Samples\Video\Two Cameras Test\bin\Debug\AForge.dll
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\AForge Framework\Samples\Video\Two Cameras Test\bin\Debug\AForge.Imaging.dll
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\AForge Framework\Samples\Video\Two Cameras Test\bin\Debug\AForge.Math.dll
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\AForge Framework\Samples\Video\Two Cameras Test\bin\Debug\AForge.Controls.xml
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\AForge Framework\Samples\Video\Two Cameras Test\bin\Debug\AForge.Video.xml
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\AForge Framework\Samples\Video\Two Cameras Test\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\AForge Framework\Samples\Video\Two Cameras Test\bin\Debug\AForge.xml
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\AForge Framework\Samples\Video\Two Cameras Test\bin\Debug\AForge.Imaging.xml
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\AForge Framework\Samples\Video\Two Cameras Test\bin\Debug\AForge.Math.xml
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\AForge Framework\Samples\Video\Two Cameras Test\obj\Debug\Two Cameras Test.csprojResolveAssemblyReference.cache
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\AForge Framework\Samples\Video\Two Cameras Test\obj\Debug\TwoCamerasTest.MainForm.resources
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\AForge Framework\Samples\Video\Two Cameras Test\obj\Debug\TwoCamerasTest.Properties.Resources.resources
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\AForge Framework\Samples\Video\Two Cameras Test\obj\Debug\Two Cameras Test.csproj.GenerateResource.Cache
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\AForge Framework\Samples\Video\Two Cameras Test\obj\Debug\Two Cameras Test.exe
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\AForge Framework\Samples\Video\Two Cameras Test\obj\Debug\Two Cameras Test.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\AForge Framework\Samples\Video\Two Cameras Test\obj\Debug\Two Cameras Test.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\AForge Framework\Samples\Video\Two Cameras Test\obj\Debug\Two Cameras Test.pdb

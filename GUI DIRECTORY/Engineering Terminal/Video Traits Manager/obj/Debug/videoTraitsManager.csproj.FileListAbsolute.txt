@@ -1,0 +1,16 @@
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\Video Traits Manager\bin\Debug\Video Traits Manager.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\Video Traits Manager\bin\Debug\Video Traits Manager.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\Video Traits Manager\bin\Debug\Video Traits Manager.pkgdef
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\Video Traits Manager\bin\Debug\Video Traits Manager.vsix
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\Video Traits Manager\bin\Debug\extension.vsixmanifest
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\Video Traits Manager\obj\Debug\ToolboxControl.baml
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\Video Traits Manager\obj\Debug\ToolboxControl.g.cs
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\Video Traits Manager\obj\Debug\Video Traits Manager_MarkupCompile.cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\Video Traits Manager\obj\Debug\Video Traits Manager.g.resources
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\Video Traits Manager\obj\Debug\Video_Traits_Manager.Properties.Resources.resources
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\Video Traits Manager\obj\Debug\videoTraitsManager.csproj.GenerateResource.Cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\Video Traits Manager\obj\Debug\Video Traits Manager.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\Video Traits Manager\obj\Debug\Video Traits Manager.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\Video Traits Manager\obj\Debug\Video Traits Manager.pkgdef
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\Video Traits Manager\obj\Debug\Video Traits Manager.latest.pkgdef
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\Video Traits Manager\obj\Debug\extension.vsixmanifest

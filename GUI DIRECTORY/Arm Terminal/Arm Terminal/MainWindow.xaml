@@ -1,0 +1,37 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:safeCommFeedViz="clr-namespace:safeCommFeedViz;assembly=safeCommFeedViz" xmlns:Control_Status="clr-namespace:Control_Status;assembly=Control_Status" xmlns:Macros="clr-namespace:Macros;assembly=Macros" xmlns:ArmSideView="clr-namespace:ArmSideView;assembly=ArmSideView" xmlns:liveXboxMonitorV2="clr-namespace:liveXboxMonitorV2;assembly=liveXboxMonitorV2" xmlns:ArmTopView="clr-namespace:ArmTopView;assembly=ArmTopView" xmlns:handInfoViewer="clr-namespace:handInfoViewer;assembly=handInfoViewer" xmlns:networkStatusIndicator="clr-namespace:networkStatusIndicator;assembly=networkStatusIndicator" xmlns:toggleIndicator="clr-namespace:toggleIndicator;assembly=toggleIndicator" xmlns:newMacros="clr-namespace:newMacros;assembly=newMacros" x:Class="Arm_Terminal.MainWindow"
+        Title="MainWindow" Height="1080" Width="1920" Closed="Window_Closed">
+    <Viewbox Stretch="Fill">
+        <Grid Height="1050" Width="1912">
+
+            <safeCommFeedViz:ToolboxControl x:Name="internetOutFeed" HorizontalAlignment="Left" Margin="0,622,0,0" VerticalAlignment="Top" Height="428" Width="433" title="Internet OUT" RenderTransformOrigin="0.501,0.129"/>
+            <safeCommFeedViz:ToolboxControl x:Name="internetInFeed" HorizontalAlignment="Left" Margin="433,622,0,0" VerticalAlignment="Top" Height="428" Width="438" title="Internet IN"/>
+
+            <Control_Status:ControlStatus x:Name="statusView" HorizontalAlignment="Left" Margin="1486,363,0,0" VerticalAlignment="Top" Height="393" Width="426"/>
+
+            <ArmSideView:ArmSide x:Name="armSideView" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="0.235,0.199" Height="622" Width="746"/>
+
+            <ArmTopView:ArmTop x:Name="armTopView" HorizontalAlignment="Left" Margin="741,0,0,0" VerticalAlignment="Top" Height="622" Width="745"/>
+
+            <handInfoViewer:ToolboxControl x:Name="wristVisualizer" HorizontalAlignment="Left" Margin="1423,756,0,0" VerticalAlignment="Top" Height="284" Width="489"/>
+            <liveXboxMonitorV2:ToolboxControl x:Name="xboxControlMonitor" HorizontalAlignment="Left" Margin="871,627,0,0" VerticalAlignment="Top" Height="413" Width="632"/>
+
+            <networkStatusIndicator:ToolboxControl x:Name="netStatusInd" HorizontalAlignment="Left" Margin="441,10,0,0" VerticalAlignment="Top" Height="92"/>
+            <Viewbox Margin="1254,0,426,977" Stretch="Fill">
+                <Grid Height="73" Width="232">
+                    <Rectangle Fill="#FF383838" HorizontalAlignment="Left" Height="73" Stroke="Black" VerticalAlignment="Top" Width="232"/>
+
+                    <toggleIndicator:ToolboxControl x:Name="inputOnlineInd" HorizontalAlignment="Left" Margin="6,17,0,0" VerticalAlignment="Top" Height="39" Width="38"/>
+                    <Label Content="INPUT ONLINE" HorizontalAlignment="Left" Margin="50,0,0,0" VerticalAlignment="Top" Height="30" Width="123" FontWeight="Bold" FontSize="16" Foreground="#FFFFA200"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="50,30,0,0" TextWrapping="Wrap" Text="(Press &quot;B&quot; to send emergency stop and request valid data from arm to unlock input)" VerticalAlignment="Top" Height="43" Width="182" TextAlignment="Center" FontSize="10" Foreground="#FFFFB900"/>
+
+                </Grid>
+            </Viewbox>
+
+            <newMacros:ToolboxControl x:Name="macros" HorizontalAlignment="Left" Margin="1486,-2,0,0" VerticalAlignment="Top" Height="365"/>
+
+        </Grid>
+    </Viewbox>
+</Window>

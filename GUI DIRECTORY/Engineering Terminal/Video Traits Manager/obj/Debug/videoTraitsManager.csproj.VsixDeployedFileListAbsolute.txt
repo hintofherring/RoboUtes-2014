@@ -1,0 +1,4 @@
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\Video_Traits_Manager\1.0\\Video Traits Manager.dll
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\Video_Traits_Manager\1.0\\Video Traits Manager.pkgdef
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\Video_Traits_Manager\1.0\\extension.vsixmanifest
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\Video_Traits_Manager\1.0\\Video Traits Manager.pdb

@@ -1,0 +1,45 @@
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\bin\Debug\commFeedViz Tester.exe.config
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\bin\Debug\commFeedViz Tester.exe
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\bin\Debug\commFeedViz Tester.pdb
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\bin\Debug\commFeedViz.dll
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\bin\Debug\commFeedViz.pdb
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\obj\Debug\commFeedViz Tester.csprojResolveAssemblyReference.cache
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\obj\Debug\MainWindow.baml
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\obj\Debug\MainWindow.g.cs
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\obj\Debug\App.g.cs
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\obj\Debug\commFeedViz Tester_MarkupCompile.cache
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\obj\Debug\commFeedViz Tester.g.resources
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\obj\Debug\commFeedViz_Tester.Properties.Resources.resources
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\obj\Debug\commFeedViz Tester.csproj.GenerateResource.Cache
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\obj\Debug\commFeedViz Tester.exe
+D:\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\obj\Debug\commFeedViz Tester.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\bin\Debug\commFeedViz Tester.exe.config
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\obj\Debug\commFeedViz Tester.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\obj\Debug\commFeedViz Tester.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\bin\Debug\commFeedViz Tester.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\bin\Debug\commFeedViz Tester.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\bin\Debug\commFeedViz.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\bin\Debug\commFeedViz.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\obj\Debug\commFeedViz Tester.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\obj\Debug\MainWindow.baml
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\obj\Debug\MainWindow.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\obj\Debug\App.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\obj\Debug\commFeedViz Tester_MarkupCompile.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\obj\Debug\commFeedViz Tester.g.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\obj\Debug\commFeedViz_Tester.Properties.Resources.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\obj\Debug\commFeedViz Tester.csproj.GenerateResource.Cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\bin\Debug\commFeedViz Tester.exe.config
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\bin\Debug\commFeedViz Tester.exe
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\bin\Debug\commFeedViz Tester.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\bin\Debug\commFeedViz.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\bin\Debug\commFeedViz.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\obj\Debug\commFeedViz Tester.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\obj\Debug\MainWindow.baml
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\obj\Debug\MainWindow.g.cs
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\obj\Debug\App.g.cs
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\obj\Debug\commFeedViz Tester_MarkupCompile.cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\obj\Debug\commFeedViz Tester.g.resources
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\obj\Debug\commFeedViz_Tester.Properties.Resources.resources
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\obj\Debug\commFeedViz Tester.csproj.GenerateResource.Cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\obj\Debug\commFeedViz Tester.exe
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\commFeedViz Tester\obj\Debug\commFeedViz Tester.pdb

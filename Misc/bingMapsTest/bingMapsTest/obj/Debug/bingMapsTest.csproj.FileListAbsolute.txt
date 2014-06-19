@@ -1,0 +1,30 @@
+C:\Users\CORE\Documents\GitHub\Roboutes\Misc\bingMapsTest\bingMapsTest\bin\Debug\bingMapsTest.exe.config
+C:\Users\CORE\Documents\GitHub\Roboutes\Misc\bingMapsTest\bingMapsTest\bin\Debug\bingMapsTest.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\Misc\bingMapsTest\bingMapsTest\bin\Debug\bingMapsTest.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Misc\bingMapsTest\bingMapsTest\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Misc\bingMapsTest\bingMapsTest\obj\Debug\bingMapsTest.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Misc\bingMapsTest\bingMapsTest\obj\Debug\bingMapsTest.csproj.ResolveComReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Misc\bingMapsTest\bingMapsTest\obj\Debug\MainWindow.baml
+C:\Users\CORE\Documents\GitHub\Roboutes\Misc\bingMapsTest\bingMapsTest\obj\Debug\MainWindow.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\Misc\bingMapsTest\bingMapsTest\obj\Debug\App.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\Misc\bingMapsTest\bingMapsTest\obj\Debug\bingMapsTest_MarkupCompile.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Misc\bingMapsTest\bingMapsTest\obj\Debug\bingMapsTest.g.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\Misc\bingMapsTest\bingMapsTest\obj\Debug\bingMapsTest.Properties.Resources.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\Misc\bingMapsTest\bingMapsTest\obj\Debug\bingMapsTest.csproj.GenerateResource.Cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Misc\bingMapsTest\bingMapsTest\obj\Debug\bingMapsTest.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\Misc\bingMapsTest\bingMapsTest\obj\Debug\bingMapsTest.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\Misc\bingMapsTest\bingMapsTest\bin\Debug\bingMapsTest.exe.config
+C:\Users\RoboUtes 6\Desktop\Roboutes\Misc\bingMapsTest\bingMapsTest\bin\Debug\bingMapsTest.exe
+C:\Users\RoboUtes 6\Desktop\Roboutes\Misc\bingMapsTest\bingMapsTest\bin\Debug\bingMapsTest.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\Misc\bingMapsTest\bingMapsTest\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\Misc\bingMapsTest\bingMapsTest\obj\Debug\bingMapsTest.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\Misc\bingMapsTest\bingMapsTest\obj\Debug\bingMapsTest.csproj.ResolveComReference.cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\Misc\bingMapsTest\bingMapsTest\obj\Debug\MainWindow.baml
+C:\Users\RoboUtes 6\Desktop\Roboutes\Misc\bingMapsTest\bingMapsTest\obj\Debug\MainWindow.g.cs
+C:\Users\RoboUtes 6\Desktop\Roboutes\Misc\bingMapsTest\bingMapsTest\obj\Debug\App.g.cs
+C:\Users\RoboUtes 6\Desktop\Roboutes\Misc\bingMapsTest\bingMapsTest\obj\Debug\bingMapsTest_MarkupCompile.cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\Misc\bingMapsTest\bingMapsTest\obj\Debug\bingMapsTest.g.resources
+C:\Users\RoboUtes 6\Desktop\Roboutes\Misc\bingMapsTest\bingMapsTest\obj\Debug\bingMapsTest.Properties.Resources.resources
+C:\Users\RoboUtes 6\Desktop\Roboutes\Misc\bingMapsTest\bingMapsTest\obj\Debug\bingMapsTest.csproj.GenerateResource.Cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\Misc\bingMapsTest\bingMapsTest\obj\Debug\bingMapsTest.exe
+C:\Users\RoboUtes 6\Desktop\Roboutes\Misc\bingMapsTest\bingMapsTest\obj\Debug\bingMapsTest.pdb

@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="commFeedViz.commFeedViz"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="250" d:DesignWidth="319">
+    <Viewbox Stretch="Fill">
+        <Grid Background="#FF191919" Height="250" Width="319">
+            <TextBox x:Name="terminalTextBox" VerticalScrollBarVisibility="Visible" IsReadOnly="True" Height="192" Margin="0,31,0,0" TextWrapping="Wrap" Text="_&gt;" VerticalAlignment="Top" Background="Black" Foreground="#FF0CFF00" SelectionBrush="Red" BorderBrush="#FFFF9700" TextChanged="terminalTextBox_TextChanged" />
+            <Label x:Name="titleLabel" Content="Title" VerticalAlignment="Top"  Foreground="#FFFF8B00" HorizontalContentAlignment="Center" FontWeight="Bold" />
+            <RadioButton x:Name="autoScrollRadio" Content="Auto Scroll" HorizontalAlignment="Left" Margin="10,224,0,0" VerticalAlignment="Top" Foreground="#FFFFA200" Background="Red" FontWeight="Bold" Click="autoScrollRadio_Click"/>
+        </Grid>
+    </Viewbox>
+</UserControl>

@@ -1,0 +1,112 @@
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer\bin\Debug\handInfoViewer.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer\bin\Debug\handInfoViewer.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer\bin\Debug\handInfoViewer.pkgdef
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer\obj\Debug\handInfoViewer.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer\obj\Debug\ToolboxControl.baml
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer\obj\Debug\ToolboxControl.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer\obj\Debug\handInfoViewer_MarkupCompile.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer\obj\Debug\handInfoViewer.g.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer\obj\Debug\handInfoViewer.Properties.Resources.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer\obj\Debug\handInfoViewer.csproj.GenerateResource.Cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer\obj\Debug\handInfoViewer.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer\obj\Debug\handInfoViewer.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer\obj\Debug\handInfoViewer.pkgdef
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer\obj\Debug\handInfoViewer.latest.pkgdef
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer\bin\Debug\handInfoViewer.vsix
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer\bin\Debug\extension.vsixmanifest
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer\bin\Debug\localArmControlTools.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer\bin\Debug\powerBar.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer\bin\Debug\toggleIndicator.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer\bin\Debug\XboxController.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer\bin\Debug\ArduinoLibrary.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer\bin\Debug\localArmControlTools.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer\bin\Debug\powerBar.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer\bin\Debug\toggleIndicator.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer\bin\Debug\XboxController.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer\bin\Debug\ArduinoLibrary.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer\obj\Debug\extension.vsixmanifest
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\handInfoViewer.dll
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\handInfoViewer.pdb
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\handInfoViewer.pkgdef
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\handInfoViewer.vsix
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\extension.vsixmanifest
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\localArmControlTools.dll
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\powerBar.dll
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\toggleIndicator.dll
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\XboxController.dll
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\ArduinoLibrary.dll
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\localArmControlTools.pdb
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\powerBar.pdb
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\toggleIndicator.pdb
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\XboxController.pdb
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\ArduinoLibrary.pdb
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\handInfoViewer.csprojResolveAssemblyReference.cache
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\ToolboxControl.baml
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\ToolboxControl.g.cs
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\handInfoViewer_MarkupCompile.cache
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\handInfoViewer.g.resources
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\handInfoViewer.Properties.Resources.resources
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\handInfoViewer.csproj.GenerateResource.Cache
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\handInfoViewer.dll
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\handInfoViewer.pdb
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\handInfoViewer.pkgdef
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\handInfoViewer.latest.pkgdef
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\extension.vsixmanifest
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\handInfoViewer.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\handInfoViewer.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\handInfoViewer.pkgdef
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\handInfoViewer.vsix
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\extension.vsixmanifest
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\localArmControlTools.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\powerBar.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\toggleIndicator.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\XboxController.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\ArduinoLibrary.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\localArmControlTools.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\powerBar.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\toggleIndicator.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\XboxController.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\ArduinoLibrary.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\handInfoViewer.csprojResolveAssemblyReference.cache
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\ToolboxControl.baml
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\ToolboxControl.g.cs
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\handInfoViewer_MarkupCompile.cache
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\handInfoViewer.g.resources
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\handInfoViewer.Properties.Resources.resources
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\handInfoViewer.csproj.GenerateResource.Cache
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\handInfoViewer.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\handInfoViewer.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\handInfoViewer.pkgdef
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\handInfoViewer.latest.pkgdef
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\extension.vsixmanifest
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\handInfoViewer.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\handInfoViewer.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\handInfoViewer.pkgdef
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\handInfoViewer.vsix
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\extension.vsixmanifest
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\localArmControlTools.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\powerBar.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\toggleIndicator.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\XboxController.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\ArduinoLibrary.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\localArmControlTools.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\powerBar.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\toggleIndicator.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\XboxController.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\bin\Debug\ArduinoLibrary.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\handInfoViewer.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\ToolboxControl.baml
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\ToolboxControl.g.cs
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\handInfoViewer_MarkupCompile.cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\handInfoViewer.g.resources
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\handInfoViewer.Properties.Resources.resources
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\handInfoViewer.csproj.GenerateResource.Cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\handInfoViewer.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\handInfoViewer.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\handInfoViewer.pkgdef
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\handInfoViewer.latest.pkgdef
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\handInfoViewer\obj\Debug\extension.vsixmanifest

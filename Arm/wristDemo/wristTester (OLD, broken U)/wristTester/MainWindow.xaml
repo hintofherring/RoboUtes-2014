@@ -1,0 +1,12 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:commFeedViz="clr-namespace:commFeedViz;assembly=commFeedViz" x:Class="wristTester.MainWindow"
+        Title="MainWindow" Height="326" Width="670" Closing="Window_Closing">
+    <Grid>
+
+        <commFeedViz:commFeedViz x:Name="comInViz" HorizontalAlignment="Left" VerticalAlignment="Top" Width="331" Height="296"/>
+        <commFeedViz:commFeedViz x:Name="comOutViz" HorizontalAlignment="Left" VerticalAlignment="Top" Width="331" Height="296" Margin="331,0,0,0"/>
+
+    </Grid>
+</Window>

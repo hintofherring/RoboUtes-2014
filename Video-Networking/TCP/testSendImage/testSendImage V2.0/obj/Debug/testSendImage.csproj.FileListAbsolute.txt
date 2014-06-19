@@ -1,0 +1,5 @@
+c:\users\core\documents\visual studio 2012\Projects\testSendImage\testSendImage\bin\Debug\testSendImage.exe.config
+c:\users\core\documents\visual studio 2012\Projects\testSendImage\testSendImage\bin\Debug\testSendImage.exe
+c:\users\core\documents\visual studio 2012\Projects\testSendImage\testSendImage\bin\Debug\testSendImage.pdb
+c:\users\core\documents\visual studio 2012\Projects\testSendImage\testSendImage\obj\Debug\testSendImage.exe
+c:\users\core\documents\visual studio 2012\Projects\testSendImage\testSendImage\obj\Debug\testSendImage.pdb

@@ -1,0 +1,17 @@
+﻿<UserControl x:Name="indicatorImage" x:Class="toggleIndicator.ToolboxControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="80" d:DesignWidth="80" SizeChanged="UserControl_SizeChanged">
+    <Grid x:Name="primaryGrid">
+        <Viewbox x:Name="primaryViewBox" Stretch="Fill">
+            <Grid>
+                <Image x:Name="indicatorREDImage" Stretch="Fill" Source="Resources/indicatorbright.png" OpacityMask="Black"/>
+                <Image x:Name="indicatorGREENImage" Stretch="Fill" Source="Resources/indicatorgreen.png" OpacityMask="Black"/>
+                <Image x:Name="indicatorOFFImage" Stretch="Fill" Source="Resources/indicatorbw.png" OpacityMask="Black"/>
+            </Grid>
+        </Viewbox>
+    </Grid>
+</UserControl>

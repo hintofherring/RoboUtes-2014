@@ -1,0 +1,12 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:liveXboxMonitor="clr-namespace:liveXboxMonitor;assembly=liveXboxMonitor" x:Class="liveXboxMonitor_Tester.MainWindow"
+        Title="MainWindow" Height="350" Width="640.643">
+    <Grid>
+
+        <liveXboxMonitor:ToolboxControl x:Name="xBoxMonitorTester" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="209" Width="340"/>
+        <Label x:Name="leftBumpButton" Content="leftBump" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="409,19,0,0" Width="61" Background="Red" MouseDown="leftBumpButton_MouseDown" MouseUp="leftBumpButton_MouseUp"/>
+
+    </Grid>
+</Window>

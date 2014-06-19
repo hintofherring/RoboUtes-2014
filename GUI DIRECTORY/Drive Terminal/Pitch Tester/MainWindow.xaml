@@ -1,0 +1,19 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Pitch="clr-namespace:Pitch;assembly=Pitch" xmlns:Roll="clr-namespace:Roll;assembly=Roll" x:Class="Pitch_Tester.MainWindow"
+        Title="MainWindow" Height="735" Width="731">
+    <Grid>
+
+        <Pitch:ToolboxControl x:Name="pitchInclinometer" HorizontalAlignment="Left" Margin="45,36,0,0" VerticalAlignment="Top" Height="261" Width="274"/>
+        <Slider x:Name="pitchSlider" HorizontalAlignment="Left" Margin="174,392,0,0" VerticalAlignment="Top" Width="212" Maximum="360" ValueChanged="pitchSlider_ValueChanged"/>
+        <Label Content="PITCH: " HorizontalAlignment="Left" Margin="410,392,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="pitchValLabel" Content="NA" HorizontalAlignment="Left" Margin="468,392,0,0" VerticalAlignment="Top"/>
+        <Slider x:Name="rollSlider" HorizontalAlignment="Left" Margin="174,433,0,0" VerticalAlignment="Top" Width="212" Maximum="360" ValueChanged="rollSlider_ValueChanged"/>
+        <Label Content="ROLL: " HorizontalAlignment="Left" Margin="410,433,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="rollValLabel" Content="NA" HorizontalAlignment="Left" Margin="468,433,0,0" VerticalAlignment="Top"/>
+
+        <Roll:ToolboxControl x:Name="rollInclinometer" HorizontalAlignment="Left" Margin="421,36,0,0" VerticalAlignment="Top" Height="261" Width="248"/>
+
+    </Grid>
+</Window>

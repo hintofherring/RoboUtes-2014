@@ -1,0 +1,73 @@
+﻿<UserControl x:Class="ArmSideView.ArmSide"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" Height="286.667" Width="344">
+    <Grid>
+        <Viewbox Stretch="Fill">
+            <Canvas x:Name="canv" Background="#FF0E0E0E" Height="287" Width="344">
+                <Rectangle Fill="#FF666666" Height="27" Stroke="Black" Canvas.Top="222" Width="60"/>
+                <Rectangle Fill="#FF666666" Height="17" Canvas.Left="24" Stroke="Black" Canvas.Top="206" Width="36"/>
+                <Rectangle x:Name="gRec1" Height="20" Canvas.Left="38" Stroke="Lime" Canvas.Bottom="80" Width="142" RenderTransformOrigin="0,0.5" StrokeThickness="3" RadiusX="10" RadiusY="10">
+                    <Rectangle.Fill>
+                        <SolidColorBrush Color="Lime" Opacity="0.3"/>
+                    </Rectangle.Fill>
+                </Rectangle>
+                <Rectangle x:Name="gRec2" Height="20" Canvas.Left="180" Canvas.Bottom="80" Width="105" RenderTransformOrigin="0,0.5" Stroke="Lime" StrokeThickness="3" RadiusX="10" RadiusY="10" >
+                    <Rectangle.Fill>
+                        <SolidColorBrush Color="Lime" Opacity="0.3"/>
+                    </Rectangle.Fill>
+                </Rectangle>
+                <Rectangle x:Name="aRec1" Height="20" Canvas.Left="38" Stroke="Red" Canvas.Bottom="80" Width="142" RenderTransformOrigin="0,0.5" StrokeThickness="3" RadiusX="10" RadiusY="10">
+                    <Rectangle.Fill>
+                        <SolidColorBrush Color="Red" Opacity="0.3"/>
+                    </Rectangle.Fill>
+                </Rectangle>
+                <Rectangle x:Name="aRec2" Height="20" Canvas.Left="180" Canvas.Bottom="80" Width="105" RenderTransformOrigin="0,0.5" Stroke="Red" StrokeThickness="3" RadiusX="10" RadiusY="10" >
+                    <Rectangle.Fill>
+                        <SolidColorBrush Color="Red" Opacity="0.3"/>
+                    </Rectangle.Fill>
+                </Rectangle>
+                <Canvas Height="72" Canvas.Left="10" Canvas.Top="10" Width="56">
+                    <Canvas Height="46" Canvas.Left="14" Width="18">
+                        <Path x:Name="VerticalArrowHead" Height="13" Width="18" Fill="Red" VerticalAlignment="Bottom" Data="M3,1 L3,9 L1,5.5 L3,1" Stretch="Fill" RenderTransformOrigin="0.5,0.5" >
+                            <Path.RenderTransform>
+                                <TransformGroup>
+                                    <ScaleTransform/>
+                                    <SkewTransform/>
+                                    <RotateTransform Angle="90"/>
+                                    <TranslateTransform/>
+                                </TransformGroup>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Rectangle Fill="Red" Height="32" Canvas.Left="8" Canvas.Top="14" Width="2"/>
+                    </Canvas>
+                    <Canvas Height="46" Canvas.Left="38" Canvas.Top="23" Width="18" RenderTransformOrigin="0.5,0.5">
+                        <Canvas.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="90"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Canvas.RenderTransform>
+                        <Path x:Name="VerticalArrowHead1" Height="13" Width="18" Fill="Green" VerticalAlignment="Bottom" Data="M3,1 L3,9 L1,5.5 L3,1" Stretch="Fill" RenderTransformOrigin="0.5,0.5" >
+                            <Path.RenderTransform>
+                                <TransformGroup>
+                                    <ScaleTransform/>
+                                    <SkewTransform/>
+                                    <RotateTransform Angle="90"/>
+                                    <TranslateTransform/>
+                                </TransformGroup>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Rectangle Fill="Green" Height="32" Canvas.Left="8" Canvas.Top="14" Width="2"/>
+                    </Canvas>
+                    <Label Content="Z" Canvas.Top="20" Background="{x:Null}" Foreground="Red"/>
+                    <Label Content="Y" Canvas.Left="28" Canvas.Top="46" Background="{x:Null}" Foreground="Green"/>
+                </Canvas>
+            </Canvas>
+        </Viewbox>
+    </Grid>
+</UserControl>

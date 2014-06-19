@@ -1,0 +1,13 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Inclinometer="clr-namespace:Inclinometer;assembly=Inclinometer" xmlns:toggleIndicator="clr-namespace:toggleIndicator;assembly=toggleIndicator" x:Class="Inclinometer_Window_Tester.MainWindow"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Inclinometer:ToolboxControl x:Name="inclinometerWindow" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="284" Width="248"/>
+        <Button x:Name="rollWarningButton" Content="Roll Warning" HorizontalAlignment="Left" Margin="413,74,0,0" VerticalAlignment="Top" Width="94" Click="rollWarningButton_Click"/>
+        <Button x:Name="pitchWarningButton" Content="Pitch Warning" HorizontalAlignment="Left" Margin="413,231,0,0" VerticalAlignment="Top" Width="94" Click="pitchWarningButton_Click"/>
+        <Slider x:Name="rollSlider" HorizontalAlignment="Left" Margin="263,101,0,0" VerticalAlignment="Top" Width="244" Maximum="360" ValueChanged="rollSlider_ValueChanged"/>
+        <Slider x:Name="pitchSlider" HorizontalAlignment="Left" Margin="263,258,0,0" VerticalAlignment="Top" Width="244" Maximum="360" ValueChanged="pitchSlider_ValueChanged"/>
+    </Grid>
+</Window>

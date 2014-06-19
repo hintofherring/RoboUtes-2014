@@ -1,0 +1,48 @@
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\handInfoViewer.dll
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\localArmControlTools.dll
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\powerBar.dll
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\toggleIndicator.dll
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\XboxController.dll
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\handInfoViewer.pkgdef
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\extension.vsixmanifest
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\commSockServer.dll
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\ChatClientModel.dll
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\Microsoft.Xna.Framework.dll
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\StringSocket.dll
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\handInfoViewer.pdb
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\localArmControlTools.pdb
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\powerBar.pdb
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\toggleIndicator.pdb
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\XboxController.pdb
+C:\Users\RoboUtes 4\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\handInfoViewer.dll
+C:\Users\RoboUtes 4\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\localArmControlTools.dll
+C:\Users\RoboUtes 4\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\powerBar.dll
+C:\Users\RoboUtes 4\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\toggleIndicator.dll
+C:\Users\RoboUtes 4\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\XboxController.dll
+C:\Users\RoboUtes 4\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\handInfoViewer.pkgdef
+C:\Users\RoboUtes 4\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\extension.vsixmanifest
+C:\Users\RoboUtes 4\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\commSockServer.dll
+C:\Users\RoboUtes 4\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\ChatClientModel.dll
+C:\Users\RoboUtes 4\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\Microsoft.Xna.Framework.dll
+C:\Users\RoboUtes 4\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\StringSocket.dll
+C:\Users\RoboUtes 4\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\handInfoViewer.pdb
+C:\Users\RoboUtes 4\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\localArmControlTools.pdb
+C:\Users\RoboUtes 4\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\powerBar.pdb
+C:\Users\RoboUtes 4\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\toggleIndicator.pdb
+C:\Users\RoboUtes 4\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\XboxController.pdb
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\handInfoViewer.dll
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\localArmControlTools.dll
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\powerBar.dll
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\toggleIndicator.dll
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\XboxController.dll
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\handInfoViewer.pkgdef
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\extension.vsixmanifest
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\commSockServer.dll
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\ChatClientModel.dll
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\Microsoft.Xna.Framework.dll
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\StringSocket.dll
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\handInfoViewer.pdb
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\localArmControlTools.pdb
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\powerBar.pdb
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\toggleIndicator.pdb
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\handInfoViewer\1.0\\XboxController.pdb

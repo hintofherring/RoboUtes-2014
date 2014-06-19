@@ -1,0 +1,328 @@
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\MasterDriveGUI.csprojResolveAssemblyReference.cache
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\MainWindow.baml
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\MainWindow.g.cs
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\App.g.cs
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\DriveTerminal_MarkupCompile.cache
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\DriveTerminal.g.resources
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\DriveTerminal.Properties.Resources.resources
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\MasterDriveGUI.csproj.GenerateResource.Cache
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\DriveTerminal.exe.config
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\DriveTerminal.exe
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\DriveTerminal.pdb
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\commFeedViz.dll
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\ConsoleOutput.dll
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Deadzone.dll
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Inclinometer.dll
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\LiveDriveData.dll
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\liveXboxMonitor.dll
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\PilotPreferences.dll
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Pitch.dll
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Roll.dll
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\toggleIndicator.dll
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\WheelMonitor.dll
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\commFeedViz.pdb
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\ConsoleOutput.pdb
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Deadzone.pdb
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Inclinometer.pdb
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Pitch.pdb
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Roll.pdb
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\LiveDriveData.pdb
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\liveXboxMonitor.pdb
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\PilotPreferences.pdb
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\toggleIndicator.pdb
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\WheelMonitor.pdb
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\DriveTerminal.exe
+D:\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\DriveTerminal.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\DriveTerminal.exe.config
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\DriveTerminal.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\DriveTerminal.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\DriveTerminal.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\DriveTerminal.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\commFeedViz.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\ConsoleOutput.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Deadzone.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Inclinometer.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\LiveDriveData.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\liveXboxMonitor.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\PilotPreferences.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Pitch.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Roll.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\toggleIndicator.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\WheelMonitor.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\commFeedViz.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\ConsoleOutput.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Deadzone.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Inclinometer.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Pitch.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Roll.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\LiveDriveData.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\liveXboxMonitor.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\PilotPreferences.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\toggleIndicator.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\WheelMonitor.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\MasterDriveGUI.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\MainWindow.baml
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\MainWindow.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\App.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\DriveTerminal_MarkupCompile.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\DriveTerminal.g.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\DriveTerminal.Properties.Resources.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\MasterDriveGUI.csproj.GenerateResource.Cache
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\liveXboxMonitorV2.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\XboxController.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\liveXboxMonitorV2.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\XboxController.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\DriveTerminal.exe.config
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\DriveTerminal.exe
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\DriveTerminal.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\commFeedViz.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\ConsoleOutput.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Deadzone.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Inclinometer.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\LiveDriveData.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\liveXboxMonitor.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\networkStatusIndicator.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\PilotPreferences.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Pitch.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Roll.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\toggleIndicator.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\WheelMonitor.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\XboxController.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\liveXboxMonitorV2.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\commFeedViz.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\ConsoleOutput.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Deadzone.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Inclinometer.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Pitch.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Roll.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\LiveDriveData.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\liveXboxMonitor.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\networkStatusIndicator.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\PilotPreferences.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\toggleIndicator.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\WheelMonitor.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\XboxController.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\liveXboxMonitorV2.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\MasterDriveGUI.csprojResolveAssemblyReference.cache
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\MainWindow.baml
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\MainWindow.g.cs
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\App.g.cs
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\DriveTerminal_MarkupCompile.cache
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\DriveTerminal.g.resources
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\DriveTerminal.Properties.Resources.resources
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\MasterDriveGUI.csproj.GenerateResource.Cache
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\DriveTerminal.exe
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\DriveTerminal.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\commSockServer.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\ChatClientModel.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\StringSocket.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\commSockServer.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\ChatClientModel.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\StringSocket.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\driveTools.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\driveTools.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\OculusOrientation.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\videoViewerWindow.exe
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\RiftDotNet.Interface.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\RiftDotNet.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\SharpDX.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\log4net.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\RiftDotNet.x64.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\RiftDotNet.Win32.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\OculusOrientation.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\videoViewerWindow.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\SharpDX.xml
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\log4net.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\videoSocketReceiver.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\videoSocketReceiver.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\DriveTerminal.exe.config
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\DriveTerminal.exe
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\DriveTerminal.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\commFeedViz.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\commSockServer.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\ConsoleOutput.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Deadzone.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\driveTools.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Inclinometer.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\LiveDriveData.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\liveXboxMonitor.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\networkStatusIndicator.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\OculusOrientation.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\PilotPreferences.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Pitch.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Roll.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\toggleIndicator.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\videoViewerWindow.exe
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\WheelMonitor.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\XboxController.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\ChatClientModel.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\RiftDotNet.Interface.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\RiftDotNet.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\SharpDX.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\liveXboxMonitorV2.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\videoSocketReceiver.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\StringSocket.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\RiftDotNet.x64.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\RiftDotNet.Win32.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\commFeedViz.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\commSockServer.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\ConsoleOutput.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Deadzone.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\driveTools.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Inclinometer.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Pitch.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Roll.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\LiveDriveData.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\liveXboxMonitor.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\networkStatusIndicator.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\OculusOrientation.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\PilotPreferences.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\toggleIndicator.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\videoViewerWindow.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\WheelMonitor.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\XboxController.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\ChatClientModel.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\liveXboxMonitorV2.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\videoSocketReceiver.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\StringSocket.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\MasterDriveGUI.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\MainWindow.baml
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\MainWindow.g.cs
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\App.g.cs
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\DriveTerminal_MarkupCompile.cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\DriveTerminal.g.resources
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\DriveTerminal.Properties.Resources.resources
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\MasterDriveGUI.csproj.GenerateResource.Cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\DriveTerminal.exe
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\DriveTerminal.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\log4net.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\log4net.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\MasterDriveGUI.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\MainWindow.baml
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\MainWindow.g.cs
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\App.g.cs
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\DriveTerminal_MarkupCompile.cache
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\DriveTerminal.g.resources
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\DriveTerminal.Properties.Resources.resources
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\MasterDriveGUI.csproj.GenerateResource.Cache
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\DriveTerminal.exe.config
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\DriveTerminal.exe
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\DriveTerminal.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\commFeedViz.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\commSockServer.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\ConsoleOutput.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Deadzone.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\driveTools.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Inclinometer.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\LiveDriveData.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\liveXboxMonitor.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\networkStatusIndicator.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\OculusOrientation.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\PilotPreferences.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Pitch.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Roll.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\toggleIndicator.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\videoSocketReceiver.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\videoViewerWindow.exe
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\WheelMonitor.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\XboxController.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\ChatClientModel.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\RiftDotNet.Interface.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\RiftDotNet.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\SharpDX.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\liveXboxMonitorV2.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\StringSocket.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\log4net.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\RiftDotNet.x64.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\RiftDotNet.Win32.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\commFeedViz.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\commSockServer.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\ConsoleOutput.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Deadzone.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\driveTools.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Inclinometer.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Pitch.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Roll.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\LiveDriveData.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\liveXboxMonitor.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\networkStatusIndicator.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\OculusOrientation.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\PilotPreferences.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\toggleIndicator.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\videoSocketReceiver.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\videoViewerWindow.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\WheelMonitor.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\XboxController.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\ChatClientModel.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\liveXboxMonitorV2.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\StringSocket.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\log4net.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\DriveTerminal.exe
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\DriveTerminal.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\DriveTerminal.exe.config
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\DriveTerminal.exe
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\DriveTerminal.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\DriveTerminal.exe
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\DriveTerminal.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\commFeedViz.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\commSockServer.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\ConsoleOutput.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Deadzone.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\driveTools.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Inclinometer.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\LiveDriveData.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\liveXboxMonitor.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\networkStatusIndicator.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\OculusOrientation.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\PilotPreferences.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Pitch.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Roll.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\toggleIndicator.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\videoSocketReceiver.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\videoViewerWindow.exe
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\WheelMonitor.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\XboxController.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\ChatClientModel.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\RiftDotNet.Interface.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\RiftDotNet.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\SharpDX.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\liveXboxMonitorV2.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\StringSocket.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\log4net.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\RiftDotNet.x64.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\RiftDotNet.Win32.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\commFeedViz.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\commSockServer.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\ConsoleOutput.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Deadzone.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\driveTools.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Inclinometer.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Pitch.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\Roll.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\LiveDriveData.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\liveXboxMonitor.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\networkStatusIndicator.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\OculusOrientation.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\PilotPreferences.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\toggleIndicator.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\videoSocketReceiver.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\videoViewerWindow.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\WheelMonitor.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\XboxController.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\ChatClientModel.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\liveXboxMonitorV2.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\StringSocket.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\bin\Debug\log4net.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\MasterDriveGUI.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\MainWindow.baml
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\MainWindow.g.cs
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\App.g.cs
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\DriveTerminal_MarkupCompile.cache
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\DriveTerminal.g.resources
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\DriveTerminal.Properties.Resources.resources
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\DriveTerminal\obj\Debug\MasterDriveGUI.csproj.GenerateResource.Cache

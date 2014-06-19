@@ -1,0 +1,5 @@
+c:\users\hal9000\documents\visual studio 2012\Projects\videoSocketReceiver\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\hal9000\documents\visual studio 2012\Projects\videoSocketReceiver\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\hal9000\documents\visual studio 2012\Projects\videoSocketReceiver\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\hal9000\documents\visual studio 2012\Projects\videoSocketReceiver\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\hal9000\documents\visual studio 2012\Projects\videoSocketReceiver\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

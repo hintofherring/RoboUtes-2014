@@ -1,0 +1,16 @@
+﻿<Window x:Class="manyCamTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="1064.95" Width="994.937" Closed="Window_Closed">
+    <Grid>
+        <Image x:Name="cam1Image" HorizontalAlignment="Left" Height="296" Margin="10,10,0,0" VerticalAlignment="Top" Width="296"/>
+        <Image x:Name="cam2Image" HorizontalAlignment="Left" Height="296" Margin="311,10,0,0" VerticalAlignment="Top" Width="296"/>
+        <Image x:Name="cam3Image" HorizontalAlignment="Left" Height="296" Margin="612,10,0,0" VerticalAlignment="Top" Width="296"/>
+        <Image x:Name="cam4Image" HorizontalAlignment="Left" Height="296" Margin="10,311,0,0" VerticalAlignment="Top" Width="296"/>
+        <Image x:Name="cam5Image" HorizontalAlignment="Left" Height="296" Margin="316,306,0,0" VerticalAlignment="Top" Width="296"/>
+        <Image x:Name="cam6Image" HorizontalAlignment="Left" Height="296" Margin="617,306,0,0" VerticalAlignment="Top" Width="296"/>
+        <Image x:Name="cam7Image" HorizontalAlignment="Left" Height="296" Margin="0,612,0,0" VerticalAlignment="Top" Width="296"/>
+        <Image x:Name="cam8Image" Height="296" Margin="311,612,380,0" VerticalAlignment="Top"/>
+        <Image x:Name="cam9Image" HorizontalAlignment="Left" Height="296" Margin="617,612,0,0" VerticalAlignment="Top" Width="296"/>
+    </Grid>
+</Window>

@@ -1,0 +1,21 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:videoManager="clr-namespace:videoManager;assembly=videoManager" xmlns:networkStatusIndicator="clr-namespace:networkStatusIndicator;assembly=networkStatusIndicator" xmlns:HardwareMonitor="clr-namespace:HardwareMonitor;assembly=HardwareMonitor" xmlns:commFeedViz="clr-namespace:commFeedViz;assembly=commFeedViz" xmlns:videoTraits="clr-namespace:videoTraits;assembly=videoTraits" x:Class="Engineering_Terminal.MainWindow"
+        Title="MainWindow" Height="712.801" Width="2069.659" Closed="Window_Closed" Loaded="Window_Loaded">
+    <Grid>
+
+        <videoManager:ToolboxControl x:Name="videoManager" HorizontalAlignment="Left" VerticalAlignment="Top" Height="592" Width="464"/>
+
+        <networkStatusIndicator:ToolboxControl x:Name="connectionIndicator" HorizontalAlignment="Left" Margin="0,592,0,0" VerticalAlignment="Top" Height="92"/>
+
+        <HardwareMonitor:ToolboxControl x:Name="hardwareMonitor" HorizontalAlignment="Left" Margin="989,0,0,0" VerticalAlignment="Top" Height="592" Width="517"/>
+
+        <commFeedViz:commFeedViz x:Name="internetInComViz" HorizontalAlignment="Left" Margin="1506,0,0,0" VerticalAlignment="Top" Height="592" title="Internet IN" IsHitTestVisible="False" Width="556"/>
+
+
+        <videoTraits:ToolboxControl x:Name="videoQualityControl" HorizontalAlignment="Left" Margin="464,0,0,0" VerticalAlignment="Top" Height="592"/>
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,18 @@
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="Deadzone..409c3c8f-9823-49c4-aba2-6d289fec2589" Version="1.0" Language="en-US" Publisher="Greg Anderson" />
+    <DisplayName>Deadzone</DisplayName>
+    <Description>WPF Toolbox Control</Description>
+    <Icon />
+    <PreviewImage />
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Pro" Version="11.0" />
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" Version="4.5" />
+  </Dependencies>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.ToolboxControl" Path="Deadzone.pkgdef" />
+  </Assets>
+</PackageManifest>

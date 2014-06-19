@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="Macros.Macros"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="250" d:DesignWidth="300">
+    <Grid Background="#FF1F1F1F">
+        <Button x:Name="EmergStopArmButton" Content="ARM STOP" FontWeight="Bold" Foreground="#FFFF9700" BorderBrush="#FFFFF300" Height="50" Width="100" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Right" VerticalAlignment="Top" Click="Button_Click" Uid="Emergency Stop">
+            <Button.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="Red" Offset="1"/>
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF510000" Offset="0.857"/>
+                </RadialGradientBrush>
+            </Button.Background>
+        </Button>
+        <Label Content="MACROS" HorizontalAlignment="Center" VerticalAlignment="Top" Foreground="#FFFFAE00" FontWeight="Bold" FontSize="16"/>
+        <Grid Margin="10,50,102,10">
+            <Viewbox Margin="0,22,0,18" Stretch="Fill">
+                <Grid Height="130" Width="200">
+                    <Button x:Name="Button2" Content="Unstow" Margin="105,0,0,100" ClipToBounds="True" Height="30" Background="#FF343434" Foreground="#FFFFB900" FontWeight="Bold" FontSize="14" BorderBrush="Black" Click="Button_Click" />
+                    <Button x:Name="Button1" Content="Stow" Margin="0,0,105,100" ClipToBounds="True" Height="30" Background="#FF343434" Foreground="#FFFFB900" FontWeight="Bold" FontSize="14" BorderBrush="Black" Click="Button_Click" />
+                    <Button x:Name="Button4" Content="Safe Deploy" Margin="105,50,0,50" ClipToBounds="True" Height="30" Background="#FF343434" Foreground="#FFFFB900" FontWeight="Bold" FontSize="14" BorderBrush="Black" Click="Button_Click" />
+                    <Button x:Name="Button3" Content="Return Rock" Margin="0,50,105,50" ClipToBounds="True" Height="30" Background="#FF343434" Foreground="#FFFFB900" FontWeight="Bold" FontSize="14" BorderBrush="Black" Click="Button_Click" />
+                    <Button x:Name="Button6" Content="--NA--" Margin="105,100,0,0" ClipToBounds="True" Height="30" Background="#FF343434" Foreground="#FFFFB900" FontWeight="Bold" FontSize="14" BorderBrush="Black" Click="Button_Click" />
+                    <Button x:Name="Button5" Content="Hold Grip" Margin="0,100,105,0" ClipToBounds="True" Height="30" Background="#FF343434" Foreground="#FFFFB900" FontWeight="Bold" FontSize="14" BorderBrush="Black" Click="Button_Click" />
+                </Grid>
+            </Viewbox>
+        </Grid>
+    </Grid>
+</UserControl>

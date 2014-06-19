@@ -1,0 +1,9 @@
+C:\Users\CORE\Desktop\CSharp GPS\GPSExamples\GPS-simple\GPS-simple\bin\Debug\GPS-simple.exe
+C:\Users\CORE\Desktop\CSharp GPS\GPSExamples\GPS-simple\GPS-simple\bin\Debug\GPS-simple.pdb
+C:\Users\CORE\Desktop\CSharp GPS\GPSExamples\GPS-simple\GPS-simple\obj\Debug\GPS-simple.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Desktop\CSharp GPS\GPSExamples\GPS-simple\GPS-simple\obj\Debug\GPS-simple.exe
+C:\Users\CORE\Desktop\CSharp GPS\GPSExamples\GPS-simple\GPS-simple\obj\Debug\GPS-simple.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GPS\GPS-simple\GPS-simple\obj\Debug\GPS-simple.exe
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GPS\GPS-simple\GPS-simple\obj\Debug\GPS-simple.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GPS\GPS-simple\GPS-simple\obj\Debug\GPS-simple.exe
+C:\Users\RoboUtes 6\Desktop\Roboutes\GPS\GPS-simple\GPS-simple\obj\Debug\GPS-simple.pdb

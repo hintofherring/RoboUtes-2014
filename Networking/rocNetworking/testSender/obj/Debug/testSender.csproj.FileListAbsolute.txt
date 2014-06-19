@@ -1,0 +1,37 @@
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\testSender\bin\Debug\testSender.exe.config
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\testSender\bin\Debug\testSender.exe
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\testSender\bin\Debug\testSender.pdb
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\testSender\bin\Debug\commSocket.dll
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\testSender\bin\Debug\StringSocket.dll
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\testSender\bin\Debug\commSocket.pdb
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\testSender\bin\Debug\StringSocket.pdb
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\testSender\obj\Debug\testSender.csprojResolveAssemblyReference.cache
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\testSender\obj\Debug\MainWindow.baml
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\testSender\obj\Debug\MainWindow.g.cs
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\testSender\obj\Debug\App.g.cs
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\testSender\obj\Debug\testSender_MarkupCompile.cache
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\testSender\obj\Debug\testSender.g.resources
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\testSender\obj\Debug\testSender.Properties.Resources.resources
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\testSender\obj\Debug\testSender.csproj.GenerateResource.Cache
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\testSender\obj\Debug\testSender.exe
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\testSender\obj\Debug\testSender.pdb
+E:\MATTS STUFF\rocNetworking\testSender\obj\Debug\testSender.csprojResolveAssemblyReference.cache
+E:\MATTS STUFF\rocNetworking\testSender\obj\Debug\MainWindow.baml
+E:\MATTS STUFF\rocNetworking\testSender\obj\Debug\MainWindow.g.cs
+E:\MATTS STUFF\rocNetworking\testSender\obj\Debug\App.g.cs
+E:\MATTS STUFF\rocNetworking\testSender\obj\Debug\testSender_MarkupCompile.cache
+E:\MATTS STUFF\rocNetworking\testSender\obj\Debug\testSender.g.resources
+E:\MATTS STUFF\rocNetworking\testSender\obj\Debug\testSender.Properties.Resources.resources
+E:\MATTS STUFF\rocNetworking\testSender\obj\Debug\testSender.csproj.GenerateResource.Cache
+E:\MATTS STUFF\rocNetworking\testSender\bin\Debug\testSender.exe.config
+E:\MATTS STUFF\rocNetworking\testSender\bin\Debug\testSender.exe
+E:\MATTS STUFF\rocNetworking\testSender\bin\Debug\testSender.pdb
+E:\MATTS STUFF\rocNetworking\testSender\bin\Debug\commSocket.dll
+E:\MATTS STUFF\rocNetworking\testSender\bin\Debug\StringSocket.dll
+E:\MATTS STUFF\rocNetworking\testSender\bin\Debug\commSocket.pdb
+E:\MATTS STUFF\rocNetworking\testSender\bin\Debug\StringSocket.pdb
+E:\MATTS STUFF\rocNetworking\testSender\obj\Debug\testSender.exe
+E:\MATTS STUFF\rocNetworking\testSender\obj\Debug\testSender.pdb
+C:\Users\ROC\Documents\GitHub\Roboutes\Networking\rocNetworking\testSender\bin\Debug\testSender.exe.config
+C:\Users\ROC\Documents\GitHub\Roboutes\Networking\rocNetworking\testSender\obj\Debug\testSender.exe
+C:\Users\ROC\Documents\GitHub\Roboutes\Networking\rocNetworking\testSender\obj\Debug\testSender.pdb

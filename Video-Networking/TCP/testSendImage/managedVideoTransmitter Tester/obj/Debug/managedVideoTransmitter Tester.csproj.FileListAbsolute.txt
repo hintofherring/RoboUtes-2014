@@ -1,0 +1,60 @@
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\testSendImage\managedVideoTransmitter Tester\bin\Debug\managedVideoTransmitter Tester.exe.config
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\testSendImage\managedVideoTransmitter Tester\bin\Debug\managedVideoTransmitter Tester.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\testSendImage\managedVideoTransmitter Tester\bin\Debug\managedVideoTransmitter Tester.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\testSendImage\managedVideoTransmitter Tester\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\testSendImage\managedVideoTransmitter Tester\bin\Debug\AForge.Video.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\testSendImage\managedVideoTransmitter Tester\bin\Debug\managedVideoTransmitter.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\testSendImage\managedVideoTransmitter Tester\bin\Debug\videoSocketSender.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\testSendImage\managedVideoTransmitter Tester\bin\Debug\managedVideoTransmitter.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\testSendImage\managedVideoTransmitter Tester\bin\Debug\videoSocketSender.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\testSendImage\managedVideoTransmitter Tester\obj\Debug\managedVideoTransmitter Tester.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\testSendImage\managedVideoTransmitter Tester\obj\Debug\MainWindow.baml
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\testSendImage\managedVideoTransmitter Tester\obj\Debug\MainWindow.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\testSendImage\managedVideoTransmitter Tester\obj\Debug\App.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\testSendImage\managedVideoTransmitter Tester\obj\Debug\managedVideoTransmitter Tester_MarkupCompile.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\testSendImage\managedVideoTransmitter Tester\obj\Debug\managedVideoTransmitter Tester.g.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\testSendImage\managedVideoTransmitter Tester\obj\Debug\managedVideoTransmitter_Tester.Properties.Resources.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\testSendImage\managedVideoTransmitter Tester\obj\Debug\managedVideoTransmitter Tester.csproj.GenerateResource.Cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\testSendImage\managedVideoTransmitter Tester\obj\Debug\managedVideoTransmitter Tester.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\testSendImage\managedVideoTransmitter Tester\obj\Debug\managedVideoTransmitter Tester.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\bin\Debug\managedVideoTransmitter Tester.exe.config
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\obj\Debug\managedVideoTransmitter Tester.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\obj\Debug\managedVideoTransmitter Tester.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\bin\Debug\managedVideoTransmitter Tester.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\bin\Debug\managedVideoTransmitter Tester.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\bin\Debug\AForge.Video.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\bin\Debug\managedVideoTransmitter.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\bin\Debug\videoSocketSender.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\bin\Debug\managedVideoTransmitter.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\bin\Debug\videoSocketSender.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\obj\Debug\managedVideoTransmitter Tester.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\obj\Debug\MainWindow.baml
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\obj\Debug\MainWindow.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\obj\Debug\App.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\obj\Debug\managedVideoTransmitter Tester_MarkupCompile.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\obj\Debug\managedVideoTransmitter Tester.g.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\obj\Debug\managedVideoTransmitter_Tester.Properties.Resources.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\obj\Debug\managedVideoTransmitter Tester.csproj.GenerateResource.Cache
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\bin\Debug\managedVideoTransmitter Tester.exe.config
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\obj\Debug\managedVideoTransmitter Tester.exe
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\obj\Debug\managedVideoTransmitter Tester.pdb
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\bin\Debug\managedVideoTransmitter Tester.exe
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\bin\Debug\managedVideoTransmitter Tester.pdb
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\bin\Debug\AForge.Video.dll
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\bin\Debug\managedVideoTransmitter.dll
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\bin\Debug\videoSocketSender.dll
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\bin\Debug\managedVideoTransmitter.pdb
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\bin\Debug\videoSocketSender.pdb
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\obj\Debug\managedVideoTransmitter Tester.csprojResolveAssemblyReference.cache
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\obj\Debug\MainWindow.baml
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\obj\Debug\MainWindow.g.cs
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\obj\Debug\App.g.cs
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\obj\Debug\managedVideoTransmitter Tester_MarkupCompile.cache
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\obj\Debug\managedVideoTransmitter Tester.g.resources
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\obj\Debug\managedVideoTransmitter_Tester.Properties.Resources.resources
+C:\Users\ROC\Documents\GitHub\Roboutes\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\obj\Debug\managedVideoTransmitter Tester.csproj.GenerateResource.Cache
+C:\Users\ROC\Documents\GitHub\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\bin\Debug\managedVideoTransmitter Tester.exe.config
+C:\Users\ROC\Documents\GitHub\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\obj\Debug\managedVideoTransmitter Tester.exe
+C:\Users\ROC\Documents\GitHub\Video-Networking\TCP\testSendImage\managedVideoTransmitter Tester\obj\Debug\managedVideoTransmitter Tester.pdb

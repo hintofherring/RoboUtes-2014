@@ -1,0 +1,14 @@
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\rocNetworking\obj\Debug\rocNetworkManager.csprojResolveAssemblyReference.cache
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\rocNetworking\bin\Debug\rocNetworking.dll
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\rocNetworking\bin\Debug\rocNetworking.pdb
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\rocNetworking\bin\Debug\StringSocket.dll
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\rocNetworking\bin\Debug\StringSocket.pdb
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\rocNetworking\obj\Debug\rocNetworking.dll
+c:\users\hal9000\documents\visual studio 2012\Projects\rocNetworking\rocNetworking\obj\Debug\rocNetworking.pdb
+E:\MATTS STUFF\rocNetworking\rocNetworking\bin\Debug\rocNetworking.dll
+E:\MATTS STUFF\rocNetworking\rocNetworking\bin\Debug\rocNetworking.pdb
+E:\MATTS STUFF\rocNetworking\rocNetworking\bin\Debug\StringSocket.dll
+E:\MATTS STUFF\rocNetworking\rocNetworking\bin\Debug\StringSocket.pdb
+E:\MATTS STUFF\rocNetworking\rocNetworking\obj\Debug\rocNetworkManager.csprojResolveAssemblyReference.cache
+E:\MATTS STUFF\rocNetworking\rocNetworking\obj\Debug\rocNetworking.dll
+E:\MATTS STUFF\rocNetworking\rocNetworking\obj\Debug\rocNetworking.pdb

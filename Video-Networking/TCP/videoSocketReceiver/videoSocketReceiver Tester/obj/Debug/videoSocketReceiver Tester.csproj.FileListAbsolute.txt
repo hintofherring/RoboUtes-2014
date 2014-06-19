@@ -1,0 +1,30 @@
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\videoSocketReceiver\videoSocketReceiver Tester\bin\Debug\videoSocketReceiver Tester.exe.config
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\videoSocketReceiver\videoSocketReceiver Tester\bin\Debug\videoSocketReceiver Tester.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\videoSocketReceiver\videoSocketReceiver Tester\bin\Debug\videoSocketReceiver Tester.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\videoSocketReceiver\videoSocketReceiver Tester\bin\Debug\videoSocketReceiver.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\videoSocketReceiver\videoSocketReceiver Tester\bin\Debug\videoSocketReceiver.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\videoSocketReceiver\videoSocketReceiver Tester\obj\Debug\videoSocketReceiver Tester.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\videoSocketReceiver\videoSocketReceiver Tester\obj\Debug\MainWindow.baml
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\videoSocketReceiver\videoSocketReceiver Tester\obj\Debug\MainWindow.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\videoSocketReceiver\videoSocketReceiver Tester\obj\Debug\App.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\videoSocketReceiver\videoSocketReceiver Tester\obj\Debug\videoSocketReceiver Tester_MarkupCompile.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\videoSocketReceiver\videoSocketReceiver Tester\obj\Debug\videoSocketReceiver Tester.g.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\videoSocketReceiver\videoSocketReceiver Tester\obj\Debug\videoSocketReceiver_Tester.Properties.Resources.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\videoSocketReceiver\videoSocketReceiver Tester\obj\Debug\videoSocketReceiver Tester.csproj.GenerateResource.Cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\videoSocketReceiver\videoSocketReceiver Tester\obj\Debug\videoSocketReceiver Tester.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\videoSocketReceiver\videoSocketReceiver Tester\obj\Debug\videoSocketReceiver Tester.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\videoSocketReceiver\videoSocketReceiver Tester\bin\Debug\videoSocketReceiver Tester.exe.config
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\videoSocketReceiver\videoSocketReceiver Tester\obj\Debug\videoSocketReceiver Tester.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\videoSocketReceiver\videoSocketReceiver Tester\obj\Debug\videoSocketReceiver Tester.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\videoSocketReceiver\videoSocketReceiver Tester\bin\Debug\videoSocketReceiver Tester.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\videoSocketReceiver\videoSocketReceiver Tester\bin\Debug\videoSocketReceiver Tester.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\videoSocketReceiver\videoSocketReceiver Tester\bin\Debug\videoSocketReceiver.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\videoSocketReceiver\videoSocketReceiver Tester\bin\Debug\videoSocketReceiver.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\videoSocketReceiver\videoSocketReceiver Tester\obj\Debug\videoSocketReceiver Tester.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\videoSocketReceiver\videoSocketReceiver Tester\obj\Debug\MainWindow.baml
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\videoSocketReceiver\videoSocketReceiver Tester\obj\Debug\MainWindow.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\videoSocketReceiver\videoSocketReceiver Tester\obj\Debug\App.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\videoSocketReceiver\videoSocketReceiver Tester\obj\Debug\videoSocketReceiver Tester_MarkupCompile.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\videoSocketReceiver\videoSocketReceiver Tester\obj\Debug\videoSocketReceiver Tester.g.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\videoSocketReceiver\videoSocketReceiver Tester\obj\Debug\videoSocketReceiver_Tester.Properties.Resources.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\TCP\videoSocketReceiver\videoSocketReceiver Tester\obj\Debug\videoSocketReceiver Tester.csproj.GenerateResource.Cache

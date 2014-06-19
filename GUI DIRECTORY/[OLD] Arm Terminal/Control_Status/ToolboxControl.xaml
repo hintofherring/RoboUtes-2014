@@ -1,0 +1,29 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:toggleIndicator="clr-namespace:toggleIndicator;assembly=toggleIndicator" x:Class="Control_Status.ControlStatus" 
+             mc:Ignorable="d" Height="300" Width="275">
+    <Viewbox Stretch="Fill">
+        <Grid Height="300" Width="275">
+            <Rectangle Fill="#FF2C2C2C" Height="150" Stroke="Black" VerticalAlignment="Top"/>
+            <Rectangle Fill="#FF2C2C2C" Stroke="Black" Margin="0,150,0,0"/>
+            <Label Content="Main Controller Connected" HorizontalAlignment="Left" Margin="63,18,0,0" VerticalAlignment="Top" Width="202" Height="34" Foreground="#FFFFAE00" FontWeight="Bold" FontSize="14"/>
+            <Label Content="Arm Connected" HorizontalAlignment="Left" Margin="63,107,0,0" VerticalAlignment="Top" Width="202" Height="34" Foreground="#FFFFAE00" FontWeight="Bold" FontSize="18"/>
+            <Label Content="GUI Drive" HorizontalAlignment="Left" Margin="50,166,0,0" VerticalAlignment="Top" Width="202" Height="34" Foreground="#FFFFAE00" FontWeight="Bold" FontSize="16"/>
+            <Label Content="Controller Drive" HorizontalAlignment="Left" Margin="50,209,0,0" VerticalAlignment="Top" Width="202" Height="34" Foreground="#FFFFAE00" FontWeight="Bold" FontSize="16"/>
+            <Label Content="Gripper Input" HorizontalAlignment="Left" Margin="50,254,0,0" VerticalAlignment="Top" Width="202" Height="34" Foreground="#FFFFAE00" FontWeight="Bold" FontSize="16"/>
+            <Button x:Name="guiDriveButton" Content="Toggle" HorizontalAlignment="Left" Margin="190,172,0,0" VerticalAlignment="Top" Width="75" FontWeight="Bold" Foreground="#FFFFB900" Background="Black" Uid="GUI_Drive" Click="ButtonClicked"/>
+            <Button x:Name="controllerDriveButton" Content="Toggle" HorizontalAlignment="Left" Margin="190,215,0,0" VerticalAlignment="Top" Width="75" FontWeight="Bold" Foreground="#FFFFB900" Background="Black" Uid="Controller_Drive" Click="ButtonClicked"/>
+            <Button x:Name="gripperInputButton" Content="Toggle" HorizontalAlignment="Left" Margin="190,260,0,0" VerticalAlignment="Top" Width="75" FontWeight="Bold" Foreground="#FFFFB900" Background="Black" Uid="Gripper_Input" Click="ButtonClicked"/>
+            <Label Content="Mini Controller Connected" HorizontalAlignment="Left" Margin="63,66,0,0" VerticalAlignment="Top" Width="202" Height="34" Foreground="#FFFFAE00" FontWeight="Bold" FontSize="14"/>
+            <toggleIndicator:ToolboxControl x:Name="Main_Controller_Connected_Indicator" HorizontalAlignment="Left" Margin="10,13,0,0" VerticalAlignment="Top" Height="39" Width="39"/>
+            <toggleIndicator:ToolboxControl x:Name="Mini_Controller_Connected_Indicator" HorizontalAlignment="Left" Margin="10,61,0,0" VerticalAlignment="Top" Height="39" Width="39"/>
+            <toggleIndicator:ToolboxControl x:Name="Arm_Connected_Indicator" HorizontalAlignment="Left" Margin="10,107,0,0" VerticalAlignment="Top" Height="39" Width="39"/>
+            <toggleIndicator:ToolboxControl x:Name="GUI_Drive_Indicator" HorizontalAlignment="Left" Margin="11,166,0,0" VerticalAlignment="Top" Height="39" Width="39"/>
+            <toggleIndicator:ToolboxControl x:Name="Controller_Drive_Indicator" HorizontalAlignment="Left" Margin="11,209,0,0" VerticalAlignment="Top" Height="39" Width="39"/>
+            <toggleIndicator:ToolboxControl x:Name="Gripper_Input_Indicator" HorizontalAlignment="Left" Margin="11,251,0,0" VerticalAlignment="Top" Height="39" Width="39"/>
+        </Grid>
+    </Viewbox>
+</UserControl>

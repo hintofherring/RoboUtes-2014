@@ -1,0 +1,27 @@
+c:\users\greg\documents\visual studio 2012\Projects\XboxController\XboxController\bin\Debug\XboxController.dll
+c:\users\greg\documents\visual studio 2012\Projects\XboxController\XboxController\bin\Debug\XboxController.pdb
+c:\users\greg\documents\visual studio 2012\Projects\XboxController\XboxController\bin\Debug\Microsoft.Xna.Framework.dll
+c:\users\greg\documents\visual studio 2012\Projects\XboxController\XboxController\bin\Debug\Microsoft.Xna.Framework.xml
+c:\users\greg\documents\visual studio 2012\Projects\XboxController\XboxController\obj\Debug\XboxController.dll
+c:\users\greg\documents\visual studio 2012\Projects\XboxController\XboxController\obj\Debug\XboxController.pdb
+C:\Users\greg\Documents\Visual Studio 2012\Projects\XboxController\XboxController\obj\Debug\XboxController.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\wristDemo\wristControlDevelopment\Xbox Library Stuff\XboxController\bin\Debug\XboxController.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\wristDemo\wristControlDevelopment\Xbox Library Stuff\XboxController\bin\Debug\XboxController.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\wristDemo\wristControlDevelopment\Xbox Library Stuff\XboxController\obj\Debug\XboxController.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\wristDemo\wristControlDevelopment\Xbox Library Stuff\XboxController\obj\Debug\XboxController.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\wristDemo\wristControlDevelopment\Xbox Library Stuff\XboxController\obj\Debug\XboxController.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\wristDemo\wristControlDevelopment\Xbox Library Stuff\XboxController\bin\Debug\XboxController.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\wristDemo\wristControlDevelopment\Xbox Library Stuff\XboxController\bin\Debug\XboxController.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\wristDemo\wristControlDevelopment\Xbox Library Stuff\XboxController\obj\Debug\XboxController.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\wristDemo\wristControlDevelopment\Xbox Library Stuff\XboxController\obj\Debug\XboxController.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\wristDemo\wristControlDevelopment\Xbox Library Stuff\XboxController\obj\Debug\XboxController.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\XboxController\bin\Debug\XboxController.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\XboxController\bin\Debug\XboxController.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\XboxController\obj\Debug\XboxController.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\XboxController\obj\Debug\XboxController.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\XboxController\obj\Debug\XboxController.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\XboxController\bin\Debug\XboxController.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\XboxController\bin\Debug\XboxController.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\XboxController\obj\Debug\XboxController.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\XboxController\obj\Debug\XboxController.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\XboxController\obj\Debug\XboxController.pdb

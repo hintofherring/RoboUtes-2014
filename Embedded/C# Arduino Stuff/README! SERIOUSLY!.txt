@@ -1,0 +1,1 @@
+This directory contains the most up to date version of the Arduino C# stuff (Arduino & ArduinoManager) as well as a small program that can be used to test/develop them further.

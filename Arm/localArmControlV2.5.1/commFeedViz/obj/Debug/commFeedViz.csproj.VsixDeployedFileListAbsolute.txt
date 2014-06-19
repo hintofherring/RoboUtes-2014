@@ -1,0 +1,8 @@
+C:\Users\CORE\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\commFeedViz\1.0\\commFeedViz.dll
+C:\Users\CORE\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\commFeedViz\1.0\\commFeedViz.pkgdef
+C:\Users\CORE\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\commFeedViz\1.0\\extension.vsixmanifest
+C:\Users\CORE\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\commFeedViz\1.0\\commFeedViz.pdb
+C:\Users\ROC\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\commFeedViz\1.0\\commFeedViz.dll
+C:\Users\ROC\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\commFeedViz\1.0\\commFeedViz.pkgdef
+C:\Users\ROC\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\commFeedViz\1.0\\extension.vsixmanifest
+C:\Users\ROC\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\commFeedViz\1.0\\commFeedViz.pdb

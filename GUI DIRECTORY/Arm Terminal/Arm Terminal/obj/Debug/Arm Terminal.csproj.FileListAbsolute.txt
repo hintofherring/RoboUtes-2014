@@ -1,0 +1,156 @@
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\Arm Terminal.exe.config
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\Arm Terminal.exe
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\Arm Terminal.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\ArmSideView.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\ArmTopView.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\Control_Status.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\Macros.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\safeCommFeedViz.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\localArmControlTools.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\toggleIndicator.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\XboxController.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\ArmSideView.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\ArmTopView.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\Control_Status.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\Macros.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\safeCommFeedViz.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\localArmControlTools.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\toggleIndicator.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\XboxController.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\obj\Debug\Arm Terminal.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\obj\Debug\MainWindow.baml
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\obj\Debug\MainWindow.g.cs
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\obj\Debug\App.g.cs
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\obj\Debug\Arm Terminal_MarkupCompile.cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\obj\Debug\Arm Terminal.g.resources
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\obj\Debug\Arm_Terminal.Properties.Resources.resources
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\obj\Debug\Arm Terminal.csproj.GenerateResource.Cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\obj\Debug\Arm Terminal.exe
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\obj\Debug\Arm Terminal.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\handInfoViewer.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\liveXboxMonitorV2.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\powerBar.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\handInfoViewer.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\liveXboxMonitorV2.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\powerBar.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\commSockServer.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\networkStatusIndicator.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\ChatClientModel.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\StringSocket.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\commSockServer.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\networkStatusIndicator.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\ChatClientModel.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\StringSocket.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\videoViewerWindow.exe
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\videoSocketReceiver.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\videoViewerWindow.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\videoSocketReceiver.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\macroInProgressWindow.exe
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\macroInProgressWindow.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\newMacros.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\newMacros.pdb
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\Arm Terminal.exe.config
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\obj\Debug\Arm Terminal.exe
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\obj\Debug\Arm Terminal.pdb
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\Arm Terminal.exe
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\Arm Terminal.pdb
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\ArmSideView.dll
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\ArmTopView.dll
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\commSockServer.dll
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\Control_Status.dll
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\handInfoViewer.dll
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\liveXboxMonitorV2.dll
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\localArmControlTools.dll
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\macroInProgressWindow.exe
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\Macros.dll
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\networkStatusIndicator.dll
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\newMacros.dll
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\powerBar.dll
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\safeCommFeedViz.dll
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\toggleIndicator.dll
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\videoSocketReceiver.dll
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\videoViewerWindow.exe
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\XboxController.dll
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\ChatClientModel.dll
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\StringSocket.dll
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\ArmSideView.pdb
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\ArmTopView.pdb
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\commSockServer.pdb
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\Control_Status.pdb
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\handInfoViewer.pdb
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\liveXboxMonitorV2.pdb
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\localArmControlTools.pdb
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\macroInProgressWindow.pdb
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\Macros.pdb
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\networkStatusIndicator.pdb
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\newMacros.pdb
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\powerBar.pdb
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\safeCommFeedViz.pdb
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\toggleIndicator.pdb
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\videoSocketReceiver.pdb
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\videoViewerWindow.pdb
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\XboxController.pdb
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\ChatClientModel.pdb
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\StringSocket.pdb
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\obj\Debug\Arm Terminal.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\obj\Debug\MainWindow.baml
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\obj\Debug\MainWindow.g.cs
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\obj\Debug\App.g.cs
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\obj\Debug\Arm Terminal_MarkupCompile.cache
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\obj\Debug\Arm Terminal.g.resources
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\obj\Debug\Arm_Terminal.Properties.Resources.resources
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\Arm Terminal\obj\Debug\Arm Terminal.csproj.GenerateResource.Cache
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\Arm Terminal.exe.config
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\obj\Debug\Arm Terminal.exe
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\obj\Debug\Arm Terminal.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\Arm Terminal.exe
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\Arm Terminal.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\ArmSideView.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\ArmTopView.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\commSockServer.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\Control_Status.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\handInfoViewer.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\liveXboxMonitorV2.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\localArmControlTools.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\macroInProgressWindow.exe
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\Macros.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\networkStatusIndicator.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\newMacros.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\powerBar.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\safeCommFeedViz.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\toggleIndicator.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\videoSocketReceiver.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\videoViewerWindow.exe
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\XboxController.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\ChatClientModel.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\StringSocket.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\ArmSideView.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\ArmTopView.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\commSockServer.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\Control_Status.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\handInfoViewer.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\liveXboxMonitorV2.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\localArmControlTools.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\macroInProgressWindow.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\Macros.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\networkStatusIndicator.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\newMacros.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\powerBar.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\safeCommFeedViz.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\toggleIndicator.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\videoSocketReceiver.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\videoViewerWindow.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\XboxController.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\ChatClientModel.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\bin\Debug\StringSocket.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\obj\Debug\Arm Terminal.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\obj\Debug\MainWindow.baml
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\obj\Debug\MainWindow.g.cs
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\obj\Debug\App.g.cs
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\obj\Debug\Arm Terminal_MarkupCompile.cache
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\obj\Debug\Arm Terminal.g.resources
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\obj\Debug\Arm_Terminal.Properties.Resources.resources
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\Arm Terminal\obj\Debug\Arm Terminal.csproj.GenerateResource.Cache

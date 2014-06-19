@@ -1,0 +1,9 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Control_Status="clr-namespace:Control_Status;assembly=Control_Status" x:Class="Control_Status_Tester.MainWindow"
+        Title="MainWindow" Height="504.179" Width="596.642">
+    <Grid>
+        <Control_Status:ControlStatus x:Name="testControl" HorizontalAlignment="Left" Margin="144,61,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

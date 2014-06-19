@@ -1,0 +1,48 @@
+D:\GUI DIRECTORY\Drive Terminal\toggleIndicator Tester\bin\Debug\toggleIndicator Tester.exe.config
+D:\GUI DIRECTORY\Drive Terminal\toggleIndicator Tester\bin\Debug\toggleIndicator Tester.exe
+D:\GUI DIRECTORY\Drive Terminal\toggleIndicator Tester\bin\Debug\toggleIndicator Tester.pdb
+D:\GUI DIRECTORY\Drive Terminal\toggleIndicator Tester\bin\Debug\toggleIndicator.dll
+D:\GUI DIRECTORY\Drive Terminal\toggleIndicator Tester\bin\Debug\toggleIndicator.pdb
+D:\GUI DIRECTORY\Drive Terminal\toggleIndicator Tester\obj\Debug\toggleIndicator Tester.csprojResolveAssemblyReference.cache
+D:\GUI DIRECTORY\Drive Terminal\toggleIndicator Tester\obj\Debug\MainWindow.baml
+D:\GUI DIRECTORY\Drive Terminal\toggleIndicator Tester\obj\Debug\MainWindow.g.cs
+D:\GUI DIRECTORY\Drive Terminal\toggleIndicator Tester\obj\Debug\App.g.cs
+D:\GUI DIRECTORY\Drive Terminal\toggleIndicator Tester\obj\Debug\toggleIndicator Tester_MarkupCompile.cache
+D:\GUI DIRECTORY\Drive Terminal\toggleIndicator Tester\obj\Debug\toggleIndicator Tester.g.resources
+D:\GUI DIRECTORY\Drive Terminal\toggleIndicator Tester\obj\Debug\toggleIndicator_Tester.Properties.Resources.resources
+D:\GUI DIRECTORY\Drive Terminal\toggleIndicator Tester\obj\Debug\toggleIndicator Tester.csproj.GenerateResource.Cache
+D:\GUI DIRECTORY\Drive Terminal\toggleIndicator Tester\obj\Debug\toggleIndicator Tester.exe
+D:\GUI DIRECTORY\Drive Terminal\toggleIndicator Tester\obj\Debug\toggleIndicator Tester.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\toggleIndicator Tester\bin\Debug\toggleIndicator Tester.exe.config
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\toggleIndicator Tester\obj\Debug\toggleIndicator Tester.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\toggleIndicator Tester\obj\Debug\toggleIndicator Tester.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\toggleIndicator Tester\bin\Debug\toggleIndicator Tester.exe.config
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\toggleIndicator Tester\obj\Debug\toggleIndicator Tester.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\toggleIndicator Tester\obj\Debug\toggleIndicator Tester.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\toggleIndicator Tester\bin\Debug\toggleIndicator Tester.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\toggleIndicator Tester\bin\Debug\toggleIndicator Tester.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\toggleIndicator Tester\bin\Debug\toggleIndicator.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\toggleIndicator Tester\bin\Debug\toggleIndicator.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\toggleIndicator Tester\obj\Debug\toggleIndicator Tester.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\toggleIndicator Tester\obj\Debug\MainWindow.baml
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\toggleIndicator Tester\obj\Debug\MainWindow.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\toggleIndicator Tester\obj\Debug\App.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\toggleIndicator Tester\obj\Debug\toggleIndicator Tester_MarkupCompile.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\toggleIndicator Tester\obj\Debug\toggleIndicator Tester.g.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\toggleIndicator Tester\obj\Debug\toggleIndicator_Tester.Properties.Resources.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\toggleIndicator Tester\obj\Debug\toggleIndicator Tester.csproj.GenerateResource.Cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\toggleIndicator Tester\bin\Debug\toggleIndicator Tester.exe.config
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\toggleIndicator Tester\bin\Debug\toggleIndicator Tester.exe
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\toggleIndicator Tester\bin\Debug\toggleIndicator Tester.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\toggleIndicator Tester\bin\Debug\toggleIndicator.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\toggleIndicator Tester\bin\Debug\toggleIndicator.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\toggleIndicator Tester\obj\Debug\toggleIndicator Tester.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\toggleIndicator Tester\obj\Debug\MainWindow.baml
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\toggleIndicator Tester\obj\Debug\MainWindow.g.cs
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\toggleIndicator Tester\obj\Debug\App.g.cs
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\toggleIndicator Tester\obj\Debug\toggleIndicator Tester_MarkupCompile.cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\toggleIndicator Tester\obj\Debug\toggleIndicator Tester.g.resources
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\toggleIndicator Tester\obj\Debug\toggleIndicator_Tester.Properties.Resources.resources
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\toggleIndicator Tester\obj\Debug\toggleIndicator Tester.csproj.GenerateResource.Cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\toggleIndicator Tester\obj\Debug\toggleIndicator Tester.exe
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\toggleIndicator Tester\obj\Debug\toggleIndicator Tester.pdb

@@ -1,0 +1,11 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:liveXboxMonitorV2="clr-namespace:liveXboxMonitorV2;assembly=liveXboxMonitorV2" x:Class="liveXboxMonitorV2_Tester.MainWindow"
+        Title="MainWindow" Height="350" Width="525" Closing="Window_Closing">
+    <Grid>
+
+        <liveXboxMonitorV2:ToolboxControl x:Name="testXboxMonitor" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

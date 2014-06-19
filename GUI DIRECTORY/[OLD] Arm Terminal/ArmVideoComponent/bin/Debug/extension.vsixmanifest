@@ -1,0 +1,18 @@
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="ArmVideoComponent..bc514333-c7f1-4fc6-b36b-33e38bdde534" Version="1.0" Language="en-US" Publisher="Matt M" />
+    <DisplayName>ArmVideoComponent</DisplayName>
+    <Description>WPF Toolbox Control</Description>
+    <Icon />
+    <PreviewImage />
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Pro" Version="11.0" />
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" Version="4.5" />
+  </Dependencies>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.ToolboxControl" Path="ArmVideoComponent.pkgdef" />
+  </Assets>
+</PackageManifest>

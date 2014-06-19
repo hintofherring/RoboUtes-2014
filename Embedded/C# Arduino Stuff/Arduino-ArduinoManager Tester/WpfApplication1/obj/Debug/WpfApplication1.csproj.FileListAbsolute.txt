@@ -1,0 +1,30 @@
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\WpfApplication1\WpfApplication1\bin\Debug\ArduinoLibrary.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\WpfApplication1\WpfApplication1\bin\Debug\ArduinoLibrary.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\Arduino-ArduinoManager Tester\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\Arduino-ArduinoManager Tester\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\Arduino-ArduinoManager Tester\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\Arduino-ArduinoManager Tester\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\Arduino-ArduinoManager Tester\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\Arduino-ArduinoManager Tester\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\Arduino-ArduinoManager Tester\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\Arduino-ArduinoManager Tester\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\Arduino-ArduinoManager Tester\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\Arduino-ArduinoManager Tester\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\Arduino-ArduinoManager Tester\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\Arduino-ArduinoManager Tester\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\Arduino-ArduinoManager Tester\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\Arduino-ArduinoManager Tester\WpfApplication1\bin\Debug\ArduinoLibrary.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Embedded\C# Arduino Stuff\Arduino-ArduinoManager Tester\WpfApplication1\bin\Debug\ArduinoLibrary.pdb

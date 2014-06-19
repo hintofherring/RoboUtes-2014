@@ -1,0 +1,33 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:toggleIndicator="clr-namespace:toggleIndicator;assembly=toggleIndicator" xmlns:commFeedViz="clr-namespace:commFeedViz;assembly=commFeedViz" xmlns:safeCommFeedViz="clr-namespace:safeCommFeedViz;assembly=safeCommFeedViz" x:Class="rocOnboard.MainWindow"
+        Title="MainWindow" Height="602" Width="1471.43" Closed="Window_Closed">
+    <Grid>
+        <Label Content="DRIVE IP:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0" Height="45" Width="100" FontSize="20"/>
+        <Label x:Name="driveIPLabel" Content="NA" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="154,10,0,0" Height="48" Width="158" FontSize="20"/>
+
+        <toggleIndicator:ToolboxControl x:Name="driveConnectedInd" HorizontalAlignment="Left" Margin="317,10,0,0" VerticalAlignment="Top" Height="35" Width="33"/>
+        <Label Content="ARM IP:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,50,0,0" Height="45" Width="100" FontSize="20"/>
+        <Label x:Name="armIPLabel" Content="NA" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="154,50,0,0" Height="48" Width="158" FontSize="20"/>
+        <toggleIndicator:ToolboxControl x:Name="armConnectedInd" HorizontalAlignment="Left" Margin="317,50,0,0" VerticalAlignment="Top" Height="35" Width="33"/>
+        <Label Content="LOGISTICS IP:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,100,0,0" Height="35" Width="121" FontSize="15"/>
+        <Label x:Name="logisticsIPLabel" Content="NA" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="154,90,0,0" Height="48" Width="158" FontSize="20"/>
+        <toggleIndicator:ToolboxControl x:Name="logisticsConnectedInd" HorizontalAlignment="Left" Margin="317,90,0,0" VerticalAlignment="Top" Height="35" Width="33"/>
+
+        <safeCommFeedViz:ToolboxControl x:Name="incomingInternet" HorizontalAlignment="Left" Margin="357,0,0,0" VerticalAlignment="Top" Height="280" Width="273" title="Internet IN"/>
+        <safeCommFeedViz:ToolboxControl x:Name="driveFrontCOMIN" HorizontalAlignment="Left" Margin="630,0,0,0" VerticalAlignment="Top" Height="280" Width="273" title="Drive Front COM IN"/>
+        <safeCommFeedViz:ToolboxControl x:Name="driveBackCOMIN" HorizontalAlignment="Left" Margin="908,0,0,0" VerticalAlignment="Top" Height="280" Width="273" title="Drive Back COM IN"/>
+        <safeCommFeedViz:ToolboxControl x:Name="panTiltCOMIN" HorizontalAlignment="Left" Margin="1181,0,-67,0" VerticalAlignment="Top" Height="280" Width="273" title="Pan Tilt COM IN"/>
+        <Label Content="ENGINEERING IP:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,140,0,0" Height="35" Width="139" FontSize="15"/>
+        <Label x:Name="engineeringIPLabel" Content="NA" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="154,130,0,0" Height="48" Width="158" FontSize="20"/>
+        <toggleIndicator:ToolboxControl x:Name="engineeringConnectedInd" HorizontalAlignment="Left" Margin="317,130,0,0" VerticalAlignment="Top" Height="35" Width="33"/>
+        <safeCommFeedViz:ToolboxControl x:Name="armCOMIN" HorizontalAlignment="Left" Margin="357,280,0,-33" VerticalAlignment="Top" Height="280" Width="273" title="Arm COM IN"/>
+        <safeCommFeedViz:ToolboxControl x:Name="wristCOMIN" HorizontalAlignment="Left" Margin="630,280,0,0" VerticalAlignment="Top" Height="280" Width="273" title="Wrist COM IN"/>
+        <safeCommFeedViz:ToolboxControl x:Name="miscCOMIN" HorizontalAlignment="Left" Margin="908,280,0,0" VerticalAlignment="Top" Height="280" Width="273" title="Misc COM IN"/>
+        <Button Content="DOWN" HorizontalAlignment="Left" Margin="1276,332,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Button Content="UP" HorizontalAlignment="Left" Margin="1276,357,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+        <Button Content="STOP" HorizontalAlignment="Left" Margin="1276,382,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_2"/>
+
+    </Grid>
+</Window>

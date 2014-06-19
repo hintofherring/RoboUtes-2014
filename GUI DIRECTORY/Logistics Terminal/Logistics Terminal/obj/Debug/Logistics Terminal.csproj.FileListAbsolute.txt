@@ -1,0 +1,102 @@
+C:\Users\RoboUtes 6\Documents\Visual Studio 2012\Projects\Logistics Terminal\Logistics Terminal\bin\Debug\Logistics Terminal.exe.config
+C:\Users\RoboUtes 6\Documents\Visual Studio 2012\Projects\Logistics Terminal\Logistics Terminal\bin\Debug\Logistics Terminal.exe
+C:\Users\RoboUtes 6\Documents\Visual Studio 2012\Projects\Logistics Terminal\Logistics Terminal\bin\Debug\Logistics Terminal.pdb
+C:\Users\RoboUtes 6\Documents\Visual Studio 2012\Projects\Logistics Terminal\Logistics Terminal\obj\Debug\MainWindow.baml
+C:\Users\RoboUtes 6\Documents\Visual Studio 2012\Projects\Logistics Terminal\Logistics Terminal\obj\Debug\MainWindow.g.cs
+C:\Users\RoboUtes 6\Documents\Visual Studio 2012\Projects\Logistics Terminal\Logistics Terminal\obj\Debug\App.g.cs
+C:\Users\RoboUtes 6\Documents\Visual Studio 2012\Projects\Logistics Terminal\Logistics Terminal\obj\Debug\Logistics Terminal_MarkupCompile.cache
+C:\Users\RoboUtes 6\Documents\Visual Studio 2012\Projects\Logistics Terminal\Logistics Terminal\obj\Debug\Logistics Terminal.g.resources
+C:\Users\RoboUtes 6\Documents\Visual Studio 2012\Projects\Logistics Terminal\Logistics Terminal\obj\Debug\Logistics_Terminal.Properties.Resources.resources
+C:\Users\RoboUtes 6\Documents\Visual Studio 2012\Projects\Logistics Terminal\Logistics Terminal\obj\Debug\Logistics Terminal.csproj.GenerateResource.Cache
+C:\Users\RoboUtes 6\Documents\Visual Studio 2012\Projects\Logistics Terminal\Logistics Terminal\obj\Debug\Logistics Terminal.exe
+C:\Users\RoboUtes 6\Documents\Visual Studio 2012\Projects\Logistics Terminal\Logistics Terminal\obj\Debug\Logistics Terminal.pdb
+C:\Users\RoboUtes 6\Documents\Visual Studio 2012\Projects\Logistics Terminal\Logistics Terminal\obj\Debug\Logistics Terminal.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes 6\Documents\Visual Studio 2012\Projects\Logistics Terminal\Logistics Terminal\bin\Debug\safeMapPalette.dll
+C:\Users\RoboUtes 6\Documents\Visual Studio 2012\Projects\Logistics Terminal\Logistics Terminal\bin\Debug\safeMapPalette.pdb
+C:\Users\RoboUtes 6\Documents\Visual Studio 2012\Projects\Logistics Terminal\Logistics Terminal\bin\Debug\LogisticsMapWindow.exe
+C:\Users\RoboUtes 6\Documents\Visual Studio 2012\Projects\Logistics Terminal\Logistics Terminal\bin\Debug\LogisticsMapWindow.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\Logistics Terminal.exe.config
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\Logistics Terminal.exe
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\Logistics Terminal.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\LogisticsMapWindow.exe
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\safeMapPalette.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\LogisticsMapWindow.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\safeMapPalette.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\obj\Debug\Logistics Terminal.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\obj\Debug\MainWindow.baml
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\obj\Debug\MainWindow.g.cs
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\obj\Debug\App.g.cs
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\obj\Debug\Logistics Terminal_MarkupCompile.cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\obj\Debug\Logistics Terminal.g.resources
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\obj\Debug\Logistics_Terminal.Properties.Resources.resources
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\obj\Debug\Logistics Terminal.csproj.GenerateResource.Cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\obj\Debug\Logistics Terminal.exe
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\obj\Debug\Logistics Terminal.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\logisticsTools.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\logisticsTools.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\logisticsMagnificationWindow.exe
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\logisticsMagnificationWindow.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\networkStatusIndicator.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\toggleIndicator.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\networkStatusIndicator.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\toggleIndicator.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\commSockServer.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\ChatClientModel.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\StringSocket.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\commSockServer.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\ChatClientModel.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\StringSocket.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\commFeedViz.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\commFeedViz.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\safeCommFeedViz.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\safeCommFeedViz.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\snapShotTools.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\AForge.Controls.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\AForge.Video.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\snapShotTools.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\Logistics Terminal.exe.config
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\obj\Debug\Logistics Terminal.exe
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\obj\Debug\Logistics Terminal.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\Logistics Terminal.exe.config
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\obj\Debug\Logistics Terminal.exe
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\obj\Debug\Logistics Terminal.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\Logistics Terminal.exe
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\Logistics Terminal.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\commFeedViz.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\commSockServer.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\logisticsMagnificationWindow.exe
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\LogisticsMapWindow.exe
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\logisticsTools.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\networkStatusIndicator.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\safeCommFeedViz.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\safeMapPalette.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\snapShotTools.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\toggleIndicator.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\ChatClientModel.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\AForge.Controls.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\AForge.Video.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\StringSocket.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\commFeedViz.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\commSockServer.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\logisticsMagnificationWindow.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\LogisticsMapWindow.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\logisticsTools.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\networkStatusIndicator.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\safeCommFeedViz.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\safeMapPalette.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\snapShotTools.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\toggleIndicator.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\ChatClientModel.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\bin\Debug\StringSocket.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\obj\Debug\Logistics Terminal.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\obj\Debug\MainWindow.baml
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\obj\Debug\MainWindow.g.cs
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\obj\Debug\App.g.cs
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\obj\Debug\Logistics Terminal_MarkupCompile.cache
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\obj\Debug\Logistics Terminal.g.resources
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\obj\Debug\Logistics_Terminal.Properties.Resources.resources
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\Logistics Terminal\obj\Debug\Logistics Terminal.csproj.GenerateResource.Cache

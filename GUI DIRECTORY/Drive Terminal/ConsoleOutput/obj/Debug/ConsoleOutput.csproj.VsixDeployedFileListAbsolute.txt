@@ -1,0 +1,8 @@
+C:\Users\RoboUtes 1\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Greg Anderson\ConsoleOutput\1.0\\ConsoleOutput.dll
+C:\Users\RoboUtes 1\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Greg Anderson\ConsoleOutput\1.0\\ConsoleOutput.pkgdef
+C:\Users\RoboUtes 1\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Greg Anderson\ConsoleOutput\1.0\\extension.vsixmanifest
+C:\Users\RoboUtes 1\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Greg Anderson\ConsoleOutput\1.0\\ConsoleOutput.pdb
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Greg Anderson\ConsoleOutput\1.0\\ConsoleOutput.dll
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Greg Anderson\ConsoleOutput\1.0\\ConsoleOutput.pkgdef
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Greg Anderson\ConsoleOutput\1.0\\extension.vsixmanifest
+C:\Users\RoboUtes\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Greg Anderson\ConsoleOutput\1.0\\ConsoleOutput.pdb

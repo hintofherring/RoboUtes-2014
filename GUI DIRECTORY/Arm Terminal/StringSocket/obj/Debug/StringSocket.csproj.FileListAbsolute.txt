@@ -1,0 +1,34 @@
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\PS9_Current\StringSocket\bin\Debug\StringSocket.dll
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\PS9_Current\StringSocket\bin\Debug\StringSocket.pdb
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\PS9_Current\StringSocket\obj\Debug\StringSocket.csprojResolveAssemblyReference.cache
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\PS9_Current\StringSocket\obj\Debug\StringSocket.dll
+C:\Users\StealthBomber\Documents\Visual Studio 2012\Projects\PS9_Current\StringSocket\obj\Debug\StringSocket.pdb
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\networkingTest\StringSocket\bin\Debug\StringSocket.dll
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\networkingTest\StringSocket\bin\Debug\StringSocket.pdb
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\networkingTest\StringSocket\obj\Debug\StringSocket.dll
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\networkingTest\StringSocket\obj\Debug\StringSocket.pdb
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\networkingTest\StringSocket\obj\Debug\StringSocket.csprojResolveAssemblyReference.cache
+C:\Users\HAL9000\Desktop\commSockServer\StringSocket\bin\Debug\StringSocket.dll
+C:\Users\HAL9000\Desktop\commSockServer\StringSocket\bin\Debug\StringSocket.pdb
+C:\Users\HAL9000\Desktop\commSockServer\StringSocket\obj\Debug\StringSocket.csprojResolveAssemblyReference.cache
+C:\Users\HAL9000\Desktop\commSockServer\StringSocket\obj\Debug\StringSocket.dll
+C:\Users\HAL9000\Desktop\commSockServer\StringSocket\obj\Debug\StringSocket.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\StringSocket\bin\Debug\StringSocket.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\StringSocket\bin\Debug\StringSocket.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\StringSocket\obj\Debug\StringSocket.csprojResolveAssemblyReference.cache
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\StringSocket\obj\Debug\StringSocket.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\StringSocket\obj\Debug\StringSocket.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\StringSocket\bin\Debug\StringSocket.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\StringSocket\bin\Debug\StringSocket.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\StringSocket\obj\Debug\StringSocket.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\StringSocket\obj\Debug\StringSocket.pdb
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\StringSocket\bin\Debug\StringSocket.dll
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\StringSocket\bin\Debug\StringSocket.pdb
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\StringSocket\obj\Debug\StringSocket.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\StringSocket\obj\Debug\StringSocket.dll
+C:\Users\RoboUtes 4\Desktop\Roboutes\GUI DIRECTORY\Arm Terminal\StringSocket\obj\Debug\StringSocket.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\StringSocket\bin\Debug\StringSocket.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\StringSocket\bin\Debug\StringSocket.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\StringSocket\obj\Debug\StringSocket.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\StringSocket\obj\Debug\StringSocket.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Arm Terminal\StringSocket\obj\Debug\StringSocket.pdb

@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="Deadzone.ToolboxControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="155" d:DesignWidth="145">
+    <Grid Background="#FF828282">
+        <Label Content="Deadzone" HorizontalAlignment="Left" VerticalAlignment="Top" Width="145" Foreground="White" Background="#FF1D1D1D" FontWeight="Bold" FontSize="14" HorizontalContentAlignment="Center"/>
+        <Label Content="Min:" HorizontalAlignment="Left" Margin="3,29,0,0" VerticalAlignment="Top" Foreground="White" FontWeight="Bold"/>
+        <Label Content="Max:" HorizontalAlignment="Left" Margin="0,60,0,0" VerticalAlignment="Top" Foreground="White" FontWeight="Bold"/>
+        <Slider x:Name="minSlider" HorizontalAlignment="Left" Margin="38,34,0,0" VerticalAlignment="Top" Width="81" ValueChanged="Slider_ValueChanged" Uid="MIN"/>
+        <Slider x:Name="maxSlider" HorizontalAlignment="Left" Margin="38,65,0,0" VerticalAlignment="Top" Width="81" ValueChanged="maxSlider_ValueChanged" Uid="MAX"/>
+        <Label x:Name="minValue" Content="0" HorizontalAlignment="Left" Margin="119,34,0,0" VerticalAlignment="Top" Foreground="White" FontWeight="Bold"/>
+        <Label x:Name="maxValue" Content="0" HorizontalAlignment="Left" Margin="119,65,0,0" VerticalAlignment="Top" Foreground="White" FontWeight="Bold"/>
+        <Label Content="Sensitivity" HorizontalAlignment="Left" Margin="0,92,0,0" VerticalAlignment="Top" Foreground="White" FontWeight="Bold" Width="145" HorizontalContentAlignment="Center"/>
+        <Slider x:Name="sensitivitySlider" HorizontalAlignment="Left" Margin="3,118,0,0" VerticalAlignment="Top" Width="116" ValueChanged="sensitivitySlider_ValueChanged" Uid="SENSITIVITY"/>
+        <Label x:Name="sensitivityValue" Content="0" HorizontalAlignment="Left" Margin="119,118,0,0" VerticalAlignment="Top" Foreground="White" FontWeight="Bold"/>
+    </Grid>
+</UserControl>

@@ -1,0 +1,42 @@
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\Oculus Orientation Demo\OculusOrientation\bin\Debug\OculusOrientation.dll
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\Oculus Orientation Demo\OculusOrientation\bin\Debug\OculusOrientation.pdb
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\Oculus Orientation Demo\OculusOrientation\bin\Debug\RiftDotNet.dll
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\Oculus Orientation Demo\OculusOrientation\bin\Debug\RiftDotNet.Interface.dll
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\Oculus Orientation Demo\OculusOrientation\bin\Debug\RiftDotNet.Win32.dll
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\Oculus Orientation Demo\OculusOrientation\bin\Debug\RiftDotNet.x64.dll
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\Oculus Orientation Demo\OculusOrientation\bin\Debug\SharpDX.dll
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\Oculus Orientation Demo\OculusOrientation\bin\Debug\log4net.dll
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\Oculus Orientation Demo\OculusOrientation\bin\Debug\RiftDotNet.pdb
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\Oculus Orientation Demo\OculusOrientation\bin\Debug\RiftDotNet.Interface.pdb
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\Oculus Orientation Demo\OculusOrientation\bin\Debug\RiftDotNet.Win32.pdb
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\Oculus Orientation Demo\OculusOrientation\bin\Debug\RiftDotNet.x64.pdb
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\Oculus Orientation Demo\OculusOrientation\bin\Debug\SharpDX.xml
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\Oculus Orientation Demo\OculusOrientation\bin\Debug\log4net.pdb
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\Oculus Orientation Demo\OculusOrientation\obj\Debug\OculusOrientation.dll
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\Oculus Orientation Demo\OculusOrientation\obj\Debug\OculusOrientation.pdb
+C:\Users\MonahanWork\Documents\Visual Studio 2012\Projects\Oculus Orientation Demo\OculusOrientation\obj\Debug\OculusOrientationLibrary.csprojResolveAssemblyReference.cache
+C:\Users\MonahanWork\Desktop\panTiltDevelopment\PTC#\OculusOrientation\bin\Debug\OculusOrientation.dll
+C:\Users\MonahanWork\Desktop\panTiltDevelopment\PTC#\OculusOrientation\bin\Debug\OculusOrientation.pdb
+C:\Users\MonahanWork\Desktop\panTiltDevelopment\PTC#\OculusOrientation\bin\Debug\SharpDX.dll
+C:\Users\MonahanWork\Desktop\panTiltDevelopment\PTC#\OculusOrientation\bin\Debug\SharpDX.xml
+C:\Users\MonahanWork\Desktop\panTiltDevelopment\PTC#\OculusOrientation\obj\Debug\OculusOrientation.dll
+C:\Users\MonahanWork\Desktop\panTiltDevelopment\PTC#\OculusOrientation\obj\Debug\OculusOrientation.pdb
+C:\Users\MonahanWork\Desktop\panTiltDevelopment\PTC#\OculusOrientation\bin\Debug\log4net.dll
+C:\Users\MonahanWork\Desktop\panTiltDevelopment\PTC#\OculusOrientation\bin\Debug\log4net.pdb
+C:\Users\MonahanWork\Desktop\panTiltDevelopment\PTC#\OculusOrientation\obj\Debug\OculusOrientationLibrary.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\panTiltDevelopment\PTC#\OculusOrientation\bin\Debug\OculusOrientation.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\panTiltDevelopment\PTC#\OculusOrientation\bin\Debug\OculusOrientation.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\panTiltDevelopment\PTC#\OculusOrientation\bin\Debug\log4net.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\panTiltDevelopment\PTC#\OculusOrientation\bin\Debug\SharpDX.xml
+C:\Users\CORE\Documents\GitHub\Roboutes\panTiltDevelopment\PTC#\OculusOrientation\bin\Debug\log4net.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\panTiltDevelopment\PTC#\OculusOrientation\obj\Debug\OculusOrientationLibrary.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\panTiltDevelopment\PTC#\OculusOrientation\obj\Debug\OculusOrientation.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\panTiltDevelopment\PTC#\OculusOrientation\obj\Debug\OculusOrientation.pdb
+C:\Users\ROC\Documents\GitHub\panTiltDevelopment\PTC#\OculusOrientation\bin\Debug\OculusOrientation.dll
+C:\Users\ROC\Documents\GitHub\panTiltDevelopment\PTC#\OculusOrientation\bin\Debug\OculusOrientation.pdb
+C:\Users\ROC\Documents\GitHub\panTiltDevelopment\PTC#\OculusOrientation\bin\Debug\log4net.dll
+C:\Users\ROC\Documents\GitHub\panTiltDevelopment\PTC#\OculusOrientation\bin\Debug\SharpDX.xml
+C:\Users\ROC\Documents\GitHub\panTiltDevelopment\PTC#\OculusOrientation\bin\Debug\log4net.pdb
+C:\Users\ROC\Documents\GitHub\panTiltDevelopment\PTC#\OculusOrientation\obj\Debug\OculusOrientationLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ROC\Documents\GitHub\panTiltDevelopment\PTC#\OculusOrientation\obj\Debug\OculusOrientation.dll
+C:\Users\ROC\Documents\GitHub\panTiltDevelopment\PTC#\OculusOrientation\obj\Debug\OculusOrientation.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "videoSocketReceiver", "videoSocketReceiver\videoSocketReceiver.csproj", "{EE8758AC-D9E0-49FC-84D2-7001BF588420}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "videoSocketReceiver Tester", "videoSocketReceiver Tester\videoSocketReceiver Tester.csproj", "{2E7D161B-054D-48BF-B638-1AA1E32000A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE8758AC-D9E0-49FC-84D2-7001BF588420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE8758AC-D9E0-49FC-84D2-7001BF588420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE8758AC-D9E0-49FC-84D2-7001BF588420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE8758AC-D9E0-49FC-84D2-7001BF588420}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E7D161B-054D-48BF-B638-1AA1E32000A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E7D161B-054D-48BF-B638-1AA1E32000A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E7D161B-054D-48BF-B638-1AA1E32000A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E7D161B-054D-48BF-B638-1AA1E32000A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

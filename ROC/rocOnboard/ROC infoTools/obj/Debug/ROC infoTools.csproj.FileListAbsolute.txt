@@ -1,0 +1,12 @@
+C:\Users\CORE\Documents\GitHub\Roboutes\Misc\ROCInfo Tester\ROC infoTools\obj\Debug\ROC infoTools.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Misc\ROCInfo Tester\ROC infoTools\bin\Debug\ROC infoTools.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Misc\ROCInfo Tester\ROC infoTools\bin\Debug\ROC infoTools.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Misc\ROCInfo Tester\ROC infoTools\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Misc\ROCInfo Tester\ROC infoTools\obj\Debug\ROC infoTools.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Misc\ROCInfo Tester\ROC infoTools\obj\Debug\ROC infoTools.pdb
+C:\Users\ROC\Documents\GitHub\Misc\ROCInfo Tester\ROC infoTools\bin\Debug\ROC infoTools.dll
+C:\Users\ROC\Documents\GitHub\Misc\ROCInfo Tester\ROC infoTools\bin\Debug\ROC infoTools.pdb
+C:\Users\ROC\Documents\GitHub\Misc\ROCInfo Tester\ROC infoTools\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\ROC\Documents\GitHub\Misc\ROCInfo Tester\ROC infoTools\obj\Debug\ROC infoTools.csprojResolveAssemblyReference.cache
+C:\Users\ROC\Documents\GitHub\Misc\ROCInfo Tester\ROC infoTools\obj\Debug\ROC infoTools.dll
+C:\Users\ROC\Documents\GitHub\Misc\ROCInfo Tester\ROC infoTools\obj\Debug\ROC infoTools.pdb

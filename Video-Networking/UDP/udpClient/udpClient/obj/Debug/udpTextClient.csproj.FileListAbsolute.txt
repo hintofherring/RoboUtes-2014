@@ -1,0 +1,5 @@
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpClient\udpClient\bin\Debug\udpClient.exe.config
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpClient\udpClient\obj\Debug\udpClient.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpClient\udpClient\obj\Debug\udpClient.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpClient\udpClient\bin\Debug\udpClient.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\Video-Networking\UDP\udpClient\udpClient\bin\Debug\udpClient.pdb

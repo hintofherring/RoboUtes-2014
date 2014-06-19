@@ -1,0 +1,13 @@
+C:\Users\greg\Documents\Visual Studio 2012\Projects\XboxController\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\greg\Documents\Visual Studio 2012\Projects\XboxController\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\greg\Documents\Visual Studio 2012\Projects\XboxController\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\greg\Documents\Visual Studio 2012\Projects\XboxController\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\greg\Documents\Visual Studio 2012\Projects\XboxController\ConsoleApplication1\bin\Debug\XboxController.dll
+C:\Users\greg\Documents\Visual Studio 2012\Projects\XboxController\ConsoleApplication1\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\greg\Documents\Visual Studio 2012\Projects\XboxController\ConsoleApplication1\bin\Debug\XboxController.pdb
+C:\Users\greg\Documents\Visual Studio 2012\Projects\XboxController\ConsoleApplication1\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\greg\Documents\Visual Studio 2012\Projects\XboxController\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\greg\Documents\Visual Studio 2012\Projects\XboxController\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\XboxController\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\CORE\Documents\GitHub\Roboutes\XboxController\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\XboxController\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testReceiveImage", "testReceiveImage\testReceiveImage.csproj", "{BECD12DB-F5CE-4870-91C2-A670BE9A70D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testReceiveImageV2.0", "testReceiveImage V2.0\testReceiveImageV2.0.csproj", "{20826D54-0C67-44E5-AC9C-331773DB30B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "renderTest", "renderTest\renderTest.csproj", "{E89B997F-CA7D-4ED4-AE1A-0892D9F58EA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BECD12DB-F5CE-4870-91C2-A670BE9A70D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BECD12DB-F5CE-4870-91C2-A670BE9A70D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BECD12DB-F5CE-4870-91C2-A670BE9A70D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BECD12DB-F5CE-4870-91C2-A670BE9A70D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20826D54-0C67-44E5-AC9C-331773DB30B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20826D54-0C67-44E5-AC9C-331773DB30B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20826D54-0C67-44E5-AC9C-331773DB30B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20826D54-0C67-44E5-AC9C-331773DB30B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E89B997F-CA7D-4ED4-AE1A-0892D9F58EA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E89B997F-CA7D-4ED4-AE1A-0892D9F58EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E89B997F-CA7D-4ED4-AE1A-0892D9F58EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E89B997F-CA7D-4ED4-AE1A-0892D9F58EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+E:\MATTS STUFF\rocNetworking\commSocket\bin\Debug\commSocket.dll
+E:\MATTS STUFF\rocNetworking\commSocket\bin\Debug\commSocket.pdb
+E:\MATTS STUFF\rocNetworking\commSocket\bin\Debug\StringSocket.dll
+E:\MATTS STUFF\rocNetworking\commSocket\bin\Debug\StringSocket.pdb
+E:\MATTS STUFF\rocNetworking\commSocket\obj\Debug\commSockSender.csprojResolveAssemblyReference.cache
+E:\MATTS STUFF\rocNetworking\commSocket\obj\Debug\commSocket.dll
+E:\MATTS STUFF\rocNetworking\commSocket\obj\Debug\commSocket.pdb

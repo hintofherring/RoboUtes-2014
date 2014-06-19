@@ -1,0 +1,50 @@
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\localArmControlTools\bin\Debug\localArmControlTools.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\localArmControlTools\bin\Debug\localArmControlTools.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\localArmControlTools\bin\Debug\ArduinoLibrary.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\localArmControlTools\bin\Debug\XboxController.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\localArmControlTools\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\localArmControlTools\bin\Debug\ArduinoLibrary.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\localArmControlTools\bin\Debug\XboxController.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\localArmControlTools\obj\Debug\ArmControlTools.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\localArmControlTools\obj\Debug\localArmControlTools.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\localArmControlTools\obj\Debug\localArmControlTools.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\localArmControlTools\bin\Debug\localArmControlTools.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\localArmControlTools\bin\Debug\localArmControlTools.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\localArmControlTools\bin\Debug\ArduinoLibrary.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\localArmControlTools\bin\Debug\XboxController.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\localArmControlTools\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\localArmControlTools\bin\Debug\ArduinoLibrary.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\localArmControlTools\bin\Debug\XboxController.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\localArmControlTools\obj\Debug\ArmControlTools.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\localArmControlTools\obj\Debug\localArmControlTools.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\localArmControlTools\obj\Debug\localArmControlTools.pdb
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\localArmControlTools\bin\Debug\localArmControlTools.dll
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\localArmControlTools\bin\Debug\localArmControlTools.pdb
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\localArmControlTools\bin\Debug\ArduinoLibrary.dll
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\localArmControlTools\bin\Debug\XboxController.dll
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\localArmControlTools\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\localArmControlTools\bin\Debug\ArduinoLibrary.pdb
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\localArmControlTools\bin\Debug\XboxController.pdb
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\localArmControlTools\obj\Debug\ArmControlTools.csprojResolveAssemblyReference.cache
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\localArmControlTools\obj\Debug\localArmControlTools.dll
+C:\Users\ROC\Documents\GitHub\Arm\localArmControlV2.5.1\localArmControlTools\obj\Debug\localArmControlTools.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\localArmControlTools\bin\Debug\localArmControlTools.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\localArmControlTools\bin\Debug\localArmControlTools.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\localArmControlTools\bin\Debug\ArduinoLibrary.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\localArmControlTools\bin\Debug\XboxController.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\localArmControlTools\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\localArmControlTools\bin\Debug\ArduinoLibrary.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\localArmControlTools\bin\Debug\XboxController.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\localArmControlTools\obj\Debug\ArmControlTools.csprojResolveAssemblyReference.cache
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\localArmControlTools\obj\Debug\localArmControlTools.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Arm\localArmControlV2.5.1\localArmControlTools\obj\Debug\localArmControlTools.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\localArmControlTools\bin\Debug\localArmControlTools.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\localArmControlTools\bin\Debug\localArmControlTools.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\localArmControlTools\bin\Debug\ArduinoLibrary.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\localArmControlTools\bin\Debug\XboxController.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\localArmControlTools\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\localArmControlTools\bin\Debug\ArduinoLibrary.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\localArmControlTools\bin\Debug\XboxController.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\localArmControlTools\obj\Debug\ArmControlTools.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\localArmControlTools\obj\Debug\localArmControlTools.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\Arm\localArmControlV2.5.1\localArmControlTools\obj\Debug\localArmControlTools.pdb

@@ -1,0 +1,34 @@
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\videoTraits\bin\Debug\videoTraits.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\videoTraits\bin\Debug\videoTraits.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\videoTraits\bin\Debug\videoTraits.pkgdef
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\videoTraits\obj\Debug\ToolboxControl.baml
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\videoTraits\obj\Debug\ToolboxControl.g.cs
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\videoTraits\obj\Debug\videoTraits_MarkupCompile.cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\videoTraits\obj\Debug\videoTraits.g.resources
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\videoTraits\obj\Debug\videoTraits.Properties.Resources.resources
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\videoTraits\obj\Debug\videoTraits.csproj.GenerateResource.Cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\videoTraits\obj\Debug\videoTraits.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\videoTraits\obj\Debug\videoTraits.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\videoTraits\obj\Debug\videoTraits.pkgdef
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\videoTraits\obj\Debug\videoTraits.latest.pkgdef
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\videoTraits\bin\Debug\videoTraits.vsix
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\videoTraits\bin\Debug\extension.vsixmanifest
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\videoTraits\obj\Debug\extension.vsixmanifest
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\videoTraits\obj\Debug\videoTraits.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Engineering Terminal\videoTraits\bin\Debug\videoTraits.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Engineering Terminal\videoTraits\bin\Debug\videoTraits.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Engineering Terminal\videoTraits\bin\Debug\videoTraits.pkgdef
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Engineering Terminal\videoTraits\bin\Debug\videoTraits.vsix
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Engineering Terminal\videoTraits\bin\Debug\extension.vsixmanifest
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Engineering Terminal\videoTraits\obj\Debug\videoTraits.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Engineering Terminal\videoTraits\obj\Debug\ToolboxControl.baml
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Engineering Terminal\videoTraits\obj\Debug\ToolboxControl.g.cs
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Engineering Terminal\videoTraits\obj\Debug\videoTraits_MarkupCompile.cache
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Engineering Terminal\videoTraits\obj\Debug\videoTraits.g.resources
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Engineering Terminal\videoTraits\obj\Debug\videoTraits.Properties.Resources.resources
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Engineering Terminal\videoTraits\obj\Debug\videoTraits.csproj.GenerateResource.Cache
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Engineering Terminal\videoTraits\obj\Debug\videoTraits.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Engineering Terminal\videoTraits\obj\Debug\videoTraits.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Engineering Terminal\videoTraits\obj\Debug\videoTraits.pkgdef
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Engineering Terminal\videoTraits\obj\Debug\videoTraits.latest.pkgdef
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Engineering Terminal\videoTraits\obj\Debug\extension.vsixmanifest

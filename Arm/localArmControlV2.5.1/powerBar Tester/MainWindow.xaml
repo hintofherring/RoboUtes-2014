@@ -1,0 +1,12 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:powerBar="clr-namespace:powerBar;assembly=powerBar" x:Class="powerBar_Tester.MainWindow"
+        Title="MainWindow" Height="350" Width="525" Closing="Window_Closing">
+    <Grid>
+
+        <powerBar:ToolboxControl x:Name="powerBarTest" HorizontalAlignment="Left" Margin="136,10,0,0" VerticalAlignment="Top" Height="261" Width="172"/>
+        <Slider x:Name="fillSlider" HorizontalAlignment="Left" Margin="79,289,0,0" VerticalAlignment="Top" Width="164" Maximum="100" ValueChanged="fillSlider_ValueChanged"/>
+
+    </Grid>
+</Window>

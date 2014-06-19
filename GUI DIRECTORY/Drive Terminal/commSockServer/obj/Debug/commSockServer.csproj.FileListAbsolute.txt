@@ -1,0 +1,63 @@
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\commSockServer\commSockServer\bin\Debug\commSockServer.dll
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\commSockServer\commSockServer\bin\Debug\commSockServer.pdb
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\commSockServer\commSockServer\bin\Debug\ChatClientModel.dll
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\commSockServer\commSockServer\bin\Debug\StringSocket.dll
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\commSockServer\commSockServer\bin\Debug\ChatClientModel.pdb
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\commSockServer\commSockServer\bin\Debug\StringSocket.pdb
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\commSockServer\commSockServer\obj\Debug\commSockServer.csprojResolveAssemblyReference.cache
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\commSockServer\commSockServer\obj\Debug\commSockServer.dll
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\commSockServer\commSockServer\obj\Debug\commSockServer.pdb
+C:\Users\HAL9000\Desktop\commSockServer\commSockServer\bin\Debug\commSockServer.dll
+C:\Users\HAL9000\Desktop\commSockServer\commSockServer\bin\Debug\commSockServer.pdb
+C:\Users\HAL9000\Desktop\commSockServer\commSockServer\bin\Debug\ChatClientModel.dll
+C:\Users\HAL9000\Desktop\commSockServer\commSockServer\bin\Debug\StringSocket.dll
+C:\Users\HAL9000\Desktop\commSockServer\commSockServer\bin\Debug\ChatClientModel.pdb
+C:\Users\HAL9000\Desktop\commSockServer\commSockServer\bin\Debug\StringSocket.pdb
+C:\Users\HAL9000\Desktop\commSockServer\commSockServer\obj\Debug\commSockServer.csprojResolveAssemblyReference.cache
+C:\Users\HAL9000\Desktop\commSockServer\commSockServer\obj\Debug\commSockServer.dll
+C:\Users\HAL9000\Desktop\commSockServer\commSockServer\obj\Debug\commSockServer.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\commSockServer\bin\Debug\commSockServer.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\commSockServer\bin\Debug\commSockServer.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\commSockServer\bin\Debug\ChatClientModel.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\commSockServer\bin\Debug\StringSocket.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\commSockServer\bin\Debug\ChatClientModel.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\commSockServer\bin\Debug\StringSocket.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\commSockServer\obj\Debug\commSockServer.csprojResolveAssemblyReference.cache
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\commSockServer\obj\Debug\commSockServer.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\commSockServer\obj\Debug\commSockServer.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\commSockServer\bin\Debug\commSockServer.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\commSockServer\bin\Debug\commSockServer.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\commSockServer\bin\Debug\ChatClientModel.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\commSockServer\bin\Debug\StringSocket.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\commSockServer\bin\Debug\ChatClientModel.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\commSockServer\bin\Debug\StringSocket.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\commSockServer\obj\Debug\commSockServer.csprojResolveAssemblyReference.cache
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\commSockServer\obj\Debug\commSockServer.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\commSockServer\obj\Debug\commSockServer.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\commSockServer\bin\Debug\commSockServer.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\commSockServer\bin\Debug\commSockServer.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\commSockServer\bin\Debug\ChatClientModel.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\commSockServer\bin\Debug\StringSocket.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\commSockServer\bin\Debug\ChatClientModel.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\commSockServer\bin\Debug\StringSocket.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\commSockServer\obj\Debug\commSockServer.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\commSockServer\obj\Debug\commSockServer.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\commSockServer\obj\Debug\commSockServer.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\commSockServer\bin\Debug\commSockServer.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\commSockServer\bin\Debug\commSockServer.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\commSockServer\bin\Debug\ChatClientModel.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\commSockServer\bin\Debug\StringSocket.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\commSockServer\bin\Debug\ChatClientModel.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\commSockServer\bin\Debug\StringSocket.pdb
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\commSockServer\obj\Debug\commSockServer.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\commSockServer\obj\Debug\commSockServer.dll
+C:\Users\RoboUtes 1\Desktop\Roboutes\GUI DIRECTORY\Drive Terminal\commSockServer\obj\Debug\commSockServer.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\commSockServer\bin\Debug\commSockServer.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\commSockServer\bin\Debug\commSockServer.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\commSockServer\bin\Debug\ChatClientModel.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\commSockServer\bin\Debug\StringSocket.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\commSockServer\bin\Debug\ChatClientModel.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\commSockServer\bin\Debug\StringSocket.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\commSockServer\obj\Debug\commSockServer.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\commSockServer\obj\Debug\commSockServer.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Drive Terminal\commSockServer\obj\Debug\commSockServer.pdb

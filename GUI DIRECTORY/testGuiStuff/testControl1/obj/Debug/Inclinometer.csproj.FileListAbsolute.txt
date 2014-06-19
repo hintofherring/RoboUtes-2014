@@ -1,0 +1,17 @@
+C:\Users\CORE\Documents\Visual Studio 2012\Projects\testGuiStuff\testControl1\bin\Debug\testControl1.dll
+C:\Users\CORE\Documents\Visual Studio 2012\Projects\testGuiStuff\testControl1\bin\Debug\testControl1.pdb
+C:\Users\CORE\Documents\Visual Studio 2012\Projects\testGuiStuff\testControl1\bin\Debug\testControl1.pkgdef
+C:\Users\CORE\Documents\Visual Studio 2012\Projects\testGuiStuff\testControl1\obj\Debug\Inclinometer.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\Visual Studio 2012\Projects\testGuiStuff\testControl1\obj\Debug\testControl1.baml
+C:\Users\CORE\Documents\Visual Studio 2012\Projects\testGuiStuff\testControl1\obj\Debug\testControl1.g.cs
+C:\Users\CORE\Documents\Visual Studio 2012\Projects\testGuiStuff\testControl1\obj\Debug\testControl1_MarkupCompile.cache
+C:\Users\CORE\Documents\Visual Studio 2012\Projects\testGuiStuff\testControl1\obj\Debug\testControl1.g.resources
+C:\Users\CORE\Documents\Visual Studio 2012\Projects\testGuiStuff\testControl1\obj\Debug\testControl1.Properties.Resources.resources
+C:\Users\CORE\Documents\Visual Studio 2012\Projects\testGuiStuff\testControl1\obj\Debug\Inclinometer.csproj.GenerateResource.Cache
+C:\Users\CORE\Documents\Visual Studio 2012\Projects\testGuiStuff\testControl1\obj\Debug\testControl1.dll
+C:\Users\CORE\Documents\Visual Studio 2012\Projects\testGuiStuff\testControl1\obj\Debug\testControl1.pdb
+C:\Users\CORE\Documents\Visual Studio 2012\Projects\testGuiStuff\testControl1\obj\Debug\testControl1.pkgdef
+C:\Users\CORE\Documents\Visual Studio 2012\Projects\testGuiStuff\testControl1\obj\Debug\testControl1.latest.pkgdef
+C:\Users\CORE\Documents\Visual Studio 2012\Projects\testGuiStuff\testControl1\bin\Debug\testControl1.vsix
+C:\Users\CORE\Documents\Visual Studio 2012\Projects\testGuiStuff\testControl1\bin\Debug\extension.vsixmanifest
+C:\Users\CORE\Documents\Visual Studio 2012\Projects\testGuiStuff\testControl1\obj\Debug\extension.vsixmanifest

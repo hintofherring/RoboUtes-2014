@@ -1,0 +1,12 @@
+C:\Users\HAL9000\Desktop\CORE Image\testReceiveImage\renderTest\obj\Debug\MainWindow.baml
+C:\Users\HAL9000\Desktop\CORE Image\testReceiveImage\renderTest\obj\Debug\MainWindow.g.cs
+C:\Users\HAL9000\Desktop\CORE Image\testReceiveImage\renderTest\obj\Debug\App.g.cs
+C:\Users\HAL9000\Desktop\CORE Image\testReceiveImage\renderTest\obj\Debug\renderTest_MarkupCompile.cache
+C:\Users\HAL9000\Desktop\CORE Image\testReceiveImage\renderTest\obj\Debug\renderTest.g.resources
+C:\Users\HAL9000\Desktop\CORE Image\testReceiveImage\renderTest\obj\Debug\renderTest.Properties.Resources.resources
+C:\Users\HAL9000\Desktop\CORE Image\testReceiveImage\renderTest\obj\Debug\renderTest.csproj.GenerateResource.Cache
+C:\Users\HAL9000\Desktop\CORE Image\testReceiveImage\renderTest\bin\Debug\renderTest.exe.config
+C:\Users\HAL9000\Desktop\CORE Image\testReceiveImage\renderTest\bin\Debug\renderTest.exe
+C:\Users\HAL9000\Desktop\CORE Image\testReceiveImage\renderTest\bin\Debug\renderTest.pdb
+C:\Users\HAL9000\Desktop\CORE Image\testReceiveImage\renderTest\obj\Debug\renderTest.exe
+C:\Users\HAL9000\Desktop\CORE Image\testReceiveImage\renderTest\obj\Debug\renderTest.pdb

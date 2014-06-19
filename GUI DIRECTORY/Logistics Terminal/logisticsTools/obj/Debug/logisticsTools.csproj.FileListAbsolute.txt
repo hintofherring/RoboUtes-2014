@@ -1,0 +1,8 @@
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\logisticsTools\bin\Debug\logisticsTools.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\logisticsTools\bin\Debug\logisticsTools.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\logisticsTools\obj\Debug\logisticsTools.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Logistics Terminal\logisticsTools\obj\Debug\logisticsTools.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\logisticsTools\bin\Debug\logisticsTools.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\logisticsTools\bin\Debug\logisticsTools.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\logisticsTools\obj\Debug\logisticsTools.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Logistics Terminal\logisticsTools\obj\Debug\logisticsTools.pdb

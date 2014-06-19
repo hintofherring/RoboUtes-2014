@@ -1,0 +1,15 @@
+﻿<Window x:Class="videoSocketReceiver_Tester.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="688" Closing="Window_Closing">
+    <Grid>
+        <Image x:Name="imageBox" HorizontalAlignment="Left" Height="300" Margin="10,10,0,0" VerticalAlignment="Top" Width="497"/>
+        <Label Content="Frame Size: " HorizontalAlignment="Left" Margin="512,83,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="frameSizeLabel" Content="NA" HorizontalAlignment="Left" Margin="590,83,0,0" VerticalAlignment="Top" Width="80"/>
+        <Label Content="FPS: " HorizontalAlignment="Left" Margin="512,114,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="fpsLabel" Content="NA" HorizontalAlignment="Left" Margin="590,114,0,0" VerticalAlignment="Top" Width="80"/>
+        <Label Content="Instantaneous bandwidth: " HorizontalAlignment="Left" Margin="435,284,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="IBLabel" Content="NA" HorizontalAlignment="Left" Margin="590,284,0,0" VerticalAlignment="Top" Width="80"/>
+
+    </Grid>
+</Window>

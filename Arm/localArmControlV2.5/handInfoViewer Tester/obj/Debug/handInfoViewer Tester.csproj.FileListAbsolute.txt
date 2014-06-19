@@ -1,0 +1,26 @@
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer Tester\bin\Debug\handInfoViewer Tester.exe.config
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer Tester\bin\Debug\handInfoViewer Tester.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer Tester\bin\Debug\handInfoViewer Tester.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer Tester\bin\Debug\handInfoViewer.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer Tester\bin\Debug\powerBar.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer Tester\bin\Debug\handInfoViewer.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer Tester\bin\Debug\powerBar.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer Tester\obj\Debug\handInfoViewer Tester.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer Tester\obj\Debug\MainWindow.baml
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer Tester\obj\Debug\MainWindow.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer Tester\obj\Debug\App.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer Tester\obj\Debug\handInfoViewer Tester_MarkupCompile.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer Tester\obj\Debug\handInfoViewer Tester.g.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer Tester\obj\Debug\handInfoViewer_Tester.Properties.Resources.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer Tester\obj\Debug\handInfoViewer Tester.csproj.GenerateResource.Cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer Tester\obj\Debug\handInfoViewer Tester.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer Tester\obj\Debug\handInfoViewer Tester.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer Tester\bin\Debug\localArmControlTools.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer Tester\bin\Debug\XboxController.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer Tester\bin\Debug\toggleIndicator.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer Tester\bin\Debug\ArduinoLibrary.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer Tester\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer Tester\bin\Debug\localArmControlTools.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer Tester\bin\Debug\XboxController.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer Tester\bin\Debug\toggleIndicator.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\handInfoViewer Tester\bin\Debug\ArduinoLibrary.pdb

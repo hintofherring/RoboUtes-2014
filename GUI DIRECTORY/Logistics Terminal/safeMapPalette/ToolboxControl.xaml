@@ -1,0 +1,58 @@
+﻿<UserControl x:Class="safeMapPalette.ToolboxControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" Height="430" Width="432">
+    <Viewbox Stretch="Fill">
+        <Grid Height="430" Width="432">
+            <Rectangle Fill="#FF383838" HorizontalAlignment="Left" Height="430" Stroke="Black" VerticalAlignment="Top" Width="432"/>
+            <Rectangle Fill="#FFFFB900" HorizontalAlignment="Left" Height="3" Stroke="#FFFFB900" VerticalAlignment="Top" Width="432" Margin="0,57,0,0"/>
+            <Label Content="MAP PIN PALETTE" HorizontalAlignment="Left" VerticalAlignment="Top" Height="57" Width="432" Foreground="#FFFFB900" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" FontSize="30"/>
+            <Rectangle Fill="Red" HorizontalAlignment="Left" Height="26" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="10,73,0,0"/>
+            <Rectangle Fill="#FFFFB900" HorizontalAlignment="Left" Height="3" Stroke="#FFFFB900" VerticalAlignment="Top" Width="432" Margin="0,109,0,0"/>
+            <Label Content="RED ROCK" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="63,68,0,0" Width="120" FontWeight="Bold" FontSize="16" Background="{x:Null}" Foreground="Red"/>
+            <RadioButton x:Name="redRockButton" Content="" HorizontalAlignment="Left" Margin="406,78,0,0" VerticalAlignment="Top" Click="radioButton_Click" Uid="RED"/>
+            <Rectangle Fill="#FF00B3C5" HorizontalAlignment="Left" Height="26" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="10,120,0,0"/>
+            <Rectangle Fill="#FFFFB900" HorizontalAlignment="Left" Height="3" Stroke="#FFFFB900" VerticalAlignment="Top" Width="432" Margin="0,156,0,0"/>
+            <Label Content="BLUE ROCK" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="63,115,0,0" Width="120" FontWeight="Bold" FontSize="16" Background="{x:Null}" Foreground="#FF00B9FF"/>
+            <RadioButton x:Name="blueRockButton" Content="" HorizontalAlignment="Left" Margin="406,125,0,0" VerticalAlignment="Top" Click="radioButton_Click" Uid="BLUE"/>
+            <Rectangle Fill="#FFFFE800" HorizontalAlignment="Left" Height="26" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="10,172,0,0"/>
+            <Rectangle Fill="#FFFFB900" HorizontalAlignment="Left" Height="3" Stroke="#FFFFB900" VerticalAlignment="Top" Width="432" Margin="0,208,0,0"/>
+            <Label Content="YELLOW ROCK" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="63,167,0,0" Width="120" FontWeight="Bold" FontSize="16" Background="{x:Null}" Foreground="#FFF3FF00"/>
+            <RadioButton x:Name="yellowRockButton" Content="" HorizontalAlignment="Left" Margin="406,177,0,0" VerticalAlignment="Top" Click="radioButton_Click" Uid="YELLOW"/>
+            <Rectangle Fill="#FFFB5C01" HorizontalAlignment="Left" Height="26" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="10,226,0,0"/>
+            <Rectangle Fill="#FFFFB900" HorizontalAlignment="Left" Height="3" Stroke="#FFFFB900" VerticalAlignment="Top" Width="432" Margin="0,262,0,0"/>
+            <Label Content="ORANGE ROCK" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="63,221,0,0" Width="138" FontWeight="Bold" FontSize="16" Background="{x:Null}" Foreground="#FFFF8000"/>
+            <RadioButton x:Name="orangeRockButton" Content="" HorizontalAlignment="Left" Margin="406,231,0,0" VerticalAlignment="Top" Click="radioButton_Click" Uid="ORANGE"/>
+            <Rectangle Fill="#FF0CFF00" HorizontalAlignment="Left" Height="26" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="10,275,0,0"/>
+            <Rectangle Fill="#FFFFB900" HorizontalAlignment="Left" Height="3" Stroke="#FFFFB900" VerticalAlignment="Top" Width="432" Margin="0,311,0,0"/>
+            <Label Content="GREEN ROCK" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="63,270,0,0" Width="138" FontWeight="Bold" FontSize="16" Background="{x:Null}" Foreground="#FF0CFF00"/>
+            <RadioButton x:Name="greenRockButton" Content="" HorizontalAlignment="Left" Margin="406,280,0,0" VerticalAlignment="Top" Click="radioButton_Click" Uid="GREEN"/>
+            <Rectangle HorizontalAlignment="Left" Height="26" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="10,376,0,0">
+                <Rectangle.Fill>
+                    <RadialGradientBrush>
+                        <GradientStop Color="Red" Offset="0"/>
+                        <GradientStop Color="#FF00FF2E" Offset="1"/>
+                        <GradientStop Color="#FF211784" Offset="0.576"/>
+                    </RadialGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle Fill="#FFFFB900" HorizontalAlignment="Left" Height="2" Stroke="#FFFFB900" VerticalAlignment="Top" Width="432" Margin="0,412,0,0"/>
+            <Label Content="ALIEN!!!!" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="80,361,0,0" Width="138" FontWeight="Bold" FontSize="30" Background="{x:Null}">
+                <Label.Foreground>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF02AC21" Offset="0"/>
+                        <GradientStop Color="#FF08DAD0" Offset="0.493"/>
+                        <GradientStop Color="Red" Offset="1"/>
+                    </LinearGradientBrush>
+                </Label.Foreground>
+            </Label>
+            <RadioButton x:Name="alienButton" Content="" HorizontalAlignment="Left" Margin="406,380,0,0" VerticalAlignment="Top" Click="radioButton_Click" Uid="ALIEN"/>
+            <Rectangle Fill="#FFF300FF" HorizontalAlignment="Left" Height="26" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="10,322,0,0"/>
+            <Rectangle Fill="#FFFFB900" HorizontalAlignment="Left" Height="3" Stroke="#FFFFB900" VerticalAlignment="Top" Width="432" Margin="0,358,0,0"/>
+            <Label Content="PURPLE ROCK" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="63,317,0,0" Width="138" FontWeight="Bold" FontSize="16" Background="{x:Null}" Foreground="#FFC500FF"/>
+            <RadioButton x:Name="purpleRockButton" Content="" HorizontalAlignment="Left" Margin="406,327,0,0" VerticalAlignment="Top" Click="radioButton_Click" Uid="PURPLE"/>
+        </Grid>
+    </Viewbox>
+</UserControl>

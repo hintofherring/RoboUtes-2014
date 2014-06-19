@@ -1,0 +1,16 @@
+C:\Users\CORE\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\toggleIndicator\1.0\\toggleIndicator.dll
+C:\Users\CORE\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\toggleIndicator\1.0\\toggleIndicator.pkgdef
+C:\Users\CORE\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\toggleIndicator\1.0\\extension.vsixmanifest
+C:\Users\CORE\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\toggleIndicator\1.0\\toggleIndicator.pdb
+C:\Users\ROC\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\toggleIndicator\1.0\\toggleIndicator.dll
+C:\Users\ROC\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\toggleIndicator\1.0\\toggleIndicator.pkgdef
+C:\Users\ROC\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\toggleIndicator\1.0\\extension.vsixmanifest
+C:\Users\ROC\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\toggleIndicator\1.0\\toggleIndicator.pdb
+C:\Users\StealthBomber\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\toggleIndicator\1.0\\toggleIndicator.dll
+C:\Users\StealthBomber\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\toggleIndicator\1.0\\toggleIndicator.pkgdef
+C:\Users\StealthBomber\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\toggleIndicator\1.0\\extension.vsixmanifest
+C:\Users\StealthBomber\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\toggleIndicator\1.0\\toggleIndicator.pdb
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\toggleIndicator\1.0\\toggleIndicator.dll
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\toggleIndicator\1.0\\toggleIndicator.pkgdef
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\toggleIndicator\1.0\\extension.vsixmanifest
+C:\Users\RoboUtes 6\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Matt M\toggleIndicator\1.0\\toggleIndicator.pdb

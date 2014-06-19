@@ -1,0 +1,35 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:toggleIndicator="clr-namespace:toggleIndicator;assembly=toggleIndicator" xmlns:commFeedViz="clr-namespace:commFeedViz;assembly=commFeedViz" x:Class="wristControlDevelopment.MainWindow"
+        Title="MainWindow" Height="350" Width="681" Closing="Window_Closing">
+    <Grid>
+        <Rectangle x:Name="spinHand" Fill="Red" HorizontalAlignment="Left" Height="6" Margin="211,165,0,0" Stroke="Black" VerticalAlignment="Top" Width="53" RenderTransformOrigin="0,0.5"/>
+        <Label Content="Rotation Angle: " HorizontalAlignment="Left" Margin="84,258,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="rotAngleLabel" Content="NA" HorizontalAlignment="Left" Margin="184,258,0,0" VerticalAlignment="Top" Width="156"/>
+        <Label Content="Magnitude: " HorizontalAlignment="Left" Margin="84,284,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="magLabel" Content="NA" HorizontalAlignment="Left" Margin="184,284,0,0" VerticalAlignment="Top" Width="156"/>
+
+        <toggleIndicator:ToolboxControl x:Name="upInd" HorizontalAlignment="Left" Margin="191,81,0,0" VerticalAlignment="Top" Height="41" Width="41"/>
+        <toggleIndicator:ToolboxControl x:Name="leftInd" HorizontalAlignment="Left" Margin="114,191,0,0" VerticalAlignment="Top" Height="41" Width="41"/>
+        <toggleIndicator:ToolboxControl x:Name="rightInd" HorizontalAlignment="Left" Margin="267,191,0,0" VerticalAlignment="Top" Height="41" Width="41"/>
+        <Label x:Name="upPercentageLabel" Content="NA" HorizontalAlignment="Left" Margin="274,81,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="rightPercentageLabel" Content="NA" HorizontalAlignment="Left" Margin="345,191,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="leftPercentageLabel" Content="NA" HorizontalAlignment="Left" Margin="180,191,0,0" VerticalAlignment="Top"/>
+        <Label Content="%: " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="155,191,0,0"/>
+        <Label Content="%: " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="314,191,0,0"/>
+        <Label Content="%: " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="248,81,0,0"/>
+        <Label x:Name="upMagLabel" Content="NA" HorizontalAlignment="Left" Margin="291,107,0,0" VerticalAlignment="Top"/>
+        <Label Content="MAG: " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="248,107,0,0"/>
+        <Label x:Name="rightMagLabel" Content="NA" HorizontalAlignment="Left" Margin="357,216,0,0" VerticalAlignment="Top"/>
+        <Label Content="MAG: " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="314,216,0,0"/>
+        <Label x:Name="leftMagLabel" Content="NA" HorizontalAlignment="Left" Margin="198,216,0,0" VerticalAlignment="Top"/>
+        <Label Content="MAG: " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="155,216,0,0"/>
+        <Slider x:Name="maxMagSlider" HorizontalAlignment="Left" Margin="462,10,0,0" VerticalAlignment="Top" Width="201" Maximum="1024" SmallChange="0" ValueChanged="Slider_ValueChanged" IsSnapToTickEnabled="True"/>
+        <Label Content="Max Magnitude:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="462,37,0,0" Width="99"/>
+        <Label x:Name="maxMagLabel" Content="NA" HorizontalAlignment="Left" Margin="566,37,0,0" VerticalAlignment="Top" Width="97"/>
+
+        <commFeedViz:commFeedViz x:Name="wristInViz" HorizontalAlignment="Left" Margin="389,81,0,0" VerticalAlignment="Top" Height="229" Width="274"/>
+
+    </Grid>
+</Window>

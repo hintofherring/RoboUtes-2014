@@ -1,0 +1,125 @@
+c:\users\stealthbomber\documents\visual studio 2012\Projects\ArmSideView\ArmSideView\bin\Debug\ArmSideView.dll
+c:\users\stealthbomber\documents\visual studio 2012\Projects\ArmSideView\ArmSideView\bin\Debug\ArmSideView.pdb
+c:\users\stealthbomber\documents\visual studio 2012\Projects\ArmSideView\ArmSideView\bin\Debug\ArmSideView.pkgdef
+c:\users\stealthbomber\documents\visual studio 2012\Projects\ArmSideView\ArmSideView\obj\Debug\ArmSideView.csprojResolveAssemblyReference.cache
+c:\users\stealthbomber\documents\visual studio 2012\Projects\ArmSideView\ArmSideView\obj\Debug\ToolboxControl.baml
+c:\users\stealthbomber\documents\visual studio 2012\Projects\ArmSideView\ArmSideView\obj\Debug\ToolboxControl.g.cs
+c:\users\stealthbomber\documents\visual studio 2012\Projects\ArmSideView\ArmSideView\obj\Debug\ArmSideView_MarkupCompile.cache
+c:\users\stealthbomber\documents\visual studio 2012\Projects\ArmSideView\ArmSideView\obj\Debug\ArmSideView.g.resources
+c:\users\stealthbomber\documents\visual studio 2012\Projects\ArmSideView\ArmSideView\obj\Debug\ArmSideView.Properties.Resources.resources
+c:\users\stealthbomber\documents\visual studio 2012\Projects\ArmSideView\ArmSideView\obj\Debug\ArmSideView.csproj.GenerateResource.Cache
+c:\users\stealthbomber\documents\visual studio 2012\Projects\ArmSideView\ArmSideView\obj\Debug\ArmSideView.dll
+c:\users\stealthbomber\documents\visual studio 2012\Projects\ArmSideView\ArmSideView\obj\Debug\ArmSideView.pdb
+c:\users\stealthbomber\documents\visual studio 2012\Projects\ArmSideView\ArmSideView\obj\Debug\ArmSideView.pkgdef
+c:\users\stealthbomber\documents\visual studio 2012\Projects\ArmSideView\ArmSideView\obj\Debug\ArmSideView.latest.pkgdef
+c:\users\stealthbomber\documents\visual studio 2012\Projects\ArmSideView\ArmSideView\bin\Debug\ArmSideView.vsix
+c:\users\stealthbomber\documents\visual studio 2012\Projects\ArmSideView\ArmSideView\bin\Debug\extension.vsixmanifest
+c:\users\stealthbomber\documents\visual studio 2012\Projects\ArmSideView\ArmSideView\obj\Debug\extension.vsixmanifest
+D:\GUI DIRECTORY\Arm Terminal\ArmSideView\bin\Debug\ArmSideView.dll
+D:\GUI DIRECTORY\Arm Terminal\ArmSideView\bin\Debug\ArmSideView.pdb
+D:\GUI DIRECTORY\Arm Terminal\ArmSideView\bin\Debug\ArmSideView.pkgdef
+D:\GUI DIRECTORY\Arm Terminal\ArmSideView\bin\Debug\ArmSideView.vsix
+D:\GUI DIRECTORY\Arm Terminal\ArmSideView\bin\Debug\extension.vsixmanifest
+D:\GUI DIRECTORY\Arm Terminal\ArmSideView\obj\Debug\ToolboxControl.baml
+D:\GUI DIRECTORY\Arm Terminal\ArmSideView\obj\Debug\ToolboxControl.g.cs
+D:\GUI DIRECTORY\Arm Terminal\ArmSideView\obj\Debug\ArmSideView_MarkupCompile.cache
+D:\GUI DIRECTORY\Arm Terminal\ArmSideView\obj\Debug\ArmSideView.g.resources
+D:\GUI DIRECTORY\Arm Terminal\ArmSideView\obj\Debug\ArmSideView.Properties.Resources.resources
+D:\GUI DIRECTORY\Arm Terminal\ArmSideView\obj\Debug\ArmSideView.csproj.GenerateResource.Cache
+D:\GUI DIRECTORY\Arm Terminal\ArmSideView\obj\Debug\ArmSideView.dll
+D:\GUI DIRECTORY\Arm Terminal\ArmSideView\obj\Debug\ArmSideView.pdb
+D:\GUI DIRECTORY\Arm Terminal\ArmSideView\obj\Debug\ArmSideView.pkgdef
+D:\GUI DIRECTORY\Arm Terminal\ArmSideView\obj\Debug\ArmSideView.latest.pkgdef
+D:\GUI DIRECTORY\Arm Terminal\ArmSideView\obj\Debug\extension.vsixmanifest
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmSideView\bin\Debug\ArmSideView.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmSideView\bin\Debug\ArmSideView.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmSideView\bin\Debug\ArmSideView.pkgdef
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmSideView\bin\Debug\ArmSideView.vsix
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmSideView\bin\Debug\extension.vsixmanifest
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmSideView\obj\Debug\ToolboxControl.baml
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmSideView\obj\Debug\ToolboxControl.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmSideView\obj\Debug\ArmSideView_MarkupCompile.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmSideView\obj\Debug\ArmSideView.g.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmSideView\obj\Debug\ArmSideView.Properties.Resources.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmSideView\obj\Debug\ArmSideView.csproj.GenerateResource.Cache
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmSideView\obj\Debug\ArmSideView.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmSideView\obj\Debug\ArmSideView.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmSideView\obj\Debug\ArmSideView.pkgdef
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmSideView\obj\Debug\ArmSideView.latest.pkgdef
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmSideView\obj\Debug\extension.vsixmanifest
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmSideView\obj\Debug\ArmSideView.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmSideView\bin\Debug\XboxController.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmSideView\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Arm Terminal\ArmSideView\bin\Debug\XboxController.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\ArmSideView\bin\Debug\ArmSideView.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\ArmSideView\bin\Debug\ArmSideView.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\ArmSideView\bin\Debug\ArmSideView.pkgdef
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\ArmSideView\bin\Debug\ArmSideView.vsix
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\ArmSideView\bin\Debug\extension.vsixmanifest
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\ArmSideView\bin\Debug\XboxController.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\ArmSideView\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\ArmSideView\bin\Debug\XboxController.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\ArmSideView\obj\Debug\ArmSideView.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\ArmSideView\obj\Debug\ToolboxControl.baml
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\ArmSideView\obj\Debug\ToolboxControl.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\ArmSideView\obj\Debug\ArmSideView_MarkupCompile.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\ArmSideView\obj\Debug\ArmSideView.g.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\ArmSideView\obj\Debug\ArmSideView.Properties.Resources.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\ArmSideView\obj\Debug\ArmSideView.csproj.GenerateResource.Cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\ArmSideView\obj\Debug\ArmSideView.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\ArmSideView\obj\Debug\ArmSideView.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\ArmSideView\obj\Debug\ArmSideView.pkgdef
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\ArmSideView\obj\Debug\ArmSideView.latest.pkgdef
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\ArmSideView\obj\Debug\extension.vsixmanifest
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\ArmSideView\bin\Debug\localArmControlTools.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\ArmSideView\bin\Debug\ArduinoLibrary.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\ArmSideView\bin\Debug\localArmControlTools.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControl\ArmSideView\bin\Debug\ArduinoLibrary.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\ArmSideView\bin\Debug\ArmSideView.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\ArmSideView\bin\Debug\ArmSideView.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\ArmSideView\bin\Debug\ArmSideView.pkgdef
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\ArmSideView\bin\Debug\ArmSideView.vsix
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\ArmSideView\bin\Debug\extension.vsixmanifest
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\ArmSideView\bin\Debug\localArmControlTools.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\ArmSideView\bin\Debug\XboxController.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\ArmSideView\bin\Debug\ArduinoLibrary.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\ArmSideView\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\ArmSideView\bin\Debug\localArmControlTools.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\ArmSideView\bin\Debug\XboxController.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\ArmSideView\bin\Debug\ArduinoLibrary.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\ArmSideView\obj\Debug\ArmSideView.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\ArmSideView\obj\Debug\ToolboxControl.baml
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\ArmSideView\obj\Debug\ToolboxControl.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\ArmSideView\obj\Debug\ArmSideView_MarkupCompile.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\ArmSideView\obj\Debug\ArmSideView.g.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\ArmSideView\obj\Debug\ArmSideView.Properties.Resources.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\ArmSideView\obj\Debug\ArmSideView.csproj.GenerateResource.Cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\ArmSideView\obj\Debug\ArmSideView.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\ArmSideView\obj\Debug\ArmSideView.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\ArmSideView\obj\Debug\ArmSideView.pkgdef
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\ArmSideView\obj\Debug\ArmSideView.latest.pkgdef
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2\ArmSideView\obj\Debug\extension.vsixmanifest
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2.5\ArmSideView\bin\Debug\ArmSideView.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2.5\ArmSideView\bin\Debug\ArmSideView.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2.5\ArmSideView\bin\Debug\ArmSideView.pkgdef
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2.5\ArmSideView\bin\Debug\ArmSideView.vsix
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2.5\ArmSideView\bin\Debug\extension.vsixmanifest
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2.5\ArmSideView\bin\Debug\localArmControlTools.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2.5\ArmSideView\bin\Debug\XboxController.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2.5\ArmSideView\bin\Debug\ArduinoLibrary.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2.5\ArmSideView\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2.5\ArmSideView\bin\Debug\localArmControlTools.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2.5\ArmSideView\bin\Debug\XboxController.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2.5\ArmSideView\bin\Debug\ArduinoLibrary.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2.5\ArmSideView\obj\Debug\ArmSideView.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2.5\ArmSideView\obj\Debug\ToolboxControl.baml
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2.5\ArmSideView\obj\Debug\ToolboxControl.g.cs
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2.5\ArmSideView\obj\Debug\ArmSideView_MarkupCompile.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2.5\ArmSideView\obj\Debug\ArmSideView.g.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2.5\ArmSideView\obj\Debug\ArmSideView.Properties.Resources.resources
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2.5\ArmSideView\obj\Debug\ArmSideView.csproj.GenerateResource.Cache
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2.5\ArmSideView\obj\Debug\ArmSideView.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2.5\ArmSideView\obj\Debug\ArmSideView.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2.5\ArmSideView\obj\Debug\ArmSideView.pkgdef
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2.5\ArmSideView\obj\Debug\ArmSideView.latest.pkgdef
+C:\Users\CORE\Documents\GitHub\Roboutes\Arm\localArmControlV2.5\ArmSideView\obj\Debug\extension.vsixmanifest

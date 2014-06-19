@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rocNetworkManager", "rocNetworking\rocNetworkManager.csproj", "{DA2788BD-6C20-42D2-9C66-8A02C51A09F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringSocket", "StringSocket\StringSocket.csproj", "{F405A51D-0582-4E33-819F-0D71D90FCFA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testSender", "testSender\testSender.csproj", "{F9A408CB-4E05-4116-9C89-074D7EE20D59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "commSockSender", "commSocketSender\commSockSender.csproj", "{CDF62A2E-3C52-4EED-80A9-0011EAAA0BC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA2788BD-6C20-42D2-9C66-8A02C51A09F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA2788BD-6C20-42D2-9C66-8A02C51A09F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA2788BD-6C20-42D2-9C66-8A02C51A09F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA2788BD-6C20-42D2-9C66-8A02C51A09F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F405A51D-0582-4E33-819F-0D71D90FCFA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F405A51D-0582-4E33-819F-0D71D90FCFA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F405A51D-0582-4E33-819F-0D71D90FCFA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F405A51D-0582-4E33-819F-0D71D90FCFA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9A408CB-4E05-4116-9C89-074D7EE20D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9A408CB-4E05-4116-9C89-074D7EE20D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9A408CB-4E05-4116-9C89-074D7EE20D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9A408CB-4E05-4116-9C89-074D7EE20D59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDF62A2E-3C52-4EED-80A9-0011EAAA0BC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF62A2E-3C52-4EED-80A9-0011EAAA0BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF62A2E-3C52-4EED-80A9-0011EAAA0BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF62A2E-3C52-4EED-80A9-0011EAAA0BC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

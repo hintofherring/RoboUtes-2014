@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XboxController", "XboxController\XboxController.csproj", "{CAC2902B-97FD-483E-B362-39E244AA1ACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{4CA0EE5F-D713-46C6-8FE6-31B17E382A60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAC2902B-97FD-483E-B362-39E244AA1ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC2902B-97FD-483E-B362-39E244AA1ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC2902B-97FD-483E-B362-39E244AA1ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC2902B-97FD-483E-B362-39E244AA1ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CA0EE5F-D713-46C6-8FE6-31B17E382A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA0EE5F-D713-46C6-8FE6-31B17E382A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA0EE5F-D713-46C6-8FE6-31B17E382A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA0EE5F-D713-46C6-8FE6-31B17E382A60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

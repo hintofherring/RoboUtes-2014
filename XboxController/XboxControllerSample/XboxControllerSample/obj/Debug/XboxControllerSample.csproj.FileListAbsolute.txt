@@ -1,0 +1,28 @@
+c:\users\greg\documents\visual studio 2012\Projects\XboxControllerSample\XboxControllerSample\bin\Debug\XboxControllerSample.exe.config
+c:\users\greg\documents\visual studio 2012\Projects\XboxControllerSample\XboxControllerSample\obj\Debug\XboxControllerSample.csprojResolveAssemblyReference.cache
+c:\users\greg\documents\visual studio 2012\Projects\XboxControllerSample\XboxControllerSample\bin\Debug\XboxControllerSample.exe
+c:\users\greg\documents\visual studio 2012\Projects\XboxControllerSample\XboxControllerSample\bin\Debug\XboxControllerSample.pdb
+c:\users\greg\documents\visual studio 2012\Projects\XboxControllerSample\XboxControllerSample\bin\Debug\XboxController.dll
+c:\users\greg\documents\visual studio 2012\Projects\XboxControllerSample\XboxControllerSample\bin\Debug\Microsoft.Xna.Framework.dll
+c:\users\greg\documents\visual studio 2012\Projects\XboxControllerSample\XboxControllerSample\bin\Debug\Microsoft.Xna.Framework.xml
+c:\users\greg\documents\visual studio 2012\Projects\XboxControllerSample\XboxControllerSample\obj\Debug\XboxControllerSample.exe
+c:\users\greg\documents\visual studio 2012\Projects\XboxControllerSample\XboxControllerSample\obj\Debug\XboxControllerSample.pdb
+C:\Users\CORE\Desktop\XboxControllerSample\XboxControllerSample\bin\Debug\XboxControllerSample.exe.config
+C:\Users\CORE\Desktop\XboxControllerSample\XboxControllerSample\obj\Debug\XboxControllerSample.exe
+C:\Users\CORE\Desktop\XboxControllerSample\XboxControllerSample\obj\Debug\XboxControllerSample.pdb
+C:\Users\CORE\Desktop\XboxControllerSample\XboxControllerSample\bin\Debug\XboxControllerSample.exe
+C:\Users\CORE\Desktop\XboxControllerSample\XboxControllerSample\bin\Debug\XboxControllerSample.pdb
+C:\Users\CORE\Desktop\XboxControllerSample\XboxControllerSample\bin\Debug\XboxController.dll
+C:\Users\CORE\Desktop\XboxControllerSample\XboxControllerSample\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\CORE\Desktop\XboxControllerSample\XboxControllerSample\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\CORE\Desktop\XboxControllerSample\XboxControllerSample\obj\Debug\XboxControllerSample.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\XboxController\XboxControllerSample\XboxControllerSample\bin\Debug\XboxControllerSample.exe.config
+C:\Users\CORE\Documents\GitHub\Roboutes\XboxController\XboxControllerSample\XboxControllerSample\obj\Debug\XboxControllerSample.exe
+C:\Users\CORE\Documents\GitHub\Roboutes\XboxController\XboxControllerSample\XboxControllerSample\obj\Debug\XboxControllerSample.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\XboxController\XboxControllerSample\XboxControllerSample\bin\Debug\XboxControllerSample.exe.config
+C:\Users\RoboUtes 6\Desktop\Roboutes\XboxController\XboxControllerSample\XboxControllerSample\obj\Debug\XboxControllerSample.exe
+C:\Users\RoboUtes 6\Desktop\Roboutes\XboxController\XboxControllerSample\XboxControllerSample\obj\Debug\XboxControllerSample.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\XboxController\XboxControllerSample\XboxControllerSample\bin\Debug\XboxControllerSample.exe
+C:\Users\RoboUtes 6\Desktop\Roboutes\XboxController\XboxControllerSample\XboxControllerSample\bin\Debug\XboxControllerSample.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\XboxController\XboxControllerSample\XboxControllerSample\bin\Debug\XboxController.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\XboxController\XboxControllerSample\XboxControllerSample\obj\Debug\XboxControllerSample.csprojResolveAssemblyReference.cache

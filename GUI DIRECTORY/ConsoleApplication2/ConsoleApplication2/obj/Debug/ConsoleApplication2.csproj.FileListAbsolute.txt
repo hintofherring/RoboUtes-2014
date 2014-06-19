@@ -1,0 +1,6 @@
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

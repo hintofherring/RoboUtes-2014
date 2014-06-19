@@ -1,0 +1,18 @@
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="Control_Status..6ee0da67-a704-4103-873d-b375cf87172e" Version="1.0" Language="en-US" Publisher="Matt M" />
+    <DisplayName>Control_Status</DisplayName>
+    <Description>WPF Toolbox Control</Description>
+    <Icon />
+    <PreviewImage />
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Pro" Version="11.0" />
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" Version="4.5" />
+  </Dependencies>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.ToolboxControl" Path="Control_Status.pkgdef" />
+  </Assets>
+</PackageManifest>

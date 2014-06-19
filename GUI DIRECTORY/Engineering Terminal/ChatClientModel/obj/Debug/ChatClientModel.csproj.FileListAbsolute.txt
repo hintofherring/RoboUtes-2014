@@ -1,0 +1,56 @@
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\networkingTest\ChatClientModel\bin\Debug\ChatClientModel.dll
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\networkingTest\ChatClientModel\bin\Debug\ChatClientModel.pdb
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\networkingTest\ChatClientModel\bin\Debug\StringSocket.dll
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\networkingTest\ChatClientModel\bin\Debug\StringSocket.pdb
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\networkingTest\ChatClientModel\obj\Debug\ChatClientModel.csprojResolveAssemblyReference.cache
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\networkingTest\ChatClientModel\obj\Debug\ChatClientModel.dll
+C:\Users\HAL9000\Documents\Visual Studio 2012\Projects\networkingTest\ChatClientModel\obj\Debug\ChatClientModel.pdb
+C:\Users\HAL9000\Desktop\commSockServer\ChatClientModel\bin\Debug\ChatClientModel.dll
+C:\Users\HAL9000\Desktop\commSockServer\ChatClientModel\bin\Debug\ChatClientModel.pdb
+C:\Users\HAL9000\Desktop\commSockServer\ChatClientModel\bin\Debug\StringSocket.dll
+C:\Users\HAL9000\Desktop\commSockServer\ChatClientModel\bin\Debug\StringSocket.pdb
+C:\Users\HAL9000\Desktop\commSockServer\ChatClientModel\obj\Debug\ChatClientModel.csprojResolveAssemblyReference.cache
+C:\Users\HAL9000\Desktop\commSockServer\ChatClientModel\obj\Debug\ChatClientModel.dll
+C:\Users\HAL9000\Desktop\commSockServer\ChatClientModel\obj\Debug\ChatClientModel.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\ChatClientModel\bin\Debug\ChatClientModel.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\ChatClientModel\bin\Debug\ChatClientModel.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\ChatClientModel\bin\Debug\StringSocket.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\ChatClientModel\bin\Debug\StringSocket.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\ChatClientModel\obj\Debug\ChatClientModel.csprojResolveAssemblyReference.cache
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\ChatClientModel\obj\Debug\ChatClientModel.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\Networking\commSockServer\ChatClientModel\obj\Debug\ChatClientModel.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\ChatClientModel\bin\Debug\ChatClientModel.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\ChatClientModel\bin\Debug\ChatClientModel.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\ChatClientModel\bin\Debug\StringSocket.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\ChatClientModel\bin\Debug\StringSocket.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\ChatClientModel\obj\Debug\ChatClientModel.csprojResolveAssemblyReference.cache
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\ChatClientModel\obj\Debug\ChatClientModel.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Drive Terminal\ChatClientModel\obj\Debug\ChatClientModel.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Engineering Terminal\ChatClientModel\bin\Debug\ChatClientModel.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Engineering Terminal\ChatClientModel\bin\Debug\ChatClientModel.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Engineering Terminal\ChatClientModel\bin\Debug\StringSocket.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Engineering Terminal\ChatClientModel\bin\Debug\StringSocket.pdb
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Engineering Terminal\ChatClientModel\obj\Debug\ChatClientModel.csprojResolveAssemblyReference.cache
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Engineering Terminal\ChatClientModel\obj\Debug\ChatClientModel.dll
+C:\Users\CORE\Documents\GitHub\Roboutes\GUI DIRECTORY\Engineering Terminal\ChatClientModel\obj\Debug\ChatClientModel.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Engineering Terminal\ChatClientModel\bin\Debug\ChatClientModel.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Engineering Terminal\ChatClientModel\bin\Debug\ChatClientModel.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Engineering Terminal\ChatClientModel\bin\Debug\StringSocket.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Engineering Terminal\ChatClientModel\bin\Debug\StringSocket.pdb
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Engineering Terminal\ChatClientModel\obj\Debug\ChatClientModel.csprojResolveAssemblyReference.cache
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Engineering Terminal\ChatClientModel\obj\Debug\ChatClientModel.dll
+C:\Users\StealthBomber\Documents\GitHub\Roboutes\GUI DIRECTORY\Engineering Terminal\ChatClientModel\obj\Debug\ChatClientModel.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\ChatClientModel\bin\Debug\ChatClientModel.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\ChatClientModel\bin\Debug\ChatClientModel.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\ChatClientModel\bin\Debug\StringSocket.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\ChatClientModel\bin\Debug\StringSocket.pdb
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\ChatClientModel\obj\Debug\ChatClientModel.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\ChatClientModel\obj\Debug\ChatClientModel.dll
+C:\Users\RoboUtes 6\Desktop\Roboutes\GUI DIRECTORY\Engineering Terminal\ChatClientModel\obj\Debug\ChatClientModel.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Engineering Terminal\ChatClientModel\bin\Debug\ChatClientModel.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Engineering Terminal\ChatClientModel\bin\Debug\ChatClientModel.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Engineering Terminal\ChatClientModel\bin\Debug\StringSocket.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Engineering Terminal\ChatClientModel\bin\Debug\StringSocket.pdb
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Engineering Terminal\ChatClientModel\obj\Debug\ChatClientModel.csprojResolveAssemblyReference.cache
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Engineering Terminal\ChatClientModel\obj\Debug\ChatClientModel.dll
+C:\Users\RoboUtes\MissionControl\Roboutes-master\GUI DIRECTORY\Engineering Terminal\ChatClientModel\obj\Debug\ChatClientModel.pdb

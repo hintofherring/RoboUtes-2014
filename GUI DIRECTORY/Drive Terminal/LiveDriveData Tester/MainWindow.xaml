@@ -1,0 +1,20 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:LiveDriveData="clr-namespace:LiveDriveData;assembly=LiveDriveData" x:Class="LiveDriveData_Tester.MainWindow"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <LiveDriveData:ToolboxControl x:Name="liveDriveDataComp" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="272" Width="241"/>
+        <Label x:Name="stallLabel" HorizontalContentAlignment="Center" Content="STALL" HorizontalAlignment="Left" Margin="256,69,0,0" VerticalAlignment="Top" Background="Red" FontWeight="Bold" MouseDown="MouseDown" MouseUp="MouseUp"/>
+        <Label x:Name="slipLabel" HorizontalContentAlignment="Center" Content="SLIP" HorizontalAlignment="Left" Margin="256,100,0,0" VerticalAlignment="Top" Background="Red" FontWeight="Bold" Width="44" MouseDown="MouseDown" MouseUp="MouseUp"/>
+        <Label Content="PID Goal: " HorizontalAlignment="Left" Margin="256,193,0,0" VerticalAlignment="Top" Width="62"/>
+        <Label Content="Actual: " HorizontalAlignment="Left" Margin="256,219,0,0" VerticalAlignment="Top" Width="62"/>
+        <Label Content="Speed: " HorizontalAlignment="Left" Margin="256,250,0,0" VerticalAlignment="Top" Width="62"/>
+        <Label Content="Current: " HorizontalAlignment="Left" Margin="256,281,0,0" VerticalAlignment="Top" Width="62"/>
+        <Slider x:Name="pidGoalSlider" HorizontalAlignment="Left" Margin="332,197,0,0" VerticalAlignment="Top" Width="139" ValueChanged="Slider_ValueChanged"/>
+        <Slider x:Name="actualSlider" HorizontalAlignment="Left" Margin="332,224,0,0" VerticalAlignment="Top" Width="139" ValueChanged="Slider_ValueChanged"/>
+        <Slider x:Name="speedSlider" HorizontalAlignment="Left" Margin="332,251,0,0" VerticalAlignment="Top" Width="139" ValueChanged="Slider_ValueChanged"/>
+        <Slider x:Name="currentSlider" HorizontalAlignment="Left" Margin="332,278,0,0" VerticalAlignment="Top" Width="139" ValueChanged="Slider_ValueChanged"/>
+        <Label x:Name="spinningLabel" HorizontalContentAlignment="Center" Content="SLIP" HorizontalAlignment="Left" Margin="256,131,0,0" VerticalAlignment="Top" Background="Red" FontWeight="Bold" Width="44" MouseDown="MouseDown" MouseUp="MouseUp"/>
+    </Grid>
+</Window>

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "telnetReceiver", "telnetReceiver\telnetReceiver.csproj", "{4715D268-4E9F-4040-8E2E-D9C2151AF005}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4715D268-4E9F-4040-8E2E-D9C2151AF005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4715D268-4E9F-4040-8E2E-D9C2151AF005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4715D268-4E9F-4040-8E2E-D9C2151AF005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4715D268-4E9F-4040-8E2E-D9C2151AF005}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
